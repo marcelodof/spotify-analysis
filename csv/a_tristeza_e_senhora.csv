@@ -1,557 +1,557 @@
-url,name,artist,explicit,popularity,duration_ms,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,tempo
-https://open.spotify.com/track/3eFepXGITXNDXXHUNqouxi,Shake Me Down,Cage The Elephant,False,54,211373,0.457,0.613,0.0295,0.00463,0.000441,0.0711,0.132,105.11
-https://open.spotify.com/track/51pQ7vY7WXzxskwloaeqyj,Stairway to Heaven - 1990 Remaster,Led Zeppelin,False,68,478173,0.346,0.335,0.0339,0.575,0.00674,0.185,0.213,84.204
-https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK,Stay Alive,José González,False,16,266906,0.716,0.301,0.0365,0.702,0.145,0.0885,0.329,129.997
-https://open.spotify.com/track/3usVf6rhG6vDjcodeavHde,Sozinho - Live In Brazil / 1998,Caetano Veloso,False,1,190496,0.48,0.283,0.187,0.634,0.000168,0.909,0.529,83.736
-https://open.spotify.com/track/0sTr29gwWE4wIxjMLytsOu,If You Believe,Sasha,False,42,239973,0.367,0.522,0.0358,0.115,0,0.109,0.483,82.509
-https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU,Dancing in the Moonlight,King Harvest,False,67,181133,0.657,0.435,0.0552,0.739,0,0.167,0.771,135.975
-https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI,Road Trippin',Red Hot Chili Peppers,False,61,204973,0.243,0.47,0.0353,0.309,0.000798,0.121,0.393,204.026
-https://open.spotify.com/track/4QsnHKvJGVbWJs3Em9Mrcy,Lost Stars,Keira Knightley,False,5,240186,0.515,0.321,0.0271,0.671,1.66e-06,0.112,0.324,81.823
-https://open.spotify.com/track/0THbsvMRmCHpFT3YLX301c,Hey There Delilah,Plain White T's,False,5,232813,0.658,0.296,0.0293,0.872,0,0.114,0.311,103.975
-https://open.spotify.com/track/4PCyzOTAB7zfJaxaS1uLSY,O Vento,Los Hermanos,False,54,213866,0.665,0.685,0.0328,0.0247,1.08e-05,0.088,0.839,137.948
-https://open.spotify.com/track/6kJmZqhB2Pf2442GOCAohB,Morena,Los Hermanos,False,52,178946,0.921,0.342,0.0366,0.478,0.0446,0.0741,0.852,104.029
-https://open.spotify.com/track/3kHQ0iXkcLZ2Sd0T2G7lIF,O Vencedor,Los Hermanos,False,39,200026,0.682,0.881,0.027,0.353,0.263,0.238,0.911,109.999
-https://open.spotify.com/track/0y8muA5wwCKAQmocFB34rR,Não existe amor em SP,Criolo,False,0,280032,0.604,0.412,0.0422,0.391,0.016,0.0759,0.346,142.002
-https://open.spotify.com/track/0ZPquQV2aKmDfwPjvMdvRp,Último Romance,Los Hermanos,False,58,263440,0.406,0.665,0.0286,0.509,0.000641,0.112,0.553,159.997
-https://open.spotify.com/track/2LWW6D1zabtolij6KFXQYm,Cartão Postal,Apanhador Só,False,42,256173,0.527,0.296,0.0347,0.918,0.000398,0.263,0.216,112.995
-https://open.spotify.com/track/1rQZDmnKJIjzzTJrbBeEW2,Behind the Sea,Panic! At The Disco,False,45,213426,0.281,0.679,0.0449,0.173,4.38e-06,0.0919,0.441,80.078
-https://open.spotify.com/track/2sRvY7zmltEJPoEAmUmNgO,Lembranças,Maneva,False,45,195552,0.642,0.341,0.438,0.63,3.55e-06,0.41,0.799,171.945
-https://open.spotify.com/track/3x65lTghySHoonZWlTx0V4,Êxodo,Maneva,False,0,171075,0.753,0.471,0.0378,0.573,0.000475,0.255,0.691,139.92
-https://open.spotify.com/track/2GbnjY2wfLwvujav6CY8Lh,Saudades do Tempo,Maneva,False,0,238889,0.777,0.39,0.224,0.634,0,0.207,0.688,133.856
-https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi,Change the World,Eric Clapton,False,65,234866,0.721,0.558,0.0246,0.492,0.00563,0.113,0.542,96.887
-https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI,Dust in the Wind,Kansas,False,76,206266,0.475,0.322,0.0283,0.367,0.00056,0.11,0.387,93.503
-https://open.spotify.com/track/2YaGZvBfkQ4jiD5cMLIFQV,Same Mistake,James Blunt,False,61,298186,0.46,0.509,0.0263,0.466,0.000434,0.122,0.194,77.613
-https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE,Somewhere Only We Know,Lily Allen,False,63,208154,0.314,0.286,0.035,0.935,0.0258,0.0999,0.278,172.021
-https://open.spotify.com/track/02EPyfWg585VFhagY23aXi,Little Black Submarines,InstaHit Crew,False,3,249681,0.296,0.452,0.0329,0.0124,0,0.0978,0.406,188.946
-https://open.spotify.com/track/2TYC9SaRhYypUQzB1ZVTG2,Use Somebody,Kings of Leon,False,62,230760,0.276,0.715,0.0432,0.00552,0.000417,0.201,0.173,137.028
-https://open.spotify.com/track/1eM1mSOrgwX4wkxJAHkBB8,The Everlasting Muse,Belle & Sebastian,False,34,325275,0.487,0.626,0.0601,0.0797,0,0.0952,0.762,132.256
-https://open.spotify.com/track/3vo4ERKqNiZeOc2UFGksuI,Eu Me Lembro,Clarice Falcão,False,0,217385,0.78,0.184,0.0407,0.664,0.001,0.118,0.299,95.994
-https://open.spotify.com/track/1k02eM50NuPC7EdaaEmeOV,Golden Crown,The Honey Trees,False,13,301080,0.299,0.3,0.0313,0.8,0.000239,0.0717,0.0934,119.985
-https://open.spotify.com/track/3sUyXIFkXNSQh6anbN2mH1,All We Do,Oh Wonder,False,0,214203,0.591,0.26,0.0467,0.978,0.000484,0.109,0.397,126.274
-https://open.spotify.com/track/3E8Ry9jx7zt5lmyc9Lms8O,Port of Call,Beirut,False,8,260973,0.596,0.496,0.0276,0.794,0.0181,0.29,0.375,126.06
-https://open.spotify.com/track/70WyPf8WtXvG3CgeTZZWz6,Nantes,Beirut,False,11,230200,0.541,0.533,0.037,0.786,0.0102,0.138,0.642,131.147
-https://open.spotify.com/track/6Zv4HVHfadVo3JQSSbwY7r,Sentimental,Los Hermanos,False,57,309266,0.646,0.384,0.0287,0.124,0.0119,0.112,0.24,128.009
-https://open.spotify.com/track/4Tfe8Uu9faFdWRiZbpvpXd,Cough Syrup,Young the Giant,False,51,249520,0.534,0.721,0.0417,0.0343,6.24e-06,0.115,0.225,128.978
-https://open.spotify.com/track/1FJ7sEf02HAmfVTEfQvmOV,505,Arctic Monkeys,False,0,253223,0.528,0.869,0.0578,0.00236,5.35e-05,0.0885,0.227,140.249
-https://open.spotify.com/track/00hVU6kDP67JHurfwG2dtq,Hero Of War,Rise Against,False,64,253080,0.645,0.417,0.029,0.543,0,0.0982,0.256,77.054
-https://open.spotify.com/track/3mYKQcFU6USoJpzpkwYdQe,Running With The Wolves,AURORA,False,1,192313,0.562,0.559,0.0549,0.214,7.08e-05,0.45,0.401,164.013
-https://open.spotify.com/track/2CShsvjPh2fbr6VAKLWKQt,Way Back When,Kodaline,False,47,204280,0.632,0.643,0.0328,0.348,0.000146,0.335,0.51,110.046
-https://open.spotify.com/track/3dv9Bvpp9HikNsEvDCKHhC,Spirits,The Strumbellas,False,8,203653,0.553,0.729,0.0266,0.181,0,0.109,0.776,80.503
-https://open.spotify.com/track/58VZtWOA75FCms5fd8H7Zy,Drifting,On An On,False,37,276920,0.424,0.362,0.029,0.0358,0.00157,0.0901,0.0445,101.741
-https://open.spotify.com/track/3f8Uygfz3CIpUCo6H6iNOJ,Slow Dancing in a Burning Room,John Mayer,False,7,242000,0.668,0.361,0.0273,0.573,0.00506,0.0805,0.288,134.15
-https://open.spotify.com/track/5M94rKTC7nECeyOFXjYtrA,Amianto,Supercombo,False,21,257239,0.435,0.522,0.0336,0.157,0,0.307,0.166,126.572
-https://open.spotify.com/track/3j8qhanlFJV4E1u10dNTts,Suicídio ao Contrário,Tópaz,False,25,204324,0.572,0.659,0.0254,0.00156,0.0807,0.078,0.276,148.078
-https://open.spotify.com/track/179NUF6b8tzp3Ni2aMGxgU,Se For pra Tudo Dar Errado,Tópaz,False,36,231020,0.507,0.882,0.0354,0.000918,0.0047,0.0899,0.137,135.02
-https://open.spotify.com/track/06ND7qqsmIRCuWdQNQIlTE,Roda-Viva,Chico Buarque,False,50,233400,0.502,0.512,0.0337,0.793,1.8e-05,0.235,0.651,133.174
-https://open.spotify.com/track/46tLsEFJcVmQveo9hEXUz9,From The Bottom Of My Heart,Stevie Wonder,False,0,311893,0.662,0.798,0.0501,0.266,1.44e-05,0.182,0.718,86.99
-https://open.spotify.com/track/0lhRQ8iLouIRTW8j7WOB9P,Crush,Yuna,False,4,241493,0.672,0.426,0.0444,0.365,3.22e-06,0.0819,0.376,130.024
-https://open.spotify.com/track/2jcnIJ3b2O2rWDjAA2AVPs,No Buses,Arctic Monkeys,False,0,199320,0.51,0.522,0.0332,0.157,8.94e-05,0.0573,0.43,101.348
-https://open.spotify.com/track/1VvyRNSVBKuvENwpyiVlBU,Elephant Gun,Beirut,False,2,345266,0.269,0.628,0.0411,0.856,0.0792,0.0687,0.482,180.036
-https://open.spotify.com/track/6s9LhJVqxnTjmUJHOeawnU,"City Of Stars - From ""La La Land"" Soundtrack",Ryan Gosling,False,7,149706,0.454,0.117,0.0354,0.906,0,0.0888,0.428,97.692
-https://open.spotify.com/track/41pFyxOpS119Pb8JEzhx0w,"Boulevard of Broken Dreams (feat. John Gallagher Jr., Rebecca Naomi Jones, Stark Sands, Company)",Green Day,True,59,262386,0.417,0.647,0.0296,0.0569,1.67e-06,0.0585,0.339,166.12
-https://open.spotify.com/track/6vtLtrPHZAo5OUy1Sk9BTH,Ask Yourself,Foster The People,False,50,263400,0.47,0.89,0.0456,0.000798,1.23e-05,0.196,0.628,154.982
-https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG,Bloom - Bonus Track,The Paper Kites,False,71,210080,0.592,0.416,0.0246,0.882,0.000586,0.112,0.417,96.002
-https://open.spotify.com/track/41s2B5M8P6xwxgpdZ6zzLg,Desde Que o Samba é Samba - Ao Vivo,Caetano Veloso,False,45,247506,0.553,0.33,0.03,0.907,0.038,0.243,0.465,88.003
-https://open.spotify.com/track/18jzP0rBaHJ2gjVhZ5OvKn,Samba De Verao,Caetano Veloso,False,8,187626,0.731,0.299,0.0485,0.889,0.223,0.11,0.46,119.768
-https://open.spotify.com/track/4Bnluy6QiOb4F0ihdalrz9,Shimbalaiê - Live At Citibank Hall/Rio de Janeiro(RJ)-Brazil/2010,Caetano Veloso,False,0,201026,0.559,0.163,0.0389,0.837,8.2e-06,0.801,0.349,79.024
-https://open.spotify.com/track/2UjRAYMdlDCt87Ky0GW4Es,Tomorrow,Nando Dale,False,0,219752,0.675,0.362,0.0301,0.417,0.0104,0.192,0.407,126.984
-https://open.spotify.com/track/6q30SHZFgyyibMdrErLFaS,Dilúvio de Solidão,Criolo,False,0,157946,0.726,0.649,0.0351,0.682,0.00114,0.0864,0.944,98.061
-https://open.spotify.com/track/64ygSCb6X56Uu90GFji1Oo,Menino Mimado,Criolo,False,0,227546,0.828,0.603,0.0356,0.592,0.000842,0.202,0.818,143.942
-https://open.spotify.com/track/3XQ4TLYm122Z10qObjtZ57,Nas Águas,Criolo,False,0,235559,0.756,0.658,0.0506,0.758,1.21e-05,0.0775,0.72,115.833
-https://open.spotify.com/track/0x3J4AkbRh6tO1vav0Derw,Espiral de Ilusão,Criolo,False,0,220813,0.78,0.325,0.0339,0.878,0.000715,0.143,0.469,124.085
-https://open.spotify.com/track/47c0yiND86tZSiOCR2oJ5w,なんでもないや - movie ver.,RADWIMPS,False,0,344053,0.49,0.461,0.032,0.254,0,0.284,0.487,168.125
-https://open.spotify.com/track/0QUiguzo0mWdlBk6Nvujic,You Already Know,Bombay Bicycle Club,False,58,262533,0.662,0.207,0.0427,0.916,0.0698,0.101,0.496,95.466
-https://open.spotify.com/track/26dt6n5cyVRdX7vD8rmUWw,Dream A Little Dream Of Me,Ella Fitzgerald,False,6,185600,0.515,0.162,0.0752,0.916,0,0.168,0.385,78.11
-https://open.spotify.com/track/58fxygPUPdfBIUm9BDv0f7,I Wish I Knew How It Would Feel To Be Free,Nina Simone,False,6,186506,0.694,0.459,0.0819,0.752,0,0.131,0.675,122.534
-https://open.spotify.com/track/7LZPUnAC0rBCXSLIflzE3I,Half The World Away,AURORA,False,7,198946,0.585,0.103,0.0399,0.948,4.51e-06,0.173,0.186,110.919
-https://open.spotify.com/track/70mljElWtJFILbbRqxKf5k,Teenage Sonata,Sam Cooke,False,0,161320,0.343,0.308,0.03,0.795,0,0.381,0.49,81.39
-https://open.spotify.com/track/5hzDqrcTySa1Ek9nRCRd7Q,Carry On,Norah Jones,False,7,168106,0.488,0.22,0.0391,0.929,0.27,0.109,0.391,80.08
-https://open.spotify.com/track/605E2oDpy3uSIhbRFcrQyn,Despair In The Departure Lounge,Arctic Monkeys,False,53,202853,0.316,0.306,0.0411,0.676,0.0025,0.0809,0.284,85.255
-https://open.spotify.com/track/3JO8ZHz8hF9R4XUd7sGE1N,Dois Rios,Skank,False,52,282066,0.528,0.601,0.0259,0.445,0,0.213,0.364,77.05
-https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR,1973 - Acoustic,James Blunt,False,55,209680,0.632,0.378,0.0306,0.884,2.63e-05,0.11,0.347,125.128
-https://open.spotify.com/track/79TEDshMVLibmgLVXolwJ8,Give Me Some Love,James Blunt,False,49,216933,0.64,0.558,0.0321,0.13,8.39e-06,0.11,0.197,92.611
-https://open.spotify.com/track/3fHoLGrV9eZH54eI3vILNQ,"단 한 사람 Because Of You (From '객주'), Pt. 2",TAEIL,False,0,227739,0.334,0.528,0.0291,0.366,0,0.0929,0.195,135.226
-https://open.spotify.com/track/0GyNfI3eKLWQJ5QwXo4WL6,Sunsets For Somebody Else,Jack Johnson,False,4,210480,0.709,0.228,0.0326,0.838,2.2e-05,0.146,0.597,113.098
-https://open.spotify.com/track/0WTQ3OVvyuD49BfO99Q6y7,Sweet Louise,Passenger,False,45,236866,0.659,0.338,0.0336,0.664,0.000912,0.108,0.486,70.267
-https://open.spotify.com/track/0mGJYajNW8Y4T9NxnD6P79,Dreams from Yesterday,Mac DeMarco,False,48,207160,0.857,0.368,0.0409,0.0611,0.000548,0.0703,0.725,97.513
-https://open.spotify.com/track/1KTMZ2DeqT4oqIJ7Co5F6R,This Old Dog,Mac DeMarco,False,58,150546,0.749,0.401,0.0391,0.219,0.0931,0.206,0.616,138.811
-https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v,Still Beating,Mac DeMarco,False,65,181586,0.709,0.496,0.0417,0.581,0.195,0.151,0.469,78.477
-https://open.spotify.com/track/5OHbgQbHzTjolHzWffSrvn,Glass in the park,Alex Turner,False,54,239653,0.553,0.19,0.0298,0.903,0.000227,0.0993,0.299,100.002
-https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY,Stuck on the puzzle,Alex Turner,False,62,211053,0.58,0.682,0.0332,0.0792,0.0316,0.161,0.774,77.53
-https://open.spotify.com/track/5kZD0TTSYAgRzciBtKCmgT,It's hard to get around the wind,Alex Turner,False,54,247013,0.436,0.244,0.0339,0.87,0.000371,0.102,0.359,145.42
-https://open.spotify.com/track/35J9vakuC3f18QTolNAQ6E,Epitáfio,Titãs,False,66,175373,0.723,0.611,0.0303,0.481,1.44e-05,0.11,0.261,111.813
-https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws,Devolva-Me (Ao Vivo),Adriana Calcanhotto,False,59,131426,0.453,0.284,0.0292,0.554,0,0.605,0.183,98.974
-https://open.spotify.com/track/3KlMhwXiTdFjg86xBbDMlB,Vambora (Ao Vivo),Adriana Calcanhotto,False,55,302133,0.381,0.411,0.0285,0.725,2.2e-06,0.0846,0.139,129.376
-https://open.spotify.com/track/0KtpvAIKMUD4wSsHv25IMn,Garota de Ipanema,Toquinho,False,36,150560,0.577,0.614,0.0389,0.311,0.037,0.143,0.713,157.962
-https://open.spotify.com/track/5i2sgqnzaxYpvXmGAB592h,Corcovado - Quiet Nights Of Quiet Stars,Stan Getz,False,13,253933,0.524,0.108,0.0493,0.957,0.00123,0.139,0.322,127.982
-https://open.spotify.com/track/42k3V3GgBKOTuaFEggP8yx,Wave,Antônio Carlos Jobim,False,39,201680,0.52,0.416,0.0381,0.263,4.28e-06,0.314,0.701,144.178
-https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE,Aliança,Tribalistas,False,55,236970,0.641,0.314,0.032,0.96,3.61e-05,0.0991,0.335,132.983
-https://open.spotify.com/track/66O1SfDryBYk9i3RcV5AXq,Trem-Bala - Acústico,Ana Vilela,False,54,176630,0.406,0.345,0.0303,0.794,0,0.113,0.517,96.931
-https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX,Singular,ANAVITÓRIA,False,1,206108,0.744,0.303,0.0341,0.684,2.09e-06,0.109,0.306,119.713
-https://open.spotify.com/track/32Ql8cNUBDyBunvQ1gYsYj,Como uma onda - Zen-surfismo,Lulu Santos,False,22,217026,0.85,0.422,0.0569,0.405,0.000117,0.0541,0.805,116.85
-https://open.spotify.com/track/2TI5GBkbrrFtZRM5v1heeb,Trem Das Onze,Adoniran Barbosa,False,48,184000,0.675,0.449,0.0613,0.541,0.00337,0.069,0.803,91.773
-https://open.spotify.com/track/60TftyBmMIL7wBdM37KuRj,Coração Vagabundo,Gal Costa,False,41,143426,0.518,0.308,0.0451,0.788,0.0571,0.133,0.368,81.149
-https://open.spotify.com/track/1zcO4RvZ3bZwZNTtm9fH0s,Mais Feliz (Ao Vivo),Adriana Calcanhotto,False,36,170026,0.57,0.469,0.0386,0.866,0,0.703,0.234,111.238
-https://open.spotify.com/track/41CHb7F7SXcmkj0h8wekeF,Gloomy Sunday (with Teddy Wilson & His Orchestra) - Take 1,Billie Holiday,False,50,190800,0.484,0.0823,0.0364,0.98,2.47e-06,0.159,0.191,127.089
-https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD,All of Me (with Eddie Heywood & His Orchestra),Billie Holiday,False,60,181440,0.504,0.0644,0.0408,0.972,4.36e-06,0.174,0.403,106.994
-https://open.spotify.com/track/66wg8mmkyOHQwLKHj4ghdi,Fly Me To The Moon,Frank Sinatra,False,7,147146,0.67,0.365,0.0564,0.525,0,0.0575,0.45,119.342
-https://open.spotify.com/track/1iku5uJ91CxXVmgWQt7y7S,All I Ever Want Is You,Tim McMorris,False,18,171366,0.749,0.459,0.0287,0.841,6.67e-05,0.0908,0.456,138.968
-https://open.spotify.com/track/1DlMvkIrN7Rd1LYzy1MXpy,Tigresa - Original Album,Caetano Veloso,False,50,380560,0.553,0.213,0.0921,0.848,1.72e-05,0.112,0.455,129.069
-https://open.spotify.com/track/51cDAyLNT8pQmpDrbkEhSq,Luz Do Sol,Caetano Veloso,False,0,213333,0.31,0.0793,0.043,0.943,0.00382,0.0959,0.168,121.841
-https://open.spotify.com/track/6kCjKljGsnyzXaKKH9Cbgu,Sonhos,Caetano Veloso,False,50,180453,0.626,0.0914,0.0856,0.826,0.000131,0.113,0.471,121.171
-https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF,Strangers In The Night,Frank Sinatra,False,14,157866,0.292,0.487,0.0285,0.615,0,0.178,0.531,93.309
-https://open.spotify.com/track/5E1707ifBAiZp9yJobsebZ,Onde Anda Você,Toquinho,False,1,168426,0.687,0.39,0.0325,0.694,0.0305,0.0946,0.582,109.654
-https://open.spotify.com/track/6tyYK7y3kboS7GQulNtwo5,Pela luz dos olhos teus,Antônio Carlos Jobim,False,20,168226,0.444,0.233,0.0547,0.894,0,0.118,0.775,116.891
-https://open.spotify.com/track/2PPuqvncha4s6dDchGB7eG,Qualquer Coisa,Caetano Veloso,False,0,193333,0.677,0.152,0.0583,0.539,0,0.442,0.723,111.699
-https://open.spotify.com/track/4jMInyPdtYP3mbOTWyOFhh,Carinhoso,Paulinho Da Viola,False,0,112226,0.6,0.28,0.0398,0.788,4.97e-06,0.137,0.263,105.122
-https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV,Preciso Me Encontrar,Cartola,False,54,179933,0.563,0.425,0.0665,0.913,0.0054,0.306,0.679,77.209
-https://open.spotify.com/track/4dDvtBzbQqy7iG5Jfr0qif,Sunday Morning - Acoustic,Maroon 5,False,9,254853,0.418,0.666,0.109,0.571,0,0.709,0.737,82.06
-https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs,Halo,Lotte Kestner,False,62,269920,0.576,0.121,0.036,0.952,0.00111,0.1,0.063,116.826
-https://open.spotify.com/track/2DaVc0C6Yi1VCXFrHNi1aM,Sampa,Caetano Veloso,False,1,196333,0.76,0.0435,0.166,0.605,0,0.26,0.55,114.539
-https://open.spotify.com/track/3m2FNr5FlOyf94Slpae7vy,O último romântico,Lulu Santos,False,43,252306,0.716,0.494,0.0288,0.62,1.28e-05,0.303,0.805,129.864
-https://open.spotify.com/track/2RPHy1PlxehscIM1K1wQMy,Nova Bossa Nova,Marcos Valle,False,1,246400,0.598,0.739,0.0452,0.523,0.725,0.146,0.881,95.018
-https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO,Aonde Quer Que Eu Vá,Os Paralamas Do Sucesso,False,64,257333,0.6,0.537,0.0273,0.509,0.303,0.101,0.316,78.049
-https://open.spotify.com/track/1DnSZ9M8uvX0UebR3dmBNI,Easy,Commodores,False,23,256426,0.589,0.384,0.0332,0.112,2.8e-05,0.0596,0.354,132.909
-https://open.spotify.com/track/05c0xQt46QZBFQs32W5dZB,Tomara,Vinícius,False,39,132173,0.517,0.541,0.0394,0.567,0,0.143,0.827,103.401
-https://open.spotify.com/track/76Zi40dd2HoTn3sehttJhY,My Way,Frank Sinatra,False,14,276800,0.28,0.388,0.0314,0.689,0,0.122,0.223,148.033
-https://open.spotify.com/track/10WmdQPLvZ72KEIVabJDRP,Tudo Na Mais Santa Paz,Vinícius de Moraes,False,0,220171,0.616,0.485,0.0456,0.634,6.35e-05,0.241,0.599,84.697
-https://open.spotify.com/track/7crW4JI0pCXpD8megZliLS,Como Dizia O Poeta,Vinícius,False,35,194133,0.506,0.72,0.0717,0.489,0,0.148,0.95,113.373
-https://open.spotify.com/track/4smh7ZvaEntvNMB8lJmrZR,"I Won't Say (I'm In Love) - From ""Hercules"" / Soundtrack Version",Susan Egan,False,0,140226,0.684,0.481,0.0391,0.228,0,0.157,0.48,121.208
-https://open.spotify.com/track/5UCcfmuRD2N2G0fhJVk2KQ,One,Three Dog Night,False,37,183493,0.567,0.433,0.0337,0.134,3.74e-05,0.11,0.43,124.032
-https://open.spotify.com/track/14HC3Anbaf8Ahwk0swKkJT,Samba Da Volta,Vinícius de Moraes,False,0,173440,0.364,0.485,0.0408,0.842,0.0024,0.173,0.761,86.887
-https://open.spotify.com/track/4lHQCzdK3VdYQvQZnnRouG,Alone Again (Naturally),Gilbert O'Sullivan,False,64,217728,0.558,0.464,0.0354,0.583,0.000133,0.159,0.559,171.762
-https://open.spotify.com/track/0VxocBntP1XTZRsR9ZURPS,La Vie En Rose,Daniela Andrade,False,65,105500,0.475,0.149,0.0395,0.844,0,0.14,0.318,95.423
-https://open.spotify.com/track/21UOaXTxPAFsJoASQiKmLL,Eu Me Chamo Antônio,Versos Que Compomos Na Estrada,False,36,176120,0.42,0.174,0.137,0.9,0,0.376,0.135,172.358
-https://open.spotify.com/track/3GRtME3sE1NG48uO26fSKF,"You've Got a Friend In Me - From ""Toy Story"" / Soundtrack",Randy Newman,False,1,124160,0.689,0.333,0.0307,0.817,5.13e-06,0.285,0.471,115.835
-https://open.spotify.com/track/69l8nFPu0LWmnoJX7YSVYc,You've Got a Friend,James Taylor,False,67,268706,0.695,0.282,0.0295,0.681,0.0267,0.0767,0.445,91.681
-https://open.spotify.com/track/6KahqT8w0AhtBOVtbXJwLf,O Segundo Sol,Nando Reis,False,21,240136,0.506,0.313,0.0397,0.814,0,0.229,0.543,154.759
-https://open.spotify.com/track/3mj6prXmzqkj3PA3lg5ySK,Snowman,Sia,False,12,165906,0.716,0.512,0.0331,0.483,0,0.0928,0.326,104.957
-https://open.spotify.com/track/5UYHuguNOMw8o5oJowbcU5,Saudade fez um samba,João Gilberto,False,1,108346,0.716,0.253,0.0537,0.897,0,0.0843,0.889,87.884
-https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ,Chega de Saudade,João Gilberto,False,44,121986,0.563,0.242,0.0327,0.743,0,0.166,0.647,87.771
-https://open.spotify.com/track/55NFKYoD6rxiAwjT8SCDr6,Florindo,Mariana Aydar,False,35,299560,0.73,0.444,0.0719,0.825,0.000146,0.0646,0.818,88.029
-https://open.spotify.com/track/0Vlm4myT8Dbv33cDOfS2i3,Tristeza,Toquinho,False,24,246453,0.488,0.306,0.0389,0.928,0.793,0.111,0.252,103.437
-https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0,Top to Toe,Fenne Lily,False,54,216415,0.569,0.184,0.0584,0.908,0,0.114,0.309,110.916
-https://open.spotify.com/track/1uP8UVMXcTJn28TbhfR2Wo,Paul,Big Thief,False,63,183894,0.483,0.263,0.0401,0.199,0.000306,0.109,0.166,123.453
-https://open.spotify.com/track/3lAATXL4RhFPysjdODpT4k,Insensatez,Antônio Carlos Jobim,False,28,262293,0.31,0.403,0.0309,0.102,0.000518,0.0801,0.293,129.155
-https://open.spotify.com/track/1goUT7yXysKORNNkcxtpxk,Pensando Em Você,Paulinho Moska,False,53,186693,0.484,0.414,0.0335,0.284,0,0.119,0.467,143.571
-https://open.spotify.com/track/4DnhC8qf5Ujuqv6XrUOMzE,Valeu,Celso Fonseca,False,15,317893,0.611,0.228,0.0307,0.767,0.695,0.112,0.132,96.017
-https://open.spotify.com/track/5cWCu7pGLyOA5ZcnVzolcT,Índia,Roberto Carlos,False,30,222800,0.443,0.396,0.0299,0.674,0.00325,0.122,0.365,178.071
-https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi,Estácio Eu e Você - Ao Vivo,Luiz Melodia,False,46,185706,0.658,0.584,0.168,0.573,1.96e-05,0.728,0.845,81.96
-https://open.spotify.com/track/3ztCt91U2wGkDZuzbCwH6H,Black Hole Sun,Soundgarden,False,12,318586,0.351,0.822,0.0408,0.000185,0.000117,0.0766,0.158,105.503
-https://open.spotify.com/track/1xCbDvw3UNReOWq9BbAThc,O Mundo É Um Moinho,Cartola,False,52,235533,0.485,0.259,0.0578,0.939,0.000323,0.11,0.519,83.637
-https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU,Quando Bate Aquela Saudade,Rubel,False,61,394706,0.55,0.314,0.0326,0.895,0.0107,0.188,0.595,90.088
-https://open.spotify.com/track/623FjLu3438Wk5urTsN4sS,One Last Breath,Creed,False,3,238240,0.39,0.702,0.036,0.00883,0.00207,0.342,0.195,125.686
-https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz,Dreams - 2004 Remaster,Fleetwood Mac,False,78,257800,0.828,0.492,0.0276,0.0644,0.00428,0.128,0.789,120.151
-https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ,Landslide,Fleetwood Mac,False,76,199493,0.414,0.161,0.0318,0.883,0.000223,0.117,0.423,159.375
-https://open.spotify.com/track/6iONcGH0iIzAGKrJUMlOPy,Dirty Work,Steely Dan,False,6,188693,0.625,0.352,0.0318,0.799,9.06e-05,0.0914,0.493,73.03
-https://open.spotify.com/track/69YS619ra1i2BJflnjeMI3,Give Me One Reason - 2015 Remaster,Tracy Chapman,False,39,268240,0.595,0.519,0.0316,0.649,8.09e-06,0.102,0.61,98.506
-https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F,Baby Can I Hold You,Tracy Chapman,False,71,193120,0.692,0.422,0.0333,0.0811,0,0.0848,0.468,74.375
-https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG,Gypsy,Fleetwood Mac,False,68,264906,0.622,0.54,0.0261,0.017,0.00771,0.265,0.847,130.879
-https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR,Rhiannon,Fleetwood Mac,False,67,252773,0.723,0.49,0.0296,0.111,0.0946,0.0923,0.795,129.012
-https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc,The Chain - 2004 Remaster,Fleetwood Mac,False,62,269813,0.522,0.755,0.0524,0.0517,6.63e-05,0.0781,0.637,151.796
-https://open.spotify.com/track/7gOoGHzlmNEUhxl0p11LDs,Tempo de Pipa,Cícero,False,25,222653,0.63,0.495,0.0257,0.846,0.0785,0.11,0.555,109.02
-https://open.spotify.com/track/5ZBSB6VUppEsROi81im6cn,I Was Born To Love You,Freddie Mercury,False,0,219373,0.577,0.674,0.0345,0.0148,1.23e-05,0.441,0.356,139.436
-https://open.spotify.com/track/379wqj7mJ2IIeIQvLtNpDk,Durch die schweren Zeiten,Udo Lindenberg,False,46,234291,0.578,0.503,0.0303,0.148,0,0.104,0.353,145.924
-https://open.spotify.com/track/3CclvSD4a5DMLpOw1gEfKa,Recuérdame (Arrullo),Gael Garcia Bernal,False,0,69813,0.531,0.129,0.0885,0.902,0.000134,0.122,0.0946,150.525
-https://open.spotify.com/track/1IdM9JrXYuMYiTdM983oH4,"Not Spring, Love, or Cherry Blossoms","High4, IU",False,54,195265,0.77,0.484,0.0538,0.464,0,0.44,0.793,79.988
-https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y,Palette (Feat. G-DRAGON),IU,False,66,217412,0.804,0.68,0.2,0.458,0,0.102,0.62,102.013
-https://open.spotify.com/track/3aqTTareFsrd7gMeV7Qvif,How Deep Is Your Love,Bee Gees,False,12,245200,0.633,0.357,0.0264,0.105,0,0.133,0.674,104.938
-https://open.spotify.com/track/5lc0LIe6LLZYM0qjCfepD3,Demorou Pra Ser,Vanguart,False,48,216240,0.47,0.492,0.0305,0.0941,4.94e-05,0.0826,0.549,116.744
-https://open.spotify.com/track/34HzaozRuzF3BSjsMrBqIs,E o Meu Peito Mais Aberto Que o Mar da Bahia,Vanguart,False,42,289560,0.299,0.663,0.0409,0.0288,0,0.48,0.427,127.249
-https://open.spotify.com/track/6HwFsywW6lLyFwpRN7gU18,Starry Starry Night,Lianne La Havas,False,41,283504,0.304,0.279,0.0375,0.933,0,0.118,0.167,86.231
-https://open.spotify.com/track/0C5ex13H3zRMsqSROZu78W,I Put A Spell On You,Nina Simone,False,14,155026,0.42,0.398,0.0296,0.755,0.000537,0.172,0.364,88.897
-https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD,Baltimore,Nina Simone,False,62,278866,0.638,0.28,0.0673,0.417,0.439,0.0611,0.734,154.955
-https://open.spotify.com/track/0Ua1o04WdJ2RNESWxOUnRT,Mood Indigo,Nina Simone,False,0,146626,0.569,0.432,0.0428,0.84,0,0.164,0.531,120.37
-https://open.spotify.com/track/6ePyl2ns4b7MVYhjsj32ZK,Intro: Singularity,BTS,False,63,196998,0.775,0.271,0.092,0.554,0.00285,0.112,0.204,104.001
-https://open.spotify.com/track/17YuXw2ScwLLL1sUrRKhoW,Fantasy,Alina Baraz,False,54,218947,0.68,0.747,0.091,0.353,0,0.138,0.331,113.933
-https://open.spotify.com/track/3rGFsUgyH9GbbYJT4iwbhJ,To Love Somebody,Bee Gees,False,16,182000,0.423,0.384,0.0315,0.729,4.11e-06,0.27,0.521,90.43
-https://open.spotify.com/track/5RXXFTS0PCEc5HcnZ9cyEZ,I'm A Fool to Want You,Frank Sinatra,False,38,175000,0.156,0.125,0.0375,0.927,0.000383,0.0818,0.116,85.772
-https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F,Japanese Denim,Daniel Caesar,True,74,270846,0.707,0.238,0.0379,0.0905,2.42e-06,0.0842,0.345,124.156
-https://open.spotify.com/track/5SFT7iYVPd3eSVphptJ42i,Wasn't Looking,ELIZA,False,46,236662,0.845,0.176,0.0598,0.0858,0.0104,0.109,0.587,82.004
-https://open.spotify.com/track/1BA4OdphRNKQSeHrMHLAWg,Baby Blue,King Krule,False,56,215506,0.468,0.331,0.036,0.613,0.00108,0.129,0.09,102.448
-https://open.spotify.com/track/0258EtxjiL6jPMPcqyVSEQ,Come on Then,Lily Allen,True,42,191400,0.52,0.629,0.179,0.0261,0,0.125,0.32,143.961
-https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM,Apples,Lily Allen,True,44,219866,0.653,0.149,0.0862,0.972,3.27e-06,0.152,0.712,103.706
-https://open.spotify.com/track/7h478wd02smsa9jlda6Son,Three,Lily Allen,False,41,218640,0.529,0.288,0.0267,0.892,0.00029,0.17,0.19,131.794
-https://open.spotify.com/track/0KyzXQhY2yzcb1FYCHkZc2,Blessed,Daniel Caesar,False,66,241370,0.448,0.263,0.0373,0.824,1.91e-06,0.106,0.451,109.889
-https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ,Get You (feat. Kali Uchis),Daniel Caesar,False,76,278179,0.658,0.294,0.0321,0.422,5.2e-05,0.0749,0.358,74.038
-https://open.spotify.com/track/29aLE9yGzY3nlU71GiMrRl,crash,EDEN,True,0,232412,0.505,0.228,0.064,0.872,0.000208,0.119,0.182,119.62
-https://open.spotify.com/track/4HbeGjbt7u3pvwDk1vN7P0,Mystery of Love,Sufjan Stevens,False,71,248964,0.365,0.273,0.038,0.94,0.431,0.109,0.238,132.285
-https://open.spotify.com/track/0sHFw13WH3LtSB3yP8UMYJ,Falling for U,Peachy!,False,77,124000,0.516,0.358,0.424,0.741,1.34e-06,0.0813,0.397,79.509
-https://open.spotify.com/track/5lH3H5LMsBnWfec33fui3w,Through and Through,khai dreams,False,68,113684,0.852,0.424,0.0463,0.383,0,0.0843,0.591,94.934
-https://open.spotify.com/track/2dIPAPCa05Hh2Esift0sVX,Ultimately,khai dreams,False,62,142028,0.734,0.222,0.229,0.896,0,0.343,0.62,106.946
-https://open.spotify.com/track/4Xq5grh3zskbbhW1btJzEp,Feels to Lie,Jalen Tyree,True,31,136463,0.542,0.212,0.557,0.905,1.56e-06,0.164,0.489,74.664
-https://open.spotify.com/track/7nL48xOPl0CraSaxKonp8j,That's Life,Frank Sinatra,False,51,186133,0.458,0.692,0.0485,0.458,0,0.587,0.576,112.755
-https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V,Sugar for the Pill,Slowdive,False,58,270918,0.533,0.545,0.0243,0.207,0.797,0.113,0.419,98.014
-https://open.spotify.com/track/55CenVQ4alvDJ1PS8aYB0m,Alison,Slowdive,False,5,231893,0.279,0.423,0.038,0.00957,0.837,0.128,0.291,101.571
-https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg,Basta Ya,The Marías,False,54,176599,0.766,0.3,0.0375,0.592,0.00158,0.114,0.44,85.996
-https://open.spotify.com/track/4cJOLN346rtOty3UPACsao,I Don't Know You,The Marías,False,65,209449,0.884,0.333,0.0617,0.293,0.0205,0.103,0.587,118.065
-https://open.spotify.com/track/2hINe4TGrBcbiLPHveBvt8,Song for Lovers,The Dø,False,33,144320,0.534,0.181,0.0365,0.928,3.69e-05,0.382,0.24,143.837
-https://open.spotify.com/track/59ONqMEvrUq2iaiQbfRc3q,Por você,Barão Vermelho,False,62,212493,0.645,0.535,0.0286,0.157,1.8e-05,0.72,0.5,136.464
-https://open.spotify.com/track/7CdEv0V9XkmPrIfSELPqGf,Butterfly Dream,Turnover,False,37,207861,0.715,0.607,0.0307,0.226,0.327,0.111,0.739,121.99
-https://open.spotify.com/track/10IhhMK2kwyTHIlAZD8rMw,A Música Mais Triste do Ano,Luiz Lins,False,56,175000,0.499,0.274,0.0573,0.606,0.000733,0.108,0.102,110.757
-https://open.spotify.com/track/5HBHugGwJVVWnnPBubGAY7,Choro Chorado Pra Paulinho Nogueira,Toquinho E Paulinho Noguiera,False,0,169200,0.536,0.265,0.0405,0.953,0.0108,0.139,0.618,155.918
-https://open.spotify.com/track/1P5LNF98A4MgUvqTEXemEu,Um Girassol Da Cor Do Seu Cabelo,Lô Borges,False,48,250333,0.29,0.323,0.0291,0.58,0.000589,0.29,0.174,142.044
-https://open.spotify.com/track/6SEolIp22t0DzeBfCBo3hr,Vibin' Out with ((( O ))),FKJ,False,65,311837,0.41,0.169,0.0485,0.847,0.00327,0.117,0.208,89.494
-https://open.spotify.com/track/6hwrxnBXln6pXeMJc6b6Im,Agua De Beber,Astrud Gilberto,False,3,139253,0.639,0.351,0.04,0.394,1.01e-06,0.0712,0.815,148.057
-https://open.spotify.com/track/6wUp7y502iyWLuLuurlOyw,A Banda,Chico Buarque,False,46,131000,0.67,0.669,0.0476,0.831,6.89e-05,0.101,0.927,118.968
-https://open.spotify.com/track/0XI3xzi3W1sBDfri2FKtj9,João E Maria,Chico Buarque,False,53,141773,0.55,0.33,0.0366,0.683,0.000432,0.0933,0.553,115.131
-https://open.spotify.com/track/2OkORtjlS6pJutIby9jjRx,Tua Cantiga,Chico Buarque,False,42,251480,0.63,0.38,0.0328,0.646,1.27e-05,0.114,0.315,82.033
-https://open.spotify.com/track/0xkjLNqmzIfXB4ONY8kJ1c,Good Little Girl,Adriana Figueroa,False,38,75343,0.42,0.17,0.0314,0.948,8.28e-05,0.167,0.64,135.381
-https://open.spotify.com/track/4P0yLay4gFvWWKxM6egrn7,It's Over Isn't It,Steven Universe,False,59,138006,0.552,0.199,0.0571,0.868,0,0.107,0.4,114.94
-https://open.spotify.com/track/4zdV93zH1PbPAM5f261CvQ,"I Remember You (From ""Adventure Time"")",The Marcus Hedges Trend Orchestra,False,41,196285,0.403,0.0933,0.0313,0.979,0.000554,0.0821,0.124,70.25
-https://open.spotify.com/track/20BJLckTGhiPYaLQox2D2e,"Everything Stays (From ""Adventure Time"")",The Marcus Hedges Trend Orchestra,False,48,111942,0.518,0.157,0.0318,0.978,4.65e-05,0.273,0.469,129.912
-https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR,Cariño,The Marías,False,58,258713,0.647,0.388,0.0297,0.401,0.0453,0.117,0.669,113.98
-https://open.spotify.com/track/4SyNqGP66aYZjtSePnZ3Le,Time to Time,khai dreams,False,45,133894,0.567,0.16,0.157,0.921,0,0.104,0.807,125.492
-https://open.spotify.com/track/2LFELeRAne8UMsIlQJcGYM,9pm on a Sunday,khai dreams,True,45,84000,0.793,0.356,0.143,0.574,4.27e-06,0.0812,0.501,79.992
-https://open.spotify.com/track/60o2QwNYnlEWeMBf5scbWQ,I Wish You Love,khai dreams,False,48,184293,0.7,0.374,0.0687,0.818,0,0.108,0.279,88.028
-https://open.spotify.com/track/53usuYfeK66GLBhm6k7x5e,Fantasy,khai dreams,False,62,170666,0.35,0.43,0.131,0.715,0,0.299,0.203,169.908
-https://open.spotify.com/track/2HD2g1syRNaqanstTj8zfJ,Love Like You (End Credits),Steven Universe,False,63,143629,0.641,0.242,0.0304,0.879,0,0.15,0.294,118.391
-https://open.spotify.com/track/3dglCYsVMjPbDlU2CC9Vq7,Let's See What The Night Can Do,Jason Mraz,False,62,245186,0.392,0.423,0.0348,0.27,0,0.117,0.288,113.537
-https://open.spotify.com/track/2CxmktXqJwP9KZv6WJtZCm,Blue Ain't Your Color,Keith Urban,False,52,230600,0.69,0.416,0.0335,0.617,1.37e-06,0.102,0.479,82.45
-https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g,Somebody Like You,Keith Urban,False,65,323040,0.624,0.84,0.0337,0.108,0.000546,0.144,0.656,111.02
-https://open.spotify.com/track/3KGCF68zDut37Ug3fzWgVU,Saudade,Luiz Lins,False,57,184841,0.607,0.356,0.109,0.782,0.000211,0.15,0.273,138.001
-https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW,This Love,Davichi,False,61,225171,0.405,0.445,0.0337,0.745,0,0.194,0.222,138.76
-https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U,No Surprises,Radiohead,False,70,229120,0.255,0.393,0.0278,0.0577,0.00361,0.113,0.118,76.426
-https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96,Jocelyn Flores,XXXTENTACION,True,85,119133,0.872,0.391,0.242,0.469,4.13e-06,0.297,0.437,134.021
-https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL,Moonlight,XXXTENTACION,True,84,135090,0.921,0.537,0.0804,0.556,0.00404,0.102,0.711,128.009
-https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2,SAD!,XXXTENTACION,True,85,166605,0.74,0.613,0.145,0.258,0.00372,0.123,0.473,75.023
-https://open.spotify.com/track/5xv4WzAs23f6FCEhr1dP3A,Me Cura,Ana Muller,False,0,210034,0.588,0.761,0.0313,0.371,0.000205,0.217,0.479,112.063
-https://open.spotify.com/track/31kZMqAJ4QZFQZnQEhfWL7,Perfume do Invisível,Céu,False,43,308520,0.787,0.355,0.0309,0.803,0.0155,0.0876,0.317,110.023
-https://open.spotify.com/track/6EThJr4Dq1Y93JspecGU2F,Cigarette Daydreams,Cage The Elephant,False,67,208765,0.638,0.668,0.0259,0.0822,0,0.0815,0.299,113.945
-https://open.spotify.com/track/6Jl3ZOX6MUOlyoUc721bsX,A Song About Being Sad,Rex Orange County,True,66,136000,0.568,0.263,0.101,0.891,0,0.183,0.244,111.86
-https://open.spotify.com/track/3rIKurK8njiyQvZQsSU6bl,Nothing,Rex Orange County,True,60,293346,0.725,0.418,0.0309,0.346,1.01e-06,0.0658,0.378,77.923
-https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG,Untitled,Rex Orange County,True,67,135706,0.567,0.199,0.101,0.905,0,0.131,0.329,83.827
-https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC,Best Friend,Rex Orange County,True,80,262231,0.575,0.714,0.0596,0.395,0,0.115,0.32,144.982
-https://open.spotify.com/track/7bdRgiNBaQnGEjl2uqgIGS,Tears Dry - Original Version,Amy Winehouse,True,2,248093,0.419,0.805,0.0456,0.269,3.04e-06,0.183,0.47,169.921
-https://open.spotify.com/track/3ml3WB66sqG4kXoPBX2POA,Janet,Berhana,True,61,204000,0.81,0.308,0.0818,0.354,0,0.0899,0.56,120.012
-https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16,Grey Luh,Berhana,True,64,261102,0.543,0.298,0.0683,0.597,1.49e-06,0.0804,0.254,125.523
-https://open.spotify.com/track/5p8mIi823BET6E9BcJNbwv,Drinkin',JMSN,False,43,283583,0.635,0.56,0.157,0.0246,0.00423,0.301,0.547,129.961
-https://open.spotify.com/track/391cjBOeOMyPTZZl0yUAiF,Cruel Intentions,JMSN,True,1,346657,0.543,0.301,0.0826,0.351,0.000145,0.467,0.284,122.263
-https://open.spotify.com/track/6VOTgBZ6MaF0Snxen78Hv8,Um Dia Útil,Maurício Pereira,False,5,244893,0.622,0.277,0.173,0.926,4.73e-06,0.0901,0.783,104.476
-https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf,Ai de Mim,OUTROEU,False,56,258720,0.391,0.477,0.0276,0.576,0.00137,0.111,0.197,98.758
-https://open.spotify.com/track/2vGvPQNnyybJmiqpr1HiKX,Sorriso ao Sono,Phill Veras,False,48,248480,0.627,0.342,0.0394,0.7,0.166,0.082,0.513,80.03
-https://open.spotify.com/track/4Qq8rERaPWkDuZsvSWR9LL,Volta,O Terno,False,51,222106,0.387,0.154,0.0405,0.967,0.000113,0.113,0.306,83.347
-https://open.spotify.com/track/4q3KkucNQOahEc2e8ZzxWL,I'm Just Snacking,Gus Dapperton,False,4,198000,0.614,0.478,0.0289,0.134,4.52e-06,0.254,0.384,127.994
-https://open.spotify.com/track/4QBs03zMdjDtS6ZRAdojDv,Courtside,Triathalon,False,53,186666,0.668,0.524,0.0391,0.585,0.397,0.252,0.621,139.901
-https://open.spotify.com/track/6iGWH4PRPDwtN9NydaHK8b,Fool,Cavetown,False,69,233785,0.671,0.464,0.149,0.0632,0.073,0.0711,0.131,79.509
-https://open.spotify.com/track/5DC7q4EVZt2vEMZFx4IpzG,Lo Que Siento,Cuco,False,1,312000,0.329,0.685,0.17,0.509,0,0.428,0.412,87.986
-https://open.spotify.com/track/5yyRH93h4Pm6tXXYTxt7ea,The Blower's Daughter,Damien Rice,False,66,286653,0.342,0.2,0.0324,0.134,0.000153,0.341,0.0743,133.113
-https://open.spotify.com/track/2RGe02P8xxSF9syj0ltPjX,Chronic Sunshine,Cosmo Pyke,False,59,270926,0.431,0.773,0.0636,0.0264,0,0.348,0.504,111.387
-https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l,Pretty Girl,Clairo,False,75,178352,0.93,0.611,0.0415,0.593,0.00124,0.0592,0.695,112.127
-https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV,Flaming Hot Cheetos,Clairo,False,75,123884,0.817,0.551,0.133,0.865,0.000151,0.101,0.142,109.966
-https://open.spotify.com/track/7saliZ9OxOgVZvac91pnHH,Lover Is a Day,Cuco,True,1,456000,0.398,0.646,0.0412,0.0454,0.206,0.101,0.353,179.853
-https://open.spotify.com/track/5oIvzNfaG5AvFtXvjAiIDR,Headspin,Alex Siegel,False,35,225750,0.714,0.433,0.03,0.255,0.736,0.7,0.489,157.879
-https://open.spotify.com/track/3Vm6yiTPfhFeUHD4gt42cZ,I Like It,The Marías,False,51,203700,0.919,0.183,0.0614,0.51,0.00205,0.099,0.756,100.018
-https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ,Ruthless,The Marías,False,61,247455,0.673,0.437,0.0325,0.713,0.152,0.117,0.551,104.996
-https://open.spotify.com/track/7bWTJ9aXMNGoQ3rCQEjEWu,take you home,slenderbodies,False,0,230185,0.775,0.541,0.0498,0.165,4.87e-05,0.0929,0.817,97.993
-https://open.spotify.com/track/6k8Z9CtoRLk9mXarke5LHQ,gray,slenderbodies,False,55,183157,0.804,0.581,0.107,0.428,0.000112,0.17,0.417,95.033
-https://open.spotify.com/track/4JaWIJ7I4c6lGbSOvr047W,Chinatown,Harry Teardrop,False,38,230500,0.56,0.539,0.0299,0.493,3.9e-06,0.289,0.46,76.008
-https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV,The Winner Takes It All,ABBA,False,71,294720,0.454,0.788,0.0371,0.574,0.000766,0.0859,0.52,126.15
-https://open.spotify.com/track/6hHXft1nFyvfVv6UoRToPZ,Our Last Summer,ABBA,False,50,259733,0.504,0.528,0.0244,0.72,6.28e-05,0.432,0.414,98.341
-https://open.spotify.com/track/05bnEv2dpFzmGVLGdjD9UP,Orlando,XXXTENTACION,True,66,163840,0.57,0.0279,0.0588,0.859,0.0892,0.254,0.28,84.902
-https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2,Carry On,XXXTENTACION,True,75,129720,0.735,0.197,0.537,0.768,0.000276,0.296,0.383,147.899
-https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7,Everybody Dies In Their Nightmares,XXXTENTACION,True,82,95466,0.734,0.57,0.133,0.847,2.14e-05,0.112,0.689,129.953
-https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW,Revenge,XXXTENTACION,True,74,120026,0.746,0.251,0.259,0.782,0.00203,0.106,0.18,139.999
-https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab,Always Remember Us This Way,Lady Gaga,False,74,210200,0.553,0.502,0.0409,0.299,0,0.764,0.296,129.976
-https://open.spotify.com/track/14JzyD6FlBD5z0wV5P07YI,when the party's over,Billie Eilish,False,25,199931,0.498,0.104,0.0621,0.979,7.86e-05,0.0895,0.205,124.001
-https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k,Hello?,Clairo,False,73,135016,0.839,0.473,0.0607,0.641,0.000459,0.0939,0.0644,98.732
-https://open.spotify.com/track/2TI2fw9FWPeah6N4k1b4NU,This Is Home,Cavetown,False,72,226073,0.81,0.266,0.0407,0.56,1.05e-06,0.0962,0.212,130.041
-https://open.spotify.com/track/5dLkQJdUKnsxZP0OTAynxb,La Luna,KAINA,False,41,130489,0.634,0.404,0.0452,0.857,0.0709,0.0995,0.216,82.22
-https://open.spotify.com/track/5aqu5xhPqoOWqF71PkfgM8,ATTENTION,Joji,True,71,128888,0.787,0.312,0.0383,0.895,0.0224,0.115,0.425,119.899
-https://open.spotify.com/track/48x8fBWfyeSMzLl5gbsjr9,COME THRU,Joji,True,65,153168,0.66,0.596,0.0358,0.163,0.86,0.109,0.0757,77.026
-https://open.spotify.com/track/1DMEzmAoQIikcL52psptQL,TEST DRIVE,Joji,True,73,179423,0.646,0.648,0.0372,0.71,0.00316,0.108,0.466,75.004
-https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14,YEAH RIGHT,Joji,True,78,174357,0.672,0.588,0.133,0.619,0.241,0.0992,0.204,169.033
-https://open.spotify.com/track/39oeKRgsLeynDIbWuXyA47,CAN'T GET OVER YOU (feat. Clams Casino),Joji,False,75,107076,0.9,0.316,0.332,0.684,0.0771,0.0853,0.844,129.914
-https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d,SLOW DANCING IN THE DARK,Joji,True,84,209273,0.515,0.479,0.0261,0.544,0.00598,0.191,0.284,88.964
-https://open.spotify.com/track/5ssuMBqBwZbxN8BCIX5sLo,Everything That Isn't Me,Lukas Graham,False,47,197746,0.702,0.413,0.0961,0.626,3.96e-05,0.103,0.263,75.832
-https://open.spotify.com/track/6iuKYlSk5PxQ3P8O4OrLcj,Lullaby,Lukas Graham,False,47,191813,0.658,0.493,0.0303,0.077,0,0.108,0.524,139.829
-https://open.spotify.com/track/2GUMnvJq9GUWH5d9XRgTeP,You're Not the Only One (Redemption Song),Lukas Graham,False,52,183640,0.653,0.419,0.0414,0.293,0,0.111,0.366,98.983
-https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1,Love Someone,Lukas Graham,False,71,205440,0.538,0.409,0.0505,0.172,0,0.11,0.265,171.838
-https://open.spotify.com/track/1xRn1GOSJCqf0HxFEB200o,Promise,Lukas Graham,False,46,194120,0.767,0.508,0.0457,0.398,0,0.136,0.687,95.97
-https://open.spotify.com/track/5VSlplWVGj9b3HBUJ7Gsnz,Stick Around,Lukas Graham,False,47,192613,0.369,0.45,0.0411,0.478,6.97e-06,0.111,0.126,185.961
-https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q,4EVER,Clairo,False,71,159595,0.75,0.585,0.0285,0.049,0.00552,0.155,0.584,102.331
-https://open.spotify.com/track/556b0qVFXcn1eXz1JYXHKg,Your Loving,Will Davila,False,43,205502,0.692,0.38,0.0392,0.533,0.129,0.379,0.764,87.63
-https://open.spotify.com/track/3ishRxjsqYVk6FdAGeeUAP,Set Piece,Vansire,False,53,199490,0.541,0.483,0.0514,0.351,0.4,0.111,0.641,80.73
-https://open.spotify.com/track/5HR0ti4siqbTIr1BitbZ7d,Eu Tô Bem,Luiz Lins,False,57,134504,0.851,0.496,0.241,0.527,1.96e-06,0.106,0.803,116.015
-https://open.spotify.com/track/3k1Hjff2PVHCeFEhNLCtSa,Vem Cá,Altamira,False,0,166661,0.753,0.396,0.133,0.525,0,0.182,0.724,80.951
-https://open.spotify.com/track/36CKza28wMxYdjdzji7ine,I Started A Joke,Bee Gees,False,64,188306,0.31,0.464,0.0275,0.156,8.94e-06,0.132,0.431,144.775
-https://open.spotify.com/track/7McZS9J6h0SKoZBR6cfcFe,Apocalypse,Cigarettes After Sex,False,58,290616,0.369,0.465,0.0277,0.0211,0.6,0.109,0.177,94.435
-https://open.spotify.com/track/3QQaF7h44OcBlapuE0yWiC,Young & Dumb,Cigarettes After Sex,True,44,273896,0.39,0.52,0.0284,0.515,0.711,0.101,0.239,96.566
-https://open.spotify.com/track/7goptIL8LlgQy5aoVvSncR,You,Jacquees,True,0,217360,0.744,0.45,0.067,0.4,0,0.129,0.325,114.945
-https://open.spotify.com/track/6tHWl8ows5JOZq9Yfaqn3M,Mine,Bazzi,True,12,133994,0.716,0.805,0.0856,0.014,3.1e-06,0.291,0.719,142.886
-https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym,Who Hurt You?,Daniel Caesar,True,72,231964,0.649,0.493,0.11,0.586,0.000167,0.0667,0.277,104.542
-https://open.spotify.com/track/6d4E3KLrX4xiwx1DiIJefO,Petty Lover,Jaz Karis,True,54,160654,0.763,0.362,0.572,0.803,4.67e-06,0.16,0.587,119.855
-https://open.spotify.com/track/1Zz26uUewyiMfQEKYgZ7oh,Cordao,Chico Buarque,False,33,149480,0.515,0.709,0.0302,0.301,0.000147,0.152,0.844,151.557
-https://open.spotify.com/track/3FIuBxOxuQ6kYy8JO0gq2a,Construção,Chico Buarque,False,55,383626,0.479,0.725,0.0298,0.24,1.19e-05,0.158,0.595,126.727
-https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU,Cotidiano,Chico Buarque,False,51,168373,0.477,0.835,0.0533,0.38,8.3e-06,0.062,0.778,89.855
-https://open.spotify.com/track/4plcy0Ax6tiHdeOapKX4bA,High Tide,Sleep Good,False,3,192866,0.734,0.772,0.0357,0.671,0.972,0.0854,0.835,125.913
-https://open.spotify.com/track/3DjjbSZk16kPEpgjF0OCYN,888,Cavetown,False,53,215429,0.403,0.324,0.0425,0.845,3.23e-06,0.0688,0.25,176.147
-https://open.spotify.com/track/2lJ2dR5kqK6BE4gzh5YfsK,Juliet,Cavetown,False,57,278991,0.547,0.586,0.0313,0.00346,0.0011,0.0562,0.363,131.785
-https://open.spotify.com/track/0ZXBFuXNtWSEFA3OWWSMCl,Waterfall,RICEWINE,True,42,280569,0.81,0.389,0.0451,0.845,0.858,0.343,0.124,119.984
-https://open.spotify.com/track/1zXX9sBeDiUDy4ugl8HrW5,Dreams / Nightmares,RICEWINE,True,43,242423,0.732,0.694,0.0519,0.523,0.116,0.136,0.306,96.045
-https://open.spotify.com/track/4dkFG1pSn2czTCkLncpnep,Naquela Mesa,Nelson Gonçalves,False,49,182293,0.667,0.563,0.0375,0.722,0,0.1,0.848,116.941
-https://open.spotify.com/track/3iRsaOIjbyTpFX9xWyWQz3,Noturna (Nada de Novo na Noite),Silva,False,40,156933,0.444,0.232,0.0311,0.974,3.15e-05,0.225,0.541,77.035
-https://open.spotify.com/track/3oVI4L3rUkawtbRo2GsOZh,Sambinha Bom,Mallu Magalhães,False,47,175106,0.654,0.406,0.054,0.762,0.00824,0.261,0.579,143.976
-https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH,I Get Along Without You Very Well (Except Sometimes) - Vocal Version,Chet Baker,False,56,179640,0.442,0.033,0.041,0.922,0.000171,0.151,0.21,103.34
-https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe,It's Always You - Vocal Version,Chet Baker,False,60,215466,0.499,0.0341,0.0417,0.923,5.27e-05,0.131,0.31,81.735
-https://open.spotify.com/track/0CaqEVnLB5plVzrlrMjfKT,Like Someone In Love - Remastered,Frank Sinatra,False,31,188853,0.334,0.153,0.0328,0.943,0.000964,0.115,0.179,59.878
-https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof,My Funny Valentine - Remastered,Frank Sinatra,False,48,150666,0.257,0.125,0.0332,0.891,0,0.108,0.245,84.93
-https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar,But Not For Me,Diana Krall,False,44,185306,0.52,0.0503,0.0433,0.976,1.22e-06,0.123,0.296,105.371
-https://open.spotify.com/track/1HEGcv63IZ7TPncpVKdVdN,My One And Only Love,John Coltrane,False,57,294306,0.466,0.0718,0.0374,0.984,0.000931,0.107,0.196,121.885
-https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc,I Fall In Love Too Easily - Vocal Version,Chet Baker,False,63,201440,0.532,0.0657,0.0406,0.94,0.00488,0.0946,0.292,128.607
-https://open.spotify.com/track/1nX1R4vMHDeyliGNuTAjnH,O Tiro,Scatolove,False,42,143230,0.615,0.223,0.0353,0.81,5.84e-06,0.332,0.237,129.8
-https://open.spotify.com/track/4Sr6N2pJXCb5VjdknAjblG,"What Is Love? Tell Me, Is It Easy?",Hala,False,57,230546,0.801,0.41,0.0322,0.187,0.0258,0.0993,0.719,125.133
-https://open.spotify.com/track/6OCFXXVmoPFtidXA7ey1SI,Great Dane,Cosmo Pyke,False,54,478037,0.498,0.692,0.176,0.104,0,0.0688,0.577,136.662
-https://open.spotify.com/track/1ahzHj4rfljE8w4ZwpEjOM,A Little While,Yellow Days,False,64,318147,0.577,0.604,0.0332,0.182,0.00211,0.205,0.351,99.997
-https://open.spotify.com/track/28ef1nIQqtnYbnAtR8AIiu,That Distant Shore,Adriana Figueroa,False,36,96384,0.619,0.214,0.0461,0.811,0,0.152,0.314,126.72
-https://open.spotify.com/track/2ilm46mO1B10paauIyloxK,idontwannabeyouanymore,Billie Eilish,False,2,203569,0.483,0.418,0.0468,0.755,0,0.115,0.252,170.265
-https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib,bitches broken hearts,Billie Eilish,True,78,176471,0.777,0.422,0.0482,0.919,0.00877,0.0958,0.187,120.041
-https://open.spotify.com/track/3xDvZswTmnHBWsB39z6Sbn,Six Feet Under,Billie Eilish,False,3,189613,0.573,0.3,0.0366,0.803,0.000338,0.0773,0.181,67.511
-https://open.spotify.com/track/1kPaBQZpY8h8U4tynEHzLz,Curió,República Popular,False,0,224666,0.307,0.485,0.0247,0.184,0.115,0.664,0.431,96.222
-https://open.spotify.com/track/5OHZ5in2h3NLndNHCnJzEX,Cheek To Cheek - 2006 Digital Remaster/24 Bit Mastering,Frank Sinatra,False,33,186666,0.581,0.34,0.0584,0.605,0,0.145,0.876,83.054
-https://open.spotify.com/track/3wwXUFIYX044Tqiy3AFpLO,Something Stupid (feat. Reese Witherspoon),Michael Bublé,False,60,177626,0.573,0.719,0.026,0.572,0.000555,0.332,0.548,99.349
-https://open.spotify.com/track/2SbsvihBJmgNKZ4qkXFWrp,More Than Words,Extreme,False,74,334040,0.623,0.127,0.0306,0.452,0,0.114,0.237,91.625
-https://open.spotify.com/track/0WhSUlLPKdXOEU4JPqktuo,Conselho do Bom Senso - Ao Vivo,Tuyo,False,20,278126,0.662,0.197,0.0528,0.814,2.59e-05,0.078,0.421,138.11
-https://open.spotify.com/track/1At06Lay1AIzDZN9YSacXC,A Song For Two,Hiroshi Fujiwara,False,10,351330,0.513,0.619,0.0348,0.239,0,0.0963,0.802,84.889
-https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk,Dark Red,Steve Lacy,False,69,173104,0.603,0.783,0.062,0.449,7.96e-06,0.119,0.775,172.041
-https://open.spotify.com/track/2VAlwOewe5c40VHyqozF1V,"Steady, As She Goes",The Raconteurs,False,11,215266,0.534,0.605,0.113,0.00865,0.00826,0.0781,0.56,123.003
-https://open.spotify.com/track/4NTdYJx7s9KN0Xq8JEqbff,I Shall Be Released,Phillip Long,False,14,374977,0.563,0.383,0.0307,0.0951,0.000167,0.0872,0.128,150.156
-https://open.spotify.com/track/1M321puDN1WBd5NF0ogOKW,Habit,Still Woozy,True,11,153857,0.766,0.402,0.107,0.27,0.0007,0.106,0.466,125.107
-https://open.spotify.com/track/5qgXYwcKp3HCThS6o2YmCb,Devil Town,Cavetown,False,52,270037,0.624,0.467,0.0257,0.0777,0,0.21,0.581,79.985
-https://open.spotify.com/track/3fKOMqJToZH96WgR8zzN7h,Bae Caught Me Vapin',Fantasy Guys,False,44,214248,0.785,0.478,0.0456,0.692,0.00122,0.0626,0.633,140.009
-https://open.spotify.com/track/3Dtr5e9OQGML2f48A6mw9P,Running,Nicotine's Famous Honey,True,1,247769,0.454,0.393,0.0417,0.825,0.275,0.106,0.181,110.072
-https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD,D (Half Moon),DEAN,False,62,229359,0.512,0.765,0.136,0.246,0,0.0573,0.519,169.709
-https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN,instagram,DEAN,False,67,255728,0.463,0.566,0.145,0.196,0,0.284,0.219,93.921
-https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM,Jasmine,DPR LIVE,False,61,201510,0.597,0.486,0.0986,0.331,0,0.14,0.397,137.68
-https://open.spotify.com/track/6wcRv0UBvEH9NCIA3IVyQs,love,DEAN,True,55,258226,0.582,0.67,0.0483,0.00125,0.000669,0.105,0.37,109.993
-https://open.spotify.com/track/1dN4Z7wZTQXLEl33RkMO3a,Text Me,DPR LIVE,False,59,177342,0.846,0.592,0.28,0.146,0,0.258,0.757,134.024
-https://open.spotify.com/track/79gYyZ45D8JlRc3kXY03RP,Lost 2,"Car, the Garden",False,21,245453,0.651,0.391,0.0346,0.338,1.94e-05,0.103,0.214,76.007
-https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98,Dance,offonoff,False,52,219034,0.805,0.393,0.0339,0.717,6.56e-06,0.105,0.407,89.03
-https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E,Photograph,offonoff,False,54,239002,0.597,0.458,0.0609,0.809,0,0.105,0.184,90.15
-https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh,"Cigarette (Feat. Tablo, MISO)",offonoff,False,58,241765,0.776,0.392,0.207,0.271,2.21e-06,0.14,0.438,87.98
-https://open.spotify.com/track/1cBNzkPsAdI7XJaKIsjKUk,"Girl, Interrupted",2xxx!,True,44,180972,0.513,0.379,0.171,0.259,3.05e-05,0.0711,0.0619,85.645
-https://open.spotify.com/track/4BCBOgxOIACmIHlZeWCfZk,Piss On Me,2xxx!,True,37,193375,0.832,0.446,0.232,0.0733,4.18e-05,0.366,0.423,90.007
-https://open.spotify.com/track/5bSOXk0zkFAyVKNrPgWUsk,Who's Lovin' You,The Jackson 5,False,41,239333,0.355,0.422,0.0297,0.785,4.22e-05,0.209,0.381,80.04
-https://open.spotify.com/track/2GgkDNXh1oR5utPgCO7Jog,I'll Be There,The Jackson 5,False,20,236493,0.512,0.566,0.0264,0.564,1.51e-05,0.714,0.319,93.858
-https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G,Tired of Being Alone,Al Green,False,67,172320,0.772,0.397,0.0391,0.339,0.00541,0.0753,0.617,97.964
-https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y,Let's Stay Together,Al Green,False,73,199396,0.756,0.397,0.0522,0.57,0.0115,0.0542,0.507,101.985
-https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel,Love and Happiness,Al Green,False,60,307062,0.822,0.457,0.235,0.214,0.000397,0.0766,0.73,99.16
-https://open.spotify.com/track/4uDWmlaVBBbGzwUjF0WDB4,Bed Bugz,Alxndr London,False,18,206583,0.771,0.436,0.0733,0.541,0.0112,0.0866,0.334,90.008
-https://open.spotify.com/track/23DIXeB8XEEh4BzaTcgKBS,April,Alxndr London,False,34,225374,0.54,0.528,0.166,0.707,0.000612,0.108,0.55,124.088
-https://open.spotify.com/track/5v2AYSvjVC8j89avkf56LY,Jupiter & Pluto,Alxndr London,False,29,211445,0.659,0.524,0.0865,0.587,0.018,0.106,0.321,129.832
-https://open.spotify.com/track/7pdF27mSDuPWhppnHAmWHa,whoa (mind in awe),XXXTENTACION,False,73,157776,0.735,0.525,0.0441,0.653,0.918,0.101,0.369,160.147
-https://open.spotify.com/track/01w1oN1WO5aOThHnLBN8eS,American Spirits,Inner Wave,True,58,170000,0.5,0.824,0.0285,0.0509,0,0.102,0.877,158.073
-https://open.spotify.com/track/69Tf2qK9sYOi1ncnXrfIUV,1 4 2,Inner Wave,False,48,305467,0.701,0.692,0.0372,0.179,0.00999,0.0994,0.561,114.96
-https://open.spotify.com/track/4YLTFu7iyC3q34dvf5hRDq,Eclipse,Inner Wave,False,13,183633,0.644,0.748,0.0291,0.394,0.91,0.358,0.732,120.007
-https://open.spotify.com/track/34HAlaqKnkgvYMXuAO3hoU,Loveleen,Rejjie Snow,True,51,170661,0.761,0.43,0.191,0.478,0.0287,0.0891,0.728,83.024
-https://open.spotify.com/track/4uToWVHXLtKEEboNsG3n2u,Egyptian Luvr (feat. Aminé and Dana Williams),Rejjie Snow,True,61,256613,0.834,0.591,0.305,0.0553,0,0.074,0.9,104.944
-https://open.spotify.com/track/1r3M82sqImOu3AUwRdELRT,23,Rejjie Snow,True,59,181613,0.803,0.637,0.105,0.276,1.68e-05,0.22,0.5,97.032
-https://open.spotify.com/track/0JcQWyqbz2pl8Pp53mka2d,88,Inner Wave,False,0,233747,0.656,0.63,0.0322,0.0947,0.417,0.133,0.653,117.054
-https://open.spotify.com/track/6omtWgXFEAeIoyEkiMFe9o,Casual Encounters,James Tillman,False,42,214227,0.408,0.344,0.0808,0.852,0.541,0.0941,0.159,150.03
-https://open.spotify.com/track/7B7oncgJZ6AvkmKg6IZwpE,Sinatra,Joy Crookes,False,38,183151,0.565,0.685,0.192,0.448,1.43e-05,0.0946,0.581,131.86
-https://open.spotify.com/track/6R7LF2nY3kIExm30uiQNya,So Badly (Album Version),JMSN,False,34,298250,0.614,0.55,0.0376,0.208,0.000156,0.0412,0.493,154.624
-https://open.spotify.com/track/64ka8E2PpNo4NxSCiRBj1H,Why Don't You,Cleo Sol,False,59,232258,0.512,0.594,0.101,0.333,0.105,0.057,0.549,94.546
-https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,False,86,158040,0.76,0.479,0.0466,0.556,0,0.0703,0.913,89.911
-https://open.spotify.com/track/3KS09EvUKTtPgTHbBBsLCw,Follow the Sun,Xavier Rudd,False,20,255493,0.613,0.391,0.0385,0.532,2.63e-05,0.109,0.218,123.985
-https://open.spotify.com/track/6Rt6KwuF7I8ZkdZG2G0bYr,The Only Thing,Sufjan Stevens,False,65,284130,0.519,0.145,0.0392,0.987,0.0643,0.108,0.487,158.975
-https://open.spotify.com/track/6SWHTMywuTXLFlMQ75cAuu,Keep Me,Khalid,False,62,276226,0.778,0.574,0.0327,0.368,0,0.126,0.663,112.048
-https://open.spotify.com/track/4V3VshJLUTCIWa77YiAkvM,Winter,Khalid,False,64,241866,0.678,0.575,0.123,0.101,9.38e-06,0.116,0.367,100.007
-https://open.spotify.com/track/2oVyKK5NH2oawyrDZJn581,'Cause I'm A Man,Tame Impala,True,8,241985,0.537,0.695,0.0371,0.103,0.00315,0.134,0.626,144.674
-https://open.spotify.com/track/1ujxjsoNvh4XgS2fUNwkZ2,Space Song,Beach House,False,54,320466,0.509,0.79,0.0293,0.218,0.125,0.144,0.625,147.073
-https://open.spotify.com/track/0ARp9mXXpPflIwehy25kCa,Big Sis,SALES,False,60,166400,0.825,0.482,0.0378,0.876,0.209,0.101,0.338,99.991
-https://open.spotify.com/track/67LKZcv1J2Yj4pk5UIuFQW,Warned You,Good Morning,False,4,133128,0.507,0.428,0.0263,0.662,0.149,0.101,0.406,138.163
-https://open.spotify.com/track/6B1Q7hi48RVUvak1SLoiJX,Venus Flytrap,Feng Suave,False,52,222122,0.611,0.453,0.0296,0.533,1.78e-05,0.115,0.4,130.925
-https://open.spotify.com/track/496vdGaX5HCCVjKVl4rIlF,Seventeen,Summer Salt,False,39,206786,0.659,0.558,0.0275,0.734,0.0856,0.35,0.594,109.993
-https://open.spotify.com/track/5Qp0kgAx5weYcq9OXpXwzM,Revvin' My CJ-7,Summer Salt,False,40,169160,0.76,0.418,0.0407,0.826,1.35e-05,0.104,0.341,119.883
-https://open.spotify.com/track/78ECvz2vs1obDkLdbMEdJK,Driving to Hawaii,Summer Salt,False,59,188183,0.346,0.637,0.0403,0.719,2.03e-05,0.263,0.297,186.836
-https://open.spotify.com/track/4qkwbl6SxwLE09pxLAFINt,Sweet to Me,Summer Salt,False,59,204306,0.563,0.51,0.0283,0.677,3.8e-06,0.305,0.501,97.467
-https://open.spotify.com/track/3iFYY09Z5yoNy1QnJBt4AR,Candy Wrappers,Summer Salt,False,60,194418,0.692,0.546,0.0262,0.696,0.415,0.302,0.483,95.042
-https://open.spotify.com/track/197W2OQ1Khv8gnO0ZSBNq7,Oh Dear,Summer Salt,False,43,212133,0.707,0.468,0.0269,0.373,6.72e-06,0.106,0.553,102.627
-https://open.spotify.com/track/0U0gZhiusaKvvqHe8w7B1X,Bones,Crumb,False,1,193986,0.535,0.605,0.0355,0.164,0.401,0.558,0.399,90.922
-https://open.spotify.com/track/0npSmMSYZ6zCfNrjtOjwpE,So Tired,Crumb,False,2,218173,0.488,0.398,0.0463,0.209,0.0239,0.0852,0.357,113.518
-https://open.spotify.com/track/4KDVWd4zUHrfJHyuOuvLJP,Plants,Crumb,False,1,191904,0.494,0.406,0.0416,0.607,0.53,0.122,0.219,81.067
-https://open.spotify.com/track/26AhgCPP2OKAnF4AyBf2Kg,Locket,Crumb,False,4,318378,0.393,0.481,0.0273,0.758,0.73,0.0869,0.0763,98.462
-https://open.spotify.com/track/0YUP8ar1GNHPFqMwUM7xCE,Recently Played,Crumb,False,1,120454,0.57,0.334,0.0312,0.692,0.172,0.226,0.124,113.546
-https://open.spotify.com/track/2T64m94VBrsEISkAYq6Cnq,Cooks,Still Woozy,False,22,174105,0.363,0.579,0.0986,0.446,0.0127,0.264,0.719,78.032
-https://open.spotify.com/track/2QRk4N7GObZRGyhKjUHZhP,Dizzy On the Comedown,Turnover,False,52,255773,0.619,0.632,0.0274,0.431,8.61e-06,0.0897,0.264,114.966
-https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm,Wake Me up When September Ends,Green Day,False,75,285653,0.546,0.814,0.0314,0.023,0,0.0972,0.146,104.98
-https://open.spotify.com/track/4cZGdje7UXxBsJViy2Cs8Z,Coração selvagem,Belchior,False,47,284040,0.331,0.668,0.0656,0.0108,3.13e-06,0.177,0.478,93.357
-https://open.spotify.com/track/1UsAjRCSavihMYsspqJz4e,Sujeito De Sorte,Belchior,False,56,196560,0.455,0.407,0.0988,0.291,0.000235,0.067,0.442,167.385
-https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7,Anunciação,Alceu Valença,False,64,288160,0.539,0.745,0.0279,0.451,0.000239,0.103,0.78,99.923
-https://open.spotify.com/track/7CdDIvw3jvjNaIs5m3mM4A,La Belle De Jour,Alceu Valença,False,61,268760,0.644,0.404,0.0348,0.159,0.000291,0.167,0.689,105.061
-https://open.spotify.com/track/1b95iTuFa05xohamPS1qzK,Lua e Flor,Oswaldo Montenegro,False,49,292026,0.238,0.317,0.0311,0.671,0.00979,0.913,0.162,70.641
-https://open.spotify.com/track/7azaUeZjFTpxUbpTFsZPX4,A lista,Oswaldo Montenegro,False,51,179266,0.463,0.5,0.0665,0.558,0,0.982,0.331,89.87
-https://open.spotify.com/track/6pCKtQVceXMMDFAXOM0f5r,Bandolins,Oswaldo Montenegro,False,42,258973,0.503,0.412,0.0526,0.719,0,0.0949,0.482,106.215
-https://open.spotify.com/track/41raJNApCvmvEMIHTPLMXu,Milla - Versão Estúdio,Netinho,False,40,301413,0.449,0.817,0.0663,0.148,0,0.211,0.485,144.247
-https://open.spotify.com/track/4XlaqUspMU73ZWXLG8Zlwc,Simples Desejo,Luciana Mello,False,49,283133,0.635,0.594,0.0382,0.334,0.000901,0.366,0.392,82.013
-https://open.spotify.com/track/2zkvq99AeX8CwdpoShW0O3,Desacostumei de Carinho - Ao Vivo,Alcione,False,28,204461,0.682,0.493,0.0349,0.727,0.000147,0.752,0.3,98.002
-https://open.spotify.com/track/0PgsB53yhlKs8D19LgYU4i,Se...,Djavan,False,67,291533,0.575,0.392,0.035,0.609,7.45e-05,0.0624,0.498,179.789
-https://open.spotify.com/track/3iof6EclqePezHDibBiykI,Oceano,Djavan,False,59,296106,0.665,0.479,0.0247,0.551,0.000548,0.286,0.154,92.864
-https://open.spotify.com/track/34dfSRZXC8qvYm3Uo6mqqK,Dia Branco,Geraldo Azevedo,False,47,128906,0.43,0.213,0.0289,0.93,3.37e-06,0.109,0.12,72.333
-https://open.spotify.com/track/5uTL4NNdF9v04raxadx1Zy,Why? (The King of Love Is Dead) - Live,Nina Simone,False,15,347760,0.476,0.125,0.0467,0.902,0,0.934,0.284,88.199
-https://open.spotify.com/track/0TOQzBpLfNCteJ4y0H84w7,Ain't No Sunshine,Al Jarreau,False,39,120960,0.449,0.508,0.0849,0.131,1.5e-05,0.15,0.477,74.662
-https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc,i love you,Billie Eilish,False,84,291796,0.421,0.131,0.0382,0.952,0.00453,0.109,0.12,137.446
-https://open.spotify.com/track/062zhcWzYvj5c8kFRuqbRI,Amarela Paixão,Liniker e os Caramelows,False,41,241883,0.292,0.194,0.0278,0.876,0.063,0.232,0.341,80.025
-https://open.spotify.com/track/2myQE9T8UAbl5u6Wg3UT2J,Intimidade,Liniker e os Caramelows,False,55,194882,0.459,0.0566,0.0462,0.965,2.67e-06,0.0742,0.316,110.86
-https://open.spotify.com/track/6HE5bKXwlqXezRp0ublZHn,Ruiva,Natália Carreira,False,25,303077,0.631,0.31,0.0259,0.757,2.25e-05,0.0997,0.288,98.939
-https://open.spotify.com/track/3mR3mLX0VEq6zSushpmPJu,Geminiana,Natália Carreira,False,28,253300,0.487,0.335,0.0329,0.759,5.51e-06,0.111,0.123,129.6
-https://open.spotify.com/track/4COPnBGopMFKcP9qkgqVut,Campos,Natália Carreira,False,29,222461,0.709,0.41,0.0404,0.508,0.000872,0.586,0.0847,129.723
-https://open.spotify.com/track/3XEtw7t4V5sfd2vtkp0ql7,Smooth Operator - Single Version,Sade,False,65,258693,0.734,0.581,0.032,0.24,0.000585,0.0298,0.962,119.337
-https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT,Just the Two of Us (feat. Bill Withers),"Grover Washington, Jr.",False,65,237106,0.803,0.488,0.0803,0.576,0.0609,0.0763,0.624,95.771
-https://open.spotify.com/track/2GsvXMAz16fKroAmaCxLfL,Você mentiu,Anitta,False,57,179268,0.809,0.328,0.0351,0.648,1.51e-05,0.107,0.304,82.01
-https://open.spotify.com/track/3KgNRsopCyrO211RJnfLA0,Quiçá,Labaq,False,0,290840,0.483,0.115,0.0613,0.94,0.0273,0.113,0.102,175.682
-https://open.spotify.com/track/1ZseaIKt19broBzze3F8hz,"Hello, Anxiety",Phum Viphurit,False,59,264761,0.84,0.495,0.0406,0.589,0.552,0.103,0.808,125.993
-https://open.spotify.com/track/0v4AHLqKlUSBLPFvqtv4qr,"For Just One Day Let's Only Think About (Love) [From ""Steven Universe""]",Steven Universe,False,48,228727,0.534,0.459,0.0371,0.621,0,0.0715,0.34,120.683
-https://open.spotify.com/track/0qQECnsBqoacXBhcvkP4ZW,Change Your Mind,Steven Universe,False,30,53454,0.487,0.0139,0.0433,0.985,1.15e-05,0.138,0.257,81.262
-https://open.spotify.com/track/4qu0A9ZSjHVtJnDY9utp4M,Escapism,Steven Universe,False,25,121299,0.476,0.131,0.0476,0.959,0.0108,0.098,0.307,79.331
-https://open.spotify.com/track/4wz8WXY76grLLntXDKEUqz,Familiar,Steven Universe,False,23,150545,0.609,0.237,0.0491,0.578,0,0.146,0.553,92.626
-https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe,"Sem Nome, Mas Com Endereço",Liniker e os Caramelows,False,50,269120,0.219,0.234,0.0328,0.899,0.000803,0.0769,0.144,78.991
-https://open.spotify.com/track/6zR3jAXgWCs9wmW1r4XGyk,Make Me Cry,Pip Millett,True,57,162973,0.551,0.357,0.503,0.587,0.000167,0.123,0.494,184.479
-https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR,Redbone,Childish Gambino,True,80,326933,0.743,0.347,0.121,0.167,0.00951,0.103,0.572,160.143
-https://open.spotify.com/track/6NblUCwJXYkQlQ6LhcmSlQ,Ooh Nah Nah (feat. Masego),SiR,True,63,240000,0.85,0.273,0.278,0.052,2.22e-06,0.104,0.572,116.894
-https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW,Ottolenghi,Loyle Carner,False,62,197600,0.776,0.593,0.252,0.327,0.00616,0.186,0.247,94.97
-https://open.spotify.com/track/5dvpipXxOIH96gcGEKR1Iu,Ain't Nothing Changed,Loyle Carner,True,59,194426,0.753,0.663,0.176,0.505,0.0598,0.115,0.149,90.011
-https://open.spotify.com/track/32sBVB5HmrwJ6e9g0S2BRL,Damselfly,Loyle Carner,True,64,172653,0.82,0.596,0.246,0.517,0.00159,0.358,0.54,94.968
-https://open.spotify.com/track/19yMYXxG3gtIbKxOpQo9vL,Mean It In The Morning,Loyle Carner,False,53,159840,0.6,0.589,0.29,0.784,0.224,0.107,0.59,81.815
-https://open.spotify.com/track/5CAztXp7af5FZR9Gbnnwk2,Volta e Meia,O Terno,False,46,195066,0.585,0.347,0.0925,0.454,1.66e-06,0.107,0.501,109.214
-https://open.spotify.com/track/0Tetrw2nzH22LpHSDhOUIe,Pra Sempre Será,O Terno,False,42,289346,0.529,0.197,0.0625,0.675,4.11e-05,0.102,0.218,75.662
-https://open.spotify.com/track/5wyifj9jya5OUkuTKLFIhn,Pegando Leve,O Terno,False,46,281426,0.452,0.291,0.0277,0.252,1.81e-06,0.0581,0.465,102.467
-https://open.spotify.com/track/1BeY3p2ePpoDOmlRh3jirM,Tudo Que Eu Não Fiz,O Terno,False,39,229413,0.474,0.475,0.0725,0.143,3.27e-05,0.0697,0.412,97.078
-https://open.spotify.com/track/7vdbdhlD26k1wO9XVxH9G3,Só in English,Renato Enoch,False,31,199271,0.714,0.313,0.0778,0.854,0,0.0795,0.588,84.333
-https://open.spotify.com/track/7ciaJIGCyZ8Xky1DQvZg0l,1=1=1,Subculture Sage,False,43,261833,0.725,0.441,0.0906,0.438,0.000801,0.117,0.253,78.996
-https://open.spotify.com/track/0EtgBQdaNxPoG3zrQoAjNg,Swamp,Futuro Pelo,False,0,170704,0.813,0.598,0.056,0.0207,0.137,0.0984,0.86,142.057
-https://open.spotify.com/track/4XbXH5gMNc47XUEkKgwPsp,Vicio,Phill Veras,False,44,250213,0.616,0.415,0.0373,0.803,0.00349,0.0979,0.37,146.139
-https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l,Céu Azul,Ana Gabriela,False,63,208219,0.684,0.341,0.0332,0.861,0,0.14,0.427,120.109
-https://open.spotify.com/track/1WyEXbMQLt9szrhDos1uz8,On The Square,Mac DeMarco,False,49,209393,0.679,0.326,0.0283,0.694,0.181,0.147,0.386,76.715
-https://open.spotify.com/track/7ixHZ5EUkPYCKScXKGaYoS,Little Dogs March,Mac DeMarco,False,47,149292,0.896,0.18,0.0887,0.724,0.0226,0.109,0.254,126.163
-https://open.spotify.com/track/7JyhhEb1LKIuDiHy6bWdet,Finally Alone,Mac DeMarco,False,50,144756,0.826,0.485,0.0345,0.513,0.00224,0.109,0.852,96.497
-https://open.spotify.com/track/42EMSKPgulAzr4RLY65Eut,Nobody,Mac DeMarco,False,59,212460,0.877,0.178,0.102,0.776,0.0193,0.107,0.442,74.997
-https://open.spotify.com/track/1IF1IpJ8SnBDgHO5Nig0pD,O TEMPO É SUA MORADA :: celebrar,Francisco el Hombre,False,49,229933,0.562,0.309,0.0252,0.569,2.71e-05,0.101,0.458,102.031
-https://open.spotify.com/track/6yVyCxu8H6K8QVBuf10HP7,Cara a Cara,Castello Branco,False,35,162668,0.664,0.419,0.0428,0.638,0.0496,0.109,0.109,96.849
-https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U,Céu da Boca,Castello Branco,False,38,183001,0.699,0.616,0.0446,0.38,0.000428,0.117,0.51,144.932
-https://open.spotify.com/track/7aO6EZEIokDA9kuIpJZvhE,Coragem,Castello Branco,False,39,238376,0.685,0.402,0.0396,0.523,0.000202,0.105,0.417,94.985
-https://open.spotify.com/track/5hCfJHYKTB92MKa8HyxAld,Necessidade,Castello Branco,False,42,225137,0.592,0.538,0.034,0.0862,0.0321,0.0698,0.238,96.045
-https://open.spotify.com/track/3sZcGCUXvr45syuNyTUC1Z,Crer-Sendo,Castello Branco,False,45,207870,0.413,0.579,0.0554,0.16,0,0.112,0.41,81.54
-https://open.spotify.com/track/0UUEYLYmrxuJgTv3j42Ie5,Alma Sebosa,Johnny Hooker,True,48,214750,0.663,0.73,0.0472,0.181,0,0.212,0.803,135.162
-https://open.spotify.com/track/7uSdpAkxgB0948bW7yjjJO,Amor Marginal,Johnny Hooker,False,51,285000,0.423,0.539,0.0368,0.252,2.18e-05,0.0959,0.196,170.51
-https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi,Caju,Silva,False,41,242130,0.691,0.408,0.0657,0.698,0.0374,0.325,0.351,153.984
-https://open.spotify.com/track/05ZVTnFGjDTnzQHMxK0Bir,Please Don't Stop The Rain,James Morrison,False,50,234266,0.5,0.819,0.0729,0.0607,0,0.0709,0.679,160.125
-https://open.spotify.com/track/15QMLEPeA6dFzRcRMBSDyT,The Moon Song - Film Version,Scarlett Johansson,False,1,110920,0.626,0.0654,0.0405,0.994,0.000662,0.106,0.724,95.303
-https://open.spotify.com/track/6qoWO4ukE09xUP5OkifECv,Landscapes (Original),Moodprint,False,18,276922,0.252,0.493,0.0506,0.641,8.54e-05,0.0909,0.0572,82.487
-https://open.spotify.com/track/3FtJLrlkXuWuvqI45ms9Fp,Leap of Faith,YellowStraps,False,25,291100,0.528,0.398,0.0296,0.424,0.872,0.113,0.138,130.005
-https://open.spotify.com/track/4OYAbqimL3F4l533Y1HmE2,Nights Up,YellowStraps,False,32,238293,0.47,0.506,0.137,0.746,0.13,0.356,0.299,179.434
-https://open.spotify.com/track/2J5qVC5iCgodbav4ZLTNSI,Blame,YellowStraps,False,37,295040,0.489,0.37,0.0424,0.506,0.0898,0.127,0.0816,107.534
-https://open.spotify.com/track/5maHVorfdeqeIJHqHaZCuc,Rose - A COLORS SHOW,YellowStraps,False,41,229598,0.692,0.312,0.0937,0.544,0.000101,0.073,0.346,90.036
-https://open.spotify.com/track/2ioRGjGkS1KSgfwCW4h0Dy,Vagabundo não é fácil,Novos Baianos,False,32,305933,0.471,0.559,0.0604,0.568,0,0.106,0.802,175.087
-https://open.spotify.com/track/6mGtde5UqYrIVHFdap0sbn,Brisa,5 a Seco,False,29,219933,0.445,0.433,0.0336,0.357,3.26e-06,0.106,0.436,116.921
-https://open.spotify.com/track/2Yz1XU361N8n7dPkRRSydS,North Pole,Injury Reserve,False,48,260611,0.599,0.451,0.382,0.45,0,0.38,0.492,76.784
-https://open.spotify.com/track/4zpql89tpykmDxjjeG9rlA,Yo,Injury Reserve,True,41,185680,0.596,0.649,0.345,0.0126,0,0.18,0.475,90.625
-https://open.spotify.com/track/6U8wLl0pMsgS1Lcql3nQjH,Ttktv,Injury Reserve,True,51,401933,0.63,0.449,0.252,0.814,0.575,0.106,0.0738,158.861
-https://open.spotify.com/track/2LKyVxah7M1HyYqSDaWFXE,Brastempp,Trombone de Frutas,False,34,206213,0.515,0.355,0.0302,0.553,8.61e-05,0.25,0.299,112.716
-https://open.spotify.com/track/1gN9pDTha8rDiNzunN99Cd,Maneiras e Maneiras,5 a Seco,False,27,164640,0.795,0.635,0.0339,0.0083,1.44e-05,0.112,0.921,119.997
-https://open.spotify.com/track/6bvPoSZEoHJOALlKPF6sq1,Lua Cheia,5 a Seco,False,35,218560,0.51,0.301,0.0343,0.426,0,0.111,0.638,154.178
-https://open.spotify.com/track/78TAL6H02gWraLWjvP9qPx,Ventos de Netuno,5 a Seco,False,37,166200,0.609,0.677,0.0411,0.159,0.000181,0.115,0.55,90.111
-https://open.spotify.com/track/0hasnkYa7b4rDQqZjMmGyh,Em Paz,5 a Seco,False,43,224413,0.281,0.33,0.0324,0.836,7.1e-05,0.729,0.156,176.889
-https://open.spotify.com/track/2MJBTjDGNum1zpODeH3pum,HelGa.,Phony Ppl,True,40,285093,0.653,0.526,0.0351,0.0148,0.276,0.174,0.395,85.019
-https://open.spotify.com/track/2x5Frs6ts14U4MSLrQQlXg,Why iii Love The Moon.,Phony Ppl,False,63,331826,0.706,0.483,0.0393,0.547,1.94e-06,0.136,0.663,92.002
-https://open.spotify.com/track/3vZMkLS1jP7NdNhzqGfUSW,Ben - Single Version,Michael Jackson,False,58,165160,0.464,0.132,0.0283,0.81,1.16e-05,0.0994,0.303,68.152
-https://open.spotify.com/track/6iyr0pAtw5qMO0rxefkp2i,My Girl,Michael Jackson,False,33,188760,0.729,0.587,0.0392,0.177,1.66e-05,0.115,0.837,105.586
-https://open.spotify.com/track/5FXD5Bh1yU573XSG2JZZQk,Kalmado,Kris Delano,True,53,210024,0.675,0.422,0.469,0.575,7.53e-06,0.121,0.726,175.996
-https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH,Ngayong Gabi,Al James,False,60,267456,0.865,0.628,0.143,0.594,0,0.2,0.433,116.009
-https://open.spotify.com/track/6utl2puTMct2t0ntNnZc68,"Honey, There's No Time",Feng Suave,False,55,261021,0.614,0.398,0.0707,0.631,0.000758,0.115,0.563,127.973
-https://open.spotify.com/track/0DHRNZ26HFLPnmwDUjGB89,By the Poolside,Feng Suave,False,46,217116,0.703,0.495,0.138,0.31,5.31e-06,0.0685,0.742,74.989
-https://open.spotify.com/track/4UCiDcv0yO9tNLZbkZeBBA,Sink into the Floor,Feng Suave,False,61,281054,0.566,0.394,0.0445,0.712,2.59e-05,0.156,0.6,78.948
-https://open.spotify.com/track/0ZvWdGaWqnPs99z1Xso8YG,Noche Oscura,Feng Suave,False,50,285632,0.52,0.21,0.0401,0.804,0.00547,0.123,0.29,132.178
-https://open.spotify.com/track/4t7oADdMTLo3Kj5asx1IL3,Candy Eyes,Jack Stauber,False,47,251569,0.733,0.353,0.0328,0.505,0.851,0.265,0.0362,87.993
-https://open.spotify.com/track/7D7GfQJaJlMZtNpB7XKwxe,My Plea,Jack Stauber,False,52,176006,0.777,0.619,0.0625,0.496,7.56e-06,0.0959,0.902,90.029
-https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC,Buttercup,Jack Stauber,False,82,208026,0.705,0.373,0.0384,0.723,0.81,0.289,0.551,120.046
-https://open.spotify.com/track/4HDLmWf73mge8isanCASnU,Part III,Crumb,False,56,222920,0.426,0.505,0.0292,0.197,0.856,0.236,0.172,116.033
-https://open.spotify.com/track/45PxuJqJBnPXZKLxoo9Apj,SUPERPOSITION,Daniel Caesar,True,65,263794,0.589,0.279,0.0408,0.911,0.000128,0.087,0.333,115.656
-https://open.spotify.com/track/0KeZ6mv7rL5wfF7TuxSUdk,Pahinga,Al James,True,57,223584,0.785,0.647,0.0785,0.722,5.03e-05,0.102,0.505,106.072
-https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN,Pa-umaga,Al James,False,60,189019,0.911,0.299,0.0752,0.17,0.00201,0.0952,0.565,130.038
-https://open.spotify.com/track/0wWXjFSlqdVMWVI7e3atWv,Geh ran,Trettmann,False,49,325240,0.518,0.184,0.202,0.725,0.041,0.117,0.481,171.697
-https://open.spotify.com/track/1jxzCZRphA9XMgYJxWwrRn,Matalib - COLORS Sudan,Sammany Hajo,False,39,158896,0.643,0.229,0.215,0.762,3.13e-06,0.1,0.877,147.008
-https://open.spotify.com/track/5YRDGgdOshUPA17m7yzY7p,"One more time, One more chance",Masayoshi Yamazaki,False,49,330200,0.55,0.408,0.0318,0.719,0,0.11,0.331,129.152
-https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1,California,Joni Mitchell,False,65,230226,0.464,0.328,0.0407,0.905,0,0.135,0.784,70.859
-https://open.spotify.com/track/4iaGeV4WFvP2ynbqCIyTpS,Mykonos,Fleet Foxes,False,62,275306,0.3,0.452,0.0305,0.395,0.000818,0.137,0.342,82.988
-https://open.spotify.com/track/51QHQSU5C4WE7KqoqeNOCM,Blues Run the Game - 2001 Remaster,Jackson C. Frank,False,54,211986,0.374,0.121,0.0309,0.951,0.00349,0.102,0.413,166.212
-https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS,Girl from the North Country (with Johnny Cash),Bob Dylan,False,65,220400,0.607,0.142,0.0382,0.843,0.000197,0.121,0.305,118.867
-https://open.spotify.com/track/13jJu9zoXOQnqiLaJsg41K,Can't Take My Eyes Off You,Frankie Valli,False,52,203680,0.581,0.78,0.0567,0.508,1.07e-05,0.0799,0.561,123.711
-https://open.spotify.com/track/2W5UG7uGle3SlZiyzEGxls,Sealed with a Kiss,Bobby Vinton,False,55,168866,0.431,0.379,0.0262,0.708,1.74e-05,0.181,0.665,86.172
-https://open.spotify.com/track/6vXZs9rEQF7Nd6O8Ue7NrT,Are You Lonesome Tonight,Elvis Presley,False,58,187026,0.355,0.0922,0.0515,0.918,0.000702,0.106,0.191,65.952
-https://open.spotify.com/track/0FD8KMG4pHp0O9clTpChjp,I Say a Little Prayer,Aretha Franklin,False,53,216773,0.59,0.355,0.0352,0.48,0,0.0585,0.499,133.03
-https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t,What the World Needs Now Is Love,Dionne Warwick,False,50,190480,0.574,0.364,0.0365,0.915,9.98e-06,0.137,0.398,112.094
-https://open.spotify.com/track/70gfB8orjZFNqogQSv4oAE,It's a Long Way to Tipperary - 1914,John McCormack,False,33,197880,0.524,0.279,0.0969,0.995,0.000116,0.217,0.808,112.777
-https://open.spotify.com/track/3t2LXq933tnGcMUQrsOSqt,Rumo Ao Infinito,Maria Rita,False,40,272306,0.702,0.398,0.0742,0.462,3.69e-06,0.0954,0.637,158.184
-https://open.spotify.com/track/076YPf69AwXWL5ZB6hi3YE,Num corpo só,Maria Rita,False,44,238000,0.755,0.617,0.0637,0.691,2.52e-06,0.0748,0.685,103.908
-https://open.spotify.com/track/19KDsFyj6Nyxa9xLb29lOL,Encontros e despedidas,Maria Rita,False,50,242333,0.412,0.313,0.0334,0.563,0,0.12,0.115,105.158
-https://open.spotify.com/track/5ua6ByZaOw4hlMP6i8Vjdz,Tá perdoado,Maria Rita,False,54,227520,0.78,0.571,0.061,0.586,1.26e-05,0.0767,0.858,102.026
-https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2,Cara valente,Maria Rita,False,50,282293,0.738,0.56,0.0482,0.608,0.0045,0.126,0.645,157.946
-https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9,Algo Parecido,Skank,False,63,225018,0.549,0.629,0.0267,0.527,0,0.13,0.613,167.881
-https://open.spotify.com/track/6JFmn1H069CltJZjEI050q,That's All I Need To Know,Sam Cooke,False,23,142866,0.548,0.34,0.0326,0.776,0,0.102,0.726,82.65
-https://open.spotify.com/track/0BFEyqJ9DJXS7gKg0Kj46R,You Send Me,Sam Cooke,False,61,165560,0.553,0.291,0.0301,0.878,0,0.129,0.407,96.217
-https://open.spotify.com/track/7FAWkCCU1DRz87fsvtZLFg,Tournament Hill,TEMPOREX,False,50,113814,0.888,0.362,0.096,0.528,0,0.0891,0.855,97.01
-https://open.spotify.com/track/4FJzP6dMX4X7EAazhOTgey,Ipanema,Still Woozy,False,15,127044,0.751,0.473,0.199,0.216,0.0774,0.267,0.868,147.437
-https://open.spotify.com/track/5H2WmzaijYOGTHeHdM3w9P,Nice Boys,TEMPOREX,False,66,180845,0.546,0.669,0.103,0.495,0.735,0.25,0.337,75.144
-https://open.spotify.com/track/1b2ReMGta2fe6lEMpvU6eB,My Jinji,落日飛車 Sunset Rollercoaster,False,12,400560,0.389,0.597,0.0308,0.534,0.406,0.144,0.506,143.943
-https://open.spotify.com/track/3vq8hdYv9gh2rgR1zMwKTN,Deeply,Matheus Who,False,30,279614,0.541,0.493,0.029,0.178,0.217,0.109,0.84,188.083
-https://open.spotify.com/track/4IroNECciKcq3M2QtSTus7,Playground,Steve Lacy,False,58,213797,0.482,0.788,0.0425,0.113,0.00437,0.344,0.854,191.776
-https://open.spotify.com/track/52uTp5TrlfPrtgiUdIhkbU,Sofia,Clairo,False,54,188386,0.744,0.619,0.039,0.598,0.00372,0.231,0.641,112.997
-https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ,Wiggle,binki,False,54,179908,0.753,0.461,0.0585,0.496,0.000372,0.116,0.897,103.919
-https://open.spotify.com/track/0T6wlcOJXh6Nw0jvxz89fL,Avião,Lourena,False,48,241171,0.522,0.614,0.0456,0.25,0,0.158,0.298,58.105
-https://open.spotify.com/track/3uOxdAmQ6VMBsjtebp6YWk,Espresso,SóCIRO,False,27,227285,0.723,0.15,0.0493,0.902,1.02e-06,0.121,0.342,124.093
-https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP,Dizeres,Lourena,False,68,257645,0.832,0.484,0.189,0.665,1.02e-05,0.0822,0.83,142.111
-https://open.spotify.com/track/1XqnaJPGDFEytLEvYdJsS3,Dia Lindo,Terno Rei,False,47,110346,0.634,0.384,0.0302,0.164,0,0.125,0.309,79.005
-https://open.spotify.com/track/503OjD3MWV3qFkKj769fte,Mistério Stereo,Curumin,False,47,247946,0.78,0.616,0.0283,0.678,0.0326,0.104,0.803,112.052
-https://open.spotify.com/track/58g3mBBkB7zMgiypoBiaZq,WalkAlone - Tearboy,Konai,False,43,145084,0.636,0.337,0.0275,0.787,0.65,0.107,0.0999,114.922
-https://open.spotify.com/track/0m7belwSddHEXz2mjlWSGi,Pensando Bem,5 a Seco,False,49,199906,0.615,0.438,0.0282,0.248,1.41e-05,0.108,0.251,122.878
-https://open.spotify.com/track/0Bxc8AQgyfeR7KrDsICanu,Egóico,Sagaz,False,45,213367,0.717,0.316,0.188,0.651,0.027,0.105,0.338,84.697
-https://open.spotify.com/track/4Vm5bGHaHj6CWtaj7Cx73a,Dengo,ANAVITÓRIA,False,58,236943,0.759,0.273,0.0348,0.831,0,0.118,0.399,122.001
-https://open.spotify.com/track/59ZID7biPsWrUYDDnhzUSB,You Might Find Yours,Tom Rosenthal,False,43,151028,0.478,0.454,0.0757,0.886,0.427,0.129,0.501,144.771
-https://open.spotify.com/track/2kA7lg8WsJz6AJrf6k9ZdW,It's Not Time to Relax,Club Soccer,False,5,217525,0.564,0.475,0.0309,0.672,0.0423,0.132,0.646,144.013
-https://open.spotify.com/track/02RozCtDH478lix2senHvF,Belle Bouteille,LAUSSE THE CAT,True,49,231998,0.737,0.298,0.192,0.468,0.0165,0.12,0.232,90.026
-https://open.spotify.com/track/7nnz5nWr6iHtiEhH3a22HH,How Does It Feel?,Samm Henshaw,False,56,190877,0.613,0.669,0.156,0.1,0,0.281,0.599,80.033
-https://open.spotify.com/track/0k7mBtJqwxudDYK38d6Bon,De Tarde,Faustino Beats,False,36,228000,0.644,0.254,0.182,0.326,0.000137,0.104,0.536,79.911
-https://open.spotify.com/track/0Xe7rApy8hQUDLlT1IzY1T,Closer,Alfa Mist,False,44,274687,0.727,0.392,0.166,0.463,0.0133,0.11,0.462,92.121
-https://open.spotify.com/track/5rYTMjVkGioNF4MpSQISlg,Desoleil (Brilliant Corners),Loyle Carner,True,57,220401,0.826,0.483,0.371,0.609,3.77e-05,0.145,0.116,131.883
-https://open.spotify.com/track/6ZTtdhd5TTorVWqvOsjmja,Mrs C,Loyle Carner,True,45,202306,0.613,0.575,0.276,0.886,0.00768,0.1,0.267,80.258
-https://open.spotify.com/track/3xaQiq1PpJfLO4KRly44BL,OJPL,Easy Life,True,56,180533,0.369,0.789,0.465,0.802,0,0.253,0.273,71.169
-https://open.spotify.com/track/5wXZXabu8JyRGNHqgueUHm,Ice Water,Loyle Carner,True,58,209285,0.535,0.84,0.482,0.782,0.0134,0.294,0.702,89.368
-https://open.spotify.com/track/6dEe0H4vjEyy2ukczkB25o,Loose Ends,Loyle Carner,True,62,256198,0.79,0.675,0.319,0.166,1.36e-05,0.103,0.363,90.961
-https://open.spotify.com/track/4pjcxC0qgXWZWmcBjzn1az,Angel,Loyle Carner,True,61,283225,0.801,0.601,0.203,0.147,0.011,0.108,0.282,96.998
-https://open.spotify.com/track/0CpicQmoNPV9W4efvVmeKJ,Onde está você,Tim Maia,False,8,210200,0.59,0.585,0.0286,0.113,0,0.205,0.398,131.289
-https://open.spotify.com/track/5c12DVTlsyFbxmysLw0Vll,Você,Tim Maia,False,52,244178,0.354,0.528,0.0418,0.242,1.3e-05,0.204,0.72,142.506
-https://open.spotify.com/track/0SfcG65T1KKCj5NQffpzQR,Não Quero Dinheiro (Só Quero Amar),Tim Maia,False,53,153790,0.618,0.876,0.0389,0.4,0,0.19,0.967,138.783
-https://open.spotify.com/track/6vgKWE1KV4E7p1Dv75z0kL,Azul Da Cor Do Mar,Tim Maia,False,56,198261,0.508,0.34,0.0384,0.0863,0.000325,0.262,0.396,125.519
-https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI,Que Beleza,Tim Maia,False,56,208573,0.507,0.547,0.0416,0.314,0.458,0.0769,0.905,160.879
-https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH,Réu Confesso,Tim Maia,False,58,217604,0.536,0.766,0.0522,0.0539,0.0051,0.292,0.758,87.893
-https://open.spotify.com/track/6eDMElxeeKXs4DHTb0dGP0,Gostava Tanto De Você,Tim Maia,False,59,256362,0.563,0.886,0.0993,0.0479,7.33e-05,0.0384,0.717,89.234
-https://open.spotify.com/track/1ykrnK2a98ycL7qNbcdtcY,Am wenigsten zu sagen,Von Wegen Lisbeth,False,41,155466,0.766,0.272,0.0398,0.855,0.000169,0.29,0.733,113.128
-https://open.spotify.com/track/3yjQ3ScumLFTsXBMqS5qmJ,Junge,Haller,False,2,203210,0.781,0.347,0.0361,0.542,0.00272,0.153,0.544,81.998
-https://open.spotify.com/track/010n0JjUmgY1fjxIQAyo8p,Bis zum Himmel,klangheimlich,False,1,360779,0.502,0.405,0.0294,0.718,0.0208,0.0896,0.053,123.138
-https://open.spotify.com/track/0CP3e2mHRa6TPSrmxyNQB1,September,BRUCKNER,False,47,255053,0.793,0.503,0.0366,0.147,0.000139,0.18,0.42,121.975
-https://open.spotify.com/track/0yh9mW9n5TjegvEXo0jZdt,Ich will dich vermissen,Namika,False,33,181800,0.639,0.234,0.0646,0.809,0.000149,0.364,0.325,66.908
-https://open.spotify.com/track/0gh56emaM8R2Muwb1GJl4z,Glück,Bengio,False,39,210585,0.662,0.647,0.0305,0.515,2.51e-05,0.107,0.596,128.07
-https://open.spotify.com/track/3OEJnylQDDsOrYsgKM8ZHO,Das Licht Dieser Welt,Gisbert Zu Knyphausen,False,36,245530,0.598,0.206,0.0426,0.872,0.00022,0.107,0.297,131.427
-https://open.spotify.com/track/4Ca09Mf8V9lsU8zEhZizBA,Liebe ist verbraucht,Xavi,False,39,216173,0.585,0.288,0.0817,0.446,0,0.104,0.502,98.16
-https://open.spotify.com/track/6X4cn36DnNt8G1Vh3syAFm,Preta,Orgânico,False,54,260243,0.563,0.692,0.0981,0.357,0,0.126,0.476,123.065
-https://open.spotify.com/track/5z389dy6N80WE9rSkfwDn0,Feels Like Home,Grace Kelly,False,52,267077,0.602,0.213,0.0296,0.871,0,0.107,0.238,97.974
-https://open.spotify.com/track/1lmcHmrnwCl21OcPRY3ZVb,Asas,Luedji Luna,False,48,274840,0.644,0.258,0.033,0.941,0.0199,0.0937,0.354,93.818
-https://open.spotify.com/track/16eU7wtX9pv2RPtIoDHVeO,Acalanto,Luedji Luna,False,49,224466,0.731,0.342,0.0999,0.949,0.107,0.102,0.448,170.003
-https://open.spotify.com/track/2kEGhFlJxjVtXnIpudVLtI,Um Corpo no Mundo,Luedji Luna,False,48,385093,0.606,0.412,0.0521,0.863,0.0235,0.181,0.528,156.016
-https://open.spotify.com/track/2fhXxiuLeTO7TptXXQcg79,Banho de Folhas,Luedji Luna,False,56,389253,0.825,0.447,0.0996,0.735,0.0834,0.126,0.718,116.015
-https://open.spotify.com/track/679bhkmbKtkLaBd9CfSQH8,Sol Loiro,Armandinho,False,60,226973,0.387,0.662,0.0361,0.472,2.1e-06,0.116,0.718,87.992
-https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD,Pescador,Armandinho,False,56,179466,0.693,0.683,0.0442,0.186,0,0.13,0.742,152.287
-https://open.spotify.com/track/11h8rVb7ZQ21enNmHRraFj,Outra Vida - Ao Vivo,Armandinho,False,59,293631,0.366,0.408,0.035,0.422,0,0.466,0.307,127.279
-https://open.spotify.com/track/57wAk7wxxgeadU1gkHlChd,Outra Noite Que Se Vai,Armandinho,False,56,229600,0.642,0.806,0.0313,0.173,2.86e-06,0.776,0.415,95.031
-https://open.spotify.com/track/3ZrJLXe9SGYCBN6NVERREd,Sou Eu,Moacir Santos,False,19,180666,0.717,0.577,0.0396,0.795,0.0965,0.125,0.73,95.098
-https://open.spotify.com/track/5h68UTytwmTJDwoGbqLwzV,Never Had The Balls,Rex Orange County,False,67,236893,0.691,0.68,0.0365,0.387,0.000276,0.0508,0.361,149.974
-https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc,Pluto Projector,Rex Orange County,False,70,267520,0.551,0.219,0.0285,0.707,0.000691,0.118,0.191,80.978
-https://open.spotify.com/track/3SxSrUogj4LpAkLKXeTtTQ,Always,Rex Orange County,False,67,197333,0.669,0.374,0.0385,0.777,0,0.326,0.394,127.938
-https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ,10/10,Rex Orange County,True,66,146093,0.487,0.909,0.0994,0.302,2.91e-05,0.0781,0.293,187.829
-https://open.spotify.com/track/7uNUSxzFjPj9JQaZidFreW,Stressed Out,Rex Orange County,False,62,105040,0.65,0.319,0.05,0.935,0,0.258,0.197,84.063
-https://open.spotify.com/track/0YdIIMb2MHuxoUudkAY9gS,Face To Face,Rex Orange County,False,69,219800,0.748,0.441,0.0622,0.592,0,0.176,0.44,124.107
-https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi,It's Not The Same Anymore,Rex Orange County,False,64,386200,0.665,0.317,0.0327,0.874,3.8e-05,0.111,0.359,117.698
-https://open.spotify.com/track/4RKGnMypRvrDuxMPm26VUy,Green Eyes,Yangsun,False,18,146762,0.67,0.433,0.0293,0.832,0.0514,0.11,0.45,74.022
-https://open.spotify.com/track/3WtyhPBePReL7RtIySBDrj,Na Pele,Ferdi,False,8,279225,0.639,0.27,0.0276,0.588,0.00234,0.109,0.266,107.972
-https://open.spotify.com/track/0q2njjSdbANnl9JEGdWCox,Ponto e Vírgula,Ferdi,False,8,291040,0.587,0.481,0.0264,0.682,0,0.152,0.725,146.062
+id,url,name,artist,album,explicit,popularity,duration_ms,key,mode,time_signature,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+3eFepXGITXNDXXHUNqouxi,https://open.spotify.com/track/3eFepXGITXNDXXHUNqouxi,Shake Me Down,Cage The Elephant,Thank You Happy Birthday,False,54,211373,9,1,4,0.457,0.613,0.0295,0.00463,0.000441,0.0711,0.132,105.11
+51pQ7vY7WXzxskwloaeqyj,https://open.spotify.com/track/51pQ7vY7WXzxskwloaeqyj,Stairway to Heaven - 1990 Remaster,Led Zeppelin,Led Zeppelin IV,False,68,478173,7,1,4,0.346,0.335,0.0339,0.575,0.00674,0.185,0.213,84.204
+6QHGyXR0m3PDStlyHN8dYK,https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK,Stay Alive,José González,Stay Alive (From The Secret Life Of Walter Mitty),False,16,266906,6,1,4,0.716,0.301,0.0365,0.702,0.145,0.0885,0.329,129.997
+3usVf6rhG6vDjcodeavHde,https://open.spotify.com/track/3usVf6rhG6vDjcodeavHde,Sozinho - Live In Brazil / 1998,Caetano Veloso,Prenda Minha (Live),False,1,190496,11,0,3,0.48,0.283,0.187,0.634,0.000168,0.909,0.529,83.736
+0sTr29gwWE4wIxjMLytsOu,https://open.spotify.com/track/0sTr29gwWE4wIxjMLytsOu,If You Believe,Sasha,Greatest Hits,False,42,239973,5,1,1,0.367,0.522,0.0358,0.115,0,0.109,0.483,82.509
+0q21FNwES2bbtcduB6kjEU,https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU,Dancing in the Moonlight,King Harvest,Dancing in the Moonlight,False,67,181133,10,1,4,0.657,0.435,0.0552,0.739,0,0.167,0.771,135.975
+1XxCiPw07rd1ytYnE7SoJI,https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI,Road Trippin',Red Hot Chili Peppers,Californication (Deluxe Edition),False,61,204973,4,0,4,0.243,0.47,0.0353,0.309,0.000798,0.121,0.393,204.026
+4QsnHKvJGVbWJs3Em9Mrcy,https://open.spotify.com/track/4QsnHKvJGVbWJs3Em9Mrcy,Lost Stars,Keira Knightley,Begin Again - Music From And Inspired By The Original Motion Picture,False,5,240186,1,1,4,0.515,0.321,0.0271,0.671,1.66e-06,0.112,0.324,81.823
+0THbsvMRmCHpFT3YLX301c,https://open.spotify.com/track/0THbsvMRmCHpFT3YLX301c,Hey There Delilah,Plain White T's,All That We Needed,False,5,232813,2,1,4,0.658,0.296,0.0293,0.872,0,0.114,0.311,103.975
+4PCyzOTAB7zfJaxaS1uLSY,https://open.spotify.com/track/4PCyzOTAB7zfJaxaS1uLSY,O Vento,Los Hermanos,"""4""",False,54,213866,9,1,4,0.665,0.685,0.0328,0.0247,1.08e-05,0.088,0.839,137.948
+6kJmZqhB2Pf2442GOCAohB,https://open.spotify.com/track/6kJmZqhB2Pf2442GOCAohB,Morena,Los Hermanos,"""4""",False,52,178946,1,1,4,0.921,0.342,0.0366,0.478,0.0446,0.0741,0.852,104.029
+3kHQ0iXkcLZ2Sd0T2G7lIF,https://open.spotify.com/track/3kHQ0iXkcLZ2Sd0T2G7lIF,O Vencedor,Los Hermanos,Mega Hits - Los Hermanos,False,39,200026,6,1,4,0.682,0.881,0.027,0.353,0.263,0.238,0.911,109.999
+0y8muA5wwCKAQmocFB34rR,https://open.spotify.com/track/0y8muA5wwCKAQmocFB34rR,Não existe amor em SP,Criolo,Nó Na Orelha,False,0,280032,5,0,4,0.604,0.412,0.0422,0.391,0.016,0.0759,0.346,142.002
+0ZPquQV2aKmDfwPjvMdvRp,https://open.spotify.com/track/0ZPquQV2aKmDfwPjvMdvRp,Último Romance,Los Hermanos,Ventura,False,58,263440,3,0,4,0.406,0.665,0.0286,0.509,0.000641,0.112,0.553,159.997
+2LWW6D1zabtolij6KFXQYm,https://open.spotify.com/track/2LWW6D1zabtolij6KFXQYm,Cartão Postal,Apanhador Só,Antes Que Tu Conte Outra,False,42,256173,8,0,4,0.527,0.296,0.0347,0.918,0.000398,0.263,0.216,112.995
+1rQZDmnKJIjzzTJrbBeEW2,https://open.spotify.com/track/1rQZDmnKJIjzzTJrbBeEW2,Behind the Sea,Panic! At The Disco,Pretty. Odd.,False,45,213426,9,1,4,0.281,0.679,0.0449,0.173,4.38e-06,0.0919,0.441,80.078
+2sRvY7zmltEJPoEAmUmNgO,https://open.spotify.com/track/2sRvY7zmltEJPoEAmUmNgO,Lembranças,Maneva,Teu Chão,False,45,195552,4,0,4,0.642,0.341,0.438,0.63,3.55e-06,0.41,0.799,171.945
+3x65lTghySHoonZWlTx0V4,https://open.spotify.com/track/3x65lTghySHoonZWlTx0V4,Êxodo,Maneva,Tempo de Paz,False,0,171075,1,0,4,0.753,0.471,0.0378,0.573,0.000475,0.255,0.691,139.92
+2GbnjY2wfLwvujav6CY8Lh,https://open.spotify.com/track/2GbnjY2wfLwvujav6CY8Lh,Saudades do Tempo,Maneva,Tempo de Paz,False,0,238889,4,0,4,0.777,0.39,0.224,0.634,0,0.207,0.688,133.856
+6BQNJ0JFKh8sWjQLI6Zudi,https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi,Change the World,Eric Clapton,Clapton Chronicles: The Best of Eric Clapton,False,65,234866,9,1,4,0.721,0.558,0.0246,0.492,0.00563,0.113,0.542,96.887
+6zeE5tKyr8Nu882DQhhSQI,https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI,Dust in the Wind,Kansas,Point Of Know Return,False,76,206266,7,1,4,0.475,0.322,0.0283,0.367,0.00056,0.11,0.387,93.503
+2YaGZvBfkQ4jiD5cMLIFQV,https://open.spotify.com/track/2YaGZvBfkQ4jiD5cMLIFQV,Same Mistake,James Blunt,All The Lost Souls,False,61,298186,10,1,4,0.46,0.509,0.0263,0.466,0.000434,0.122,0.194,77.613
+3DDGhkxq3FeUorZppSgeLE,https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE,Somewhere Only We Know,Lily Allen,Somewhere Only We Know,False,63,208154,10,1,4,0.314,0.286,0.035,0.935,0.0258,0.0999,0.278,172.021
+02EPyfWg585VFhagY23aXi,https://open.spotify.com/track/02EPyfWg585VFhagY23aXi,Little Black Submarines,InstaHit Crew,"Rock's Ultimate Hit Essentials, Vol. 48",False,3,249681,2,1,4,0.296,0.452,0.0329,0.0124,0,0.0978,0.406,188.946
+2TYC9SaRhYypUQzB1ZVTG2,https://open.spotify.com/track/2TYC9SaRhYypUQzB1ZVTG2,Use Somebody,Kings of Leon,Only By The Night,False,62,230760,0,1,4,0.276,0.715,0.0432,0.00552,0.000417,0.201,0.173,137.028
+1eM1mSOrgwX4wkxJAHkBB8,https://open.spotify.com/track/1eM1mSOrgwX4wkxJAHkBB8,The Everlasting Muse,Belle & Sebastian,Girls in Peacetime Want to Dance,False,34,325275,6,0,4,0.487,0.626,0.0601,0.0797,0,0.0952,0.762,132.256
+3vo4ERKqNiZeOc2UFGksuI,https://open.spotify.com/track/3vo4ERKqNiZeOc2UFGksuI,Eu Me Lembro,Clarice Falcão,Monomania,False,0,217385,0,1,3,0.78,0.184,0.0407,0.664,0.001,0.118,0.299,95.994
+1k02eM50NuPC7EdaaEmeOV,https://open.spotify.com/track/1k02eM50NuPC7EdaaEmeOV,Golden Crown,The Honey Trees,Bright Fire,False,13,301080,0,1,3,0.299,0.3,0.0313,0.8,0.000239,0.0717,0.0934,119.985
+3sUyXIFkXNSQh6anbN2mH1,https://open.spotify.com/track/3sUyXIFkXNSQh6anbN2mH1,All We Do,Oh Wonder,All We Do,False,0,214203,10,0,4,0.591,0.26,0.0467,0.978,0.000484,0.109,0.397,126.274
+3E8Ry9jx7zt5lmyc9Lms8O,https://open.spotify.com/track/3E8Ry9jx7zt5lmyc9Lms8O,Port of Call,Beirut,The Rip Tide,False,8,260973,4,0,4,0.596,0.496,0.0276,0.794,0.0181,0.29,0.375,126.06
+70WyPf8WtXvG3CgeTZZWz6,https://open.spotify.com/track/70WyPf8WtXvG3CgeTZZWz6,Nantes,Beirut,The Flying Club Cup,False,11,230200,6,1,4,0.541,0.533,0.037,0.786,0.0102,0.138,0.642,131.147
+6Zv4HVHfadVo3JQSSbwY7r,https://open.spotify.com/track/6Zv4HVHfadVo3JQSSbwY7r,Sentimental,Los Hermanos,Bloco Do Eu Sozinho,False,57,309266,6,1,4,0.646,0.384,0.0287,0.124,0.0119,0.112,0.24,128.009
+4Tfe8Uu9faFdWRiZbpvpXd,https://open.spotify.com/track/4Tfe8Uu9faFdWRiZbpvpXd,Cough Syrup,Young the Giant,Young The Giant,False,51,249520,11,0,3,0.534,0.721,0.0417,0.0343,6.24e-06,0.115,0.225,128.978
+1FJ7sEf02HAmfVTEfQvmOV,https://open.spotify.com/track/1FJ7sEf02HAmfVTEfQvmOV,505,Arctic Monkeys,Favourite Worst Nightmare,False,0,253223,0,1,4,0.528,0.869,0.0578,0.00236,5.35e-05,0.0885,0.227,140.249
+00hVU6kDP67JHurfwG2dtq,https://open.spotify.com/track/00hVU6kDP67JHurfwG2dtq,Hero Of War,Rise Against,Appeal To Reason,False,64,253080,4,1,4,0.645,0.417,0.029,0.543,0,0.0982,0.256,77.054
+3mYKQcFU6USoJpzpkwYdQe,https://open.spotify.com/track/3mYKQcFU6USoJpzpkwYdQe,Running With The Wolves,AURORA,Running With The Wolves,False,1,192313,5,1,4,0.562,0.559,0.0549,0.214,7.08e-05,0.45,0.401,164.013
+2CShsvjPh2fbr6VAKLWKQt,https://open.spotify.com/track/2CShsvjPh2fbr6VAKLWKQt,Way Back When,Kodaline,In A Perfect World (Deluxe),False,47,204280,9,1,4,0.632,0.643,0.0328,0.348,0.000146,0.335,0.51,110.046
+3dv9Bvpp9HikNsEvDCKHhC,https://open.spotify.com/track/3dv9Bvpp9HikNsEvDCKHhC,Spirits,The Strumbellas,Hope,False,8,203653,0,1,4,0.553,0.729,0.0266,0.181,0,0.109,0.776,80.503
+58VZtWOA75FCms5fd8H7Zy,https://open.spotify.com/track/58VZtWOA75FCms5fd8H7Zy,Drifting,On An On,And the Wave Has Two Sides,False,37,276920,4,0,3,0.424,0.362,0.029,0.0358,0.00157,0.0901,0.0445,101.741
+3f8Uygfz3CIpUCo6H6iNOJ,https://open.spotify.com/track/3f8Uygfz3CIpUCo6H6iNOJ,Slow Dancing in a Burning Room,John Mayer,Continuum,False,7,242000,1,0,5,0.668,0.361,0.0273,0.573,0.00506,0.0805,0.288,134.15
+5M94rKTC7nECeyOFXjYtrA,https://open.spotify.com/track/5M94rKTC7nECeyOFXjYtrA,Amianto,Supercombo,Amianto,False,21,257239,2,0,3,0.435,0.522,0.0336,0.157,0,0.307,0.166,126.572
+3j8qhanlFJV4E1u10dNTts,https://open.spotify.com/track/3j8qhanlFJV4E1u10dNTts,Suicídio ao Contrário,Tópaz,Onze Nós,False,25,204324,2,1,4,0.572,0.659,0.0254,0.00156,0.0807,0.078,0.276,148.078
+179NUF6b8tzp3Ni2aMGxgU,https://open.spotify.com/track/179NUF6b8tzp3Ni2aMGxgU,Se For pra Tudo Dar Errado,Tópaz,Onze Nós,False,36,231020,0,1,4,0.507,0.882,0.0354,0.000918,0.0047,0.0899,0.137,135.02
+06ND7qqsmIRCuWdQNQIlTE,https://open.spotify.com/track/06ND7qqsmIRCuWdQNQIlTE,Roda-Viva,Chico Buarque,Chico Buarque de Hollanda Vol. 3,False,50,233400,10,0,4,0.502,0.512,0.0337,0.793,1.8e-05,0.235,0.651,133.174
+46tLsEFJcVmQveo9hEXUz9,https://open.spotify.com/track/46tLsEFJcVmQveo9hEXUz9,From The Bottom Of My Heart,Stevie Wonder,A Time To Love,False,0,311893,11,0,4,0.662,0.798,0.0501,0.266,1.44e-05,0.182,0.718,86.99
+0lhRQ8iLouIRTW8j7WOB9P,https://open.spotify.com/track/0lhRQ8iLouIRTW8j7WOB9P,Crush,Yuna,Crush,False,4,241493,9,0,4,0.672,0.426,0.0444,0.365,3.22e-06,0.0819,0.376,130.024
+2jcnIJ3b2O2rWDjAA2AVPs,https://open.spotify.com/track/2jcnIJ3b2O2rWDjAA2AVPs,No Buses,Arctic Monkeys,Who The F*** Are Arctic Monkeys?,False,0,199320,4,1,4,0.51,0.522,0.0332,0.157,8.94e-05,0.0573,0.43,101.348
+1VvyRNSVBKuvENwpyiVlBU,https://open.spotify.com/track/1VvyRNSVBKuvENwpyiVlBU,Elephant Gun,Beirut,The Gulag Orkestar,False,2,345266,8,1,3,0.269,0.628,0.0411,0.856,0.0792,0.0687,0.482,180.036
+6s9LhJVqxnTjmUJHOeawnU,https://open.spotify.com/track/6s9LhJVqxnTjmUJHOeawnU,"City Of Stars - From ""La La Land"" Soundtrack",Ryan Gosling,La La Land (Original Motion Picture Soundtrack),False,7,149706,2,0,4,0.454,0.117,0.0354,0.906,0,0.0888,0.428,97.692
+41pFyxOpS119Pb8JEzhx0w,https://open.spotify.com/track/41pFyxOpS119Pb8JEzhx0w,"Boulevard of Broken Dreams (feat. John Gallagher Jr., Rebecca Naomi Jones, Stark Sands, Company)",Green Day,American Idiot - The Original Broadway Cast Recording Featuring Green Day,True,59,262386,8,1,4,0.417,0.647,0.0296,0.0569,1.67e-06,0.0585,0.339,166.12
+6vtLtrPHZAo5OUy1Sk9BTH,https://open.spotify.com/track/6vtLtrPHZAo5OUy1Sk9BTH,Ask Yourself,Foster The People,Supermodel,False,50,263400,2,1,4,0.47,0.89,0.0456,0.000798,1.23e-05,0.196,0.628,154.982
+41yIvlFgvGwxq8qTqAR7eG,https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG,Bloom - Bonus Track,The Paper Kites,Woodland - EP,False,71,210080,1,1,4,0.592,0.416,0.0246,0.882,0.000586,0.112,0.417,96.002
+41s2B5M8P6xwxgpdZ6zzLg,https://open.spotify.com/track/41s2B5M8P6xwxgpdZ6zzLg,Desde Que o Samba é Samba - Ao Vivo,Caetano Veloso,"Dois Amigos, um Século de Música (Ao Vivo)",False,45,247506,2,1,4,0.553,0.33,0.03,0.907,0.038,0.243,0.465,88.003
+18jzP0rBaHJ2gjVhZ5OvKn,https://open.spotify.com/track/18jzP0rBaHJ2gjVhZ5OvKn,Samba De Verao,Caetano Veloso,A Bossa De Caetano,False,8,187626,5,1,4,0.731,0.299,0.0485,0.889,0.223,0.11,0.46,119.768
+4Bnluy6QiOb4F0ihdalrz9,https://open.spotify.com/track/4Bnluy6QiOb4F0ihdalrz9,Shimbalaiê - Live At Citibank Hall/Rio de Janeiro(RJ)-Brazil/2010,Caetano Veloso,"Shimbalaiê (Multishow Ao Vivo Caetano e Maria Gadú, Brazil, 2011)",False,0,201026,9,0,4,0.559,0.163,0.0389,0.837,8.2e-06,0.801,0.349,79.024
+2UjRAYMdlDCt87Ky0GW4Es,https://open.spotify.com/track/2UjRAYMdlDCt87Ky0GW4Es,Tomorrow,Nando Dale,Tomorrow,False,0,219752,2,1,4,0.675,0.362,0.0301,0.417,0.0104,0.192,0.407,126.984
+6q30SHZFgyyibMdrErLFaS,https://open.spotify.com/track/6q30SHZFgyyibMdrErLFaS,Dilúvio de Solidão,Criolo,Espiral de Ilusão,False,0,157946,2,1,4,0.726,0.649,0.0351,0.682,0.00114,0.0864,0.944,98.061
+64ygSCb6X56Uu90GFji1Oo,https://open.spotify.com/track/64ygSCb6X56Uu90GFji1Oo,Menino Mimado,Criolo,Espiral de Ilusão,False,0,227546,0,0,4,0.828,0.603,0.0356,0.592,0.000842,0.202,0.818,143.942
+3XQ4TLYm122Z10qObjtZ57,https://open.spotify.com/track/3XQ4TLYm122Z10qObjtZ57,Nas Águas,Criolo,Espiral de Ilusão,False,0,235559,5,1,4,0.756,0.658,0.0506,0.758,1.21e-05,0.0775,0.72,115.833
+0x3J4AkbRh6tO1vav0Derw,https://open.spotify.com/track/0x3J4AkbRh6tO1vav0Derw,Espiral de Ilusão,Criolo,Espiral de Ilusão,False,0,220813,2,1,4,0.78,0.325,0.0339,0.878,0.000715,0.143,0.469,124.085
+47c0yiND86tZSiOCR2oJ5w,https://open.spotify.com/track/47c0yiND86tZSiOCR2oJ5w,なんでもないや - movie ver.,RADWIMPS,君の名は。,False,0,344053,6,1,4,0.49,0.461,0.032,0.254,0,0.284,0.487,168.125
+0QUiguzo0mWdlBk6Nvujic,https://open.spotify.com/track/0QUiguzo0mWdlBk6Nvujic,You Already Know,Bombay Bicycle Club,Evening/Morning,False,58,262533,2,1,4,0.662,0.207,0.0427,0.916,0.0698,0.101,0.496,95.466
+26dt6n5cyVRdX7vD8rmUWw,https://open.spotify.com/track/26dt6n5cyVRdX7vD8rmUWw,Dream A Little Dream Of Me,Ella Fitzgerald,Classic,False,6,185600,0,1,4,0.515,0.162,0.0752,0.916,0,0.168,0.385,78.11
+58fxygPUPdfBIUm9BDv0f7,https://open.spotify.com/track/58fxygPUPdfBIUm9BDv0f7,I Wish I Knew How It Would Feel To Be Free,Nina Simone,Nina Simone,False,6,186506,10,1,4,0.694,0.459,0.0819,0.752,0,0.131,0.675,122.534
+7LZPUnAC0rBCXSLIflzE3I,https://open.spotify.com/track/7LZPUnAC0rBCXSLIflzE3I,Half The World Away,AURORA,Half The World Away,False,7,198946,8,1,4,0.585,0.103,0.0399,0.948,4.51e-06,0.173,0.186,110.919
+70mljElWtJFILbbRqxKf5k,https://open.spotify.com/track/70mljElWtJFILbbRqxKf5k,Teenage Sonata,Sam Cooke,The Very Best Of...,False,0,161320,0,1,3,0.343,0.308,0.03,0.795,0,0.381,0.49,81.39
+5hzDqrcTySa1Ek9nRCRd7Q,https://open.spotify.com/track/5hzDqrcTySa1Ek9nRCRd7Q,Carry On,Norah Jones,Carry On,False,7,168106,10,1,3,0.488,0.22,0.0391,0.929,0.27,0.109,0.391,80.08
+605E2oDpy3uSIhbRFcrQyn,https://open.spotify.com/track/605E2oDpy3uSIhbRFcrQyn,Despair In The Departure Lounge,Arctic Monkeys,Who The F*** Are Arctic Monkeys?,False,53,202853,2,1,4,0.316,0.306,0.0411,0.676,0.0025,0.0809,0.284,85.255
+3JO8ZHz8hF9R4XUd7sGE1N,https://open.spotify.com/track/3JO8ZHz8hF9R4XUd7sGE1N,Dois Rios,Skank,#1 Hits,False,52,282066,9,1,4,0.528,0.601,0.0259,0.445,0,0.213,0.364,77.05
+4DCHszO57DZHgvqalfoITR,https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR,1973 - Acoustic,James Blunt,All The Lost Souls,False,55,209680,9,1,4,0.632,0.378,0.0306,0.884,2.63e-05,0.11,0.347,125.128
+79TEDshMVLibmgLVXolwJ8,https://open.spotify.com/track/79TEDshMVLibmgLVXolwJ8,Give Me Some Love,James Blunt,All The Lost Souls,False,49,216933,6,1,4,0.64,0.558,0.0321,0.13,8.39e-06,0.11,0.197,92.611
+3fHoLGrV9eZH54eI3vILNQ,https://open.spotify.com/track/3fHoLGrV9eZH54eI3vILNQ,"단 한 사람 Because Of You (From '객주'), Pt. 2",TAEIL,단 한 사람 Because Of You (From '객주') [Part 2],False,0,227739,2,1,4,0.334,0.528,0.0291,0.366,0,0.0929,0.195,135.226
+0GyNfI3eKLWQJ5QwXo4WL6,https://open.spotify.com/track/0GyNfI3eKLWQJ5QwXo4WL6,Sunsets For Somebody Else,Jack Johnson,Sunsets For Somebody Else,False,4,210480,7,1,4,0.709,0.228,0.0326,0.838,2.2e-05,0.146,0.597,113.098
+0WTQ3OVvyuD49BfO99Q6y7,https://open.spotify.com/track/0WTQ3OVvyuD49BfO99Q6y7,Sweet Louise,Passenger,The Boy Who Cried Wolf,False,45,236866,2,1,4,0.659,0.338,0.0336,0.664,0.000912,0.108,0.486,70.267
+0mGJYajNW8Y4T9NxnD6P79,https://open.spotify.com/track/0mGJYajNW8Y4T9NxnD6P79,Dreams from Yesterday,Mac DeMarco,This Old Dog,False,48,207160,7,1,4,0.857,0.368,0.0409,0.0611,0.000548,0.0703,0.725,97.513
+1KTMZ2DeqT4oqIJ7Co5F6R,https://open.spotify.com/track/1KTMZ2DeqT4oqIJ7Co5F6R,This Old Dog,Mac DeMarco,This Old Dog,False,58,150546,3,1,4,0.749,0.401,0.0391,0.219,0.0931,0.206,0.616,138.811
+2N4idqj9TT3HnH2OFT9j0v,https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v,Still Beating,Mac DeMarco,This Old Dog,False,65,181586,1,0,4,0.709,0.496,0.0417,0.581,0.195,0.151,0.469,78.477
+5OHbgQbHzTjolHzWffSrvn,https://open.spotify.com/track/5OHbgQbHzTjolHzWffSrvn,Glass in the park,Alex Turner,Submarine - Original Songs From The Film By Alex Turner,False,54,239653,2,1,4,0.553,0.19,0.0298,0.903,0.000227,0.0993,0.299,100.002
+3cUxncrTWSA9lhlQbuIwUY,https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY,Stuck on the puzzle,Alex Turner,Submarine - Original Songs From The Film By Alex Turner,False,62,211053,4,1,4,0.58,0.682,0.0332,0.0792,0.0316,0.161,0.774,77.53
+5kZD0TTSYAgRzciBtKCmgT,https://open.spotify.com/track/5kZD0TTSYAgRzciBtKCmgT,It's hard to get around the wind,Alex Turner,Submarine - Original Songs From The Film By Alex Turner,False,54,247013,0,1,4,0.436,0.244,0.0339,0.87,0.000371,0.102,0.359,145.42
+35J9vakuC3f18QTolNAQ6E,https://open.spotify.com/track/35J9vakuC3f18QTolNAQ6E,Epitáfio,Titãs,A Melhor Banda De Todos Os Tempos Da Última Semana,False,66,175373,7,1,4,0.723,0.611,0.0303,0.481,1.44e-05,0.11,0.261,111.813
+5sz2LrG6jY6u7U0g2k7kws,https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws,Devolva-Me (Ao Vivo),Adriana Calcanhotto,Público,False,59,131426,10,1,4,0.453,0.284,0.0292,0.554,0,0.605,0.183,98.974
+3KlMhwXiTdFjg86xBbDMlB,https://open.spotify.com/track/3KlMhwXiTdFjg86xBbDMlB,Vambora (Ao Vivo),Adriana Calcanhotto,Público,False,55,302133,9,0,4,0.381,0.411,0.0285,0.725,2.2e-06,0.0846,0.139,129.376
+0KtpvAIKMUD4wSsHv25IMn,https://open.spotify.com/track/0KtpvAIKMUD4wSsHv25IMn,Garota de Ipanema,Toquinho,"Obrigado, Vinicius",False,36,150560,9,0,4,0.577,0.614,0.0389,0.311,0.037,0.143,0.713,157.962
+5i2sgqnzaxYpvXmGAB592h,https://open.spotify.com/track/5i2sgqnzaxYpvXmGAB592h,Corcovado - Quiet Nights Of Quiet Stars,Stan Getz,Getz/Gilberto (Classics International Version),False,13,253933,0,1,4,0.524,0.108,0.0493,0.957,0.00123,0.139,0.322,127.982
+42k3V3GgBKOTuaFEggP8yx,https://open.spotify.com/track/42k3V3GgBKOTuaFEggP8yx,Wave,Antônio Carlos Jobim,Bossa Nova,False,39,201680,2,1,4,0.52,0.416,0.0381,0.263,4.28e-06,0.314,0.701,144.178
+5lLKJdDPy7qbsta6d88lKE,https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE,Aliança,Tribalistas,Tribalistas,False,55,236970,10,0,3,0.641,0.314,0.032,0.96,3.61e-05,0.0991,0.335,132.983
+66O1SfDryBYk9i3RcV5AXq,https://open.spotify.com/track/66O1SfDryBYk9i3RcV5AXq,Trem-Bala - Acústico,Ana Vilela,Trem-Bala,False,54,176630,11,1,3,0.406,0.345,0.0303,0.794,0,0.113,0.517,96.931
+3eGK0WFi6ISJ9UZA6Za4HX,https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX,Singular,ANAVITÓRIA,ANAVITÓRIA,False,1,206108,11,1,4,0.744,0.303,0.0341,0.684,2.09e-06,0.109,0.306,119.713
+32Ql8cNUBDyBunvQ1gYsYj,https://open.spotify.com/track/32Ql8cNUBDyBunvQ1gYsYj,Como uma onda - Zen-surfismo,Lulu Santos,Tão Bem,False,22,217026,10,0,4,0.85,0.422,0.0569,0.405,0.000117,0.0541,0.805,116.85
+2TI5GBkbrrFtZRM5v1heeb,https://open.spotify.com/track/2TI5GBkbrrFtZRM5v1heeb,Trem Das Onze,Adoniran Barbosa,Adoniran Barbosa,False,48,184000,4,0,4,0.675,0.449,0.0613,0.541,0.00337,0.069,0.803,91.773
+60TftyBmMIL7wBdM37KuRj,https://open.spotify.com/track/60TftyBmMIL7wBdM37KuRj,Coração Vagabundo,Gal Costa,Divino Maravilhoso - Gal Costa Interpreta Caetano Veloso (CD 1),False,41,143426,0,0,1,0.518,0.308,0.0451,0.788,0.0571,0.133,0.368,81.149
+1zcO4RvZ3bZwZNTtm9fH0s,https://open.spotify.com/track/1zcO4RvZ3bZwZNTtm9fH0s,Mais Feliz (Ao Vivo),Adriana Calcanhotto,Público,False,36,170026,9,0,4,0.57,0.469,0.0386,0.866,0,0.703,0.234,111.238
+41CHb7F7SXcmkj0h8wekeF,https://open.spotify.com/track/41CHb7F7SXcmkj0h8wekeF,Gloomy Sunday (with Teddy Wilson & His Orchestra) - Take 1,Billie Holiday,Lady Day: The Complete Billie Holiday On Columbia (1933-1944),False,50,190800,7,0,3,0.484,0.0823,0.0364,0.98,2.47e-06,0.159,0.191,127.089
+1LGqJ3nvxpVXDWpEzq4DJD,https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD,All of Me (with Eddie Heywood & His Orchestra),Billie Holiday,Lady Day: The Complete Billie Holiday On Columbia (1933-1944),False,60,181440,2,0,5,0.504,0.0644,0.0408,0.972,4.36e-06,0.174,0.403,106.994
+66wg8mmkyOHQwLKHj4ghdi,https://open.spotify.com/track/66wg8mmkyOHQwLKHj4ghdi,Fly Me To The Moon,Frank Sinatra,Ultimate Sinatra,False,7,147146,0,1,4,0.67,0.365,0.0564,0.525,0,0.0575,0.45,119.342
+1iku5uJ91CxXVmgWQt7y7S,https://open.spotify.com/track/1iku5uJ91CxXVmgWQt7y7S,All I Ever Want Is You,Tim McMorris,I'd Choose You Again,False,18,171366,0,1,4,0.749,0.459,0.0287,0.841,6.67e-05,0.0908,0.456,138.968
+1DlMvkIrN7Rd1LYzy1MXpy,https://open.spotify.com/track/1DlMvkIrN7Rd1LYzy1MXpy,Tigresa - Original Album,Caetano Veloso,Caetano (Série Grandes Nomes Vol. 1),False,50,380560,1,0,4,0.553,0.213,0.0921,0.848,1.72e-05,0.112,0.455,129.069
+51cDAyLNT8pQmpDrbkEhSq,https://open.spotify.com/track/51cDAyLNT8pQmpDrbkEhSq,Luz Do Sol,Caetano Veloso,Caetanear,False,0,213333,2,1,4,0.31,0.0793,0.043,0.943,0.00382,0.0959,0.168,121.841
+6kCjKljGsnyzXaKKH9Cbgu,https://open.spotify.com/track/6kCjKljGsnyzXaKKH9Cbgu,Sonhos,Caetano Veloso,"Cores, Nomes",False,50,180453,0,0,4,0.626,0.0914,0.0856,0.826,0.000131,0.113,0.471,121.171
+4yRPGDmtIWZjhIPcEvPxsF,https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF,Strangers In The Night,Frank Sinatra,Strangers In The Night (Expanded Edition),False,14,157866,5,1,4,0.292,0.487,0.0285,0.615,0,0.178,0.531,93.309
+5E1707ifBAiZp9yJobsebZ,https://open.spotify.com/track/5E1707ifBAiZp9yJobsebZ,Onde Anda Você,Toquinho,20 Grandes Sucessos De Vinicius De Moreas,False,1,168426,4,0,3,0.687,0.39,0.0325,0.694,0.0305,0.0946,0.582,109.654
+6tyYK7y3kboS7GQulNtwo5,https://open.spotify.com/track/6tyYK7y3kboS7GQulNtwo5,Pela luz dos olhos teus,Antônio Carlos Jobim,"Jobim, Vinicius, Baden, Menescal, Lyra... (54 Songs)",False,20,168226,9,1,3,0.444,0.233,0.0547,0.894,0,0.118,0.775,116.891
+2PPuqvncha4s6dDchGB7eG,https://open.spotify.com/track/2PPuqvncha4s6dDchGB7eG,Qualquer Coisa,Caetano Veloso,Caetanear,False,0,193333,2,1,4,0.677,0.152,0.0583,0.539,0,0.442,0.723,111.699
+4jMInyPdtYP3mbOTWyOFhh,https://open.spotify.com/track/4jMInyPdtYP3mbOTWyOFhh,Carinhoso,Paulinho Da Viola,Coleção,False,0,112226,7,1,4,0.6,0.28,0.0398,0.788,4.97e-06,0.137,0.263,105.122
+1op7nM2R2M6FAU6dSCTRWV,https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV,Preciso Me Encontrar,Cartola,Raizes Do Samba,False,54,179933,2,0,4,0.563,0.425,0.0665,0.913,0.0054,0.306,0.679,77.209
+4dDvtBzbQqy7iG5Jfr0qif,https://open.spotify.com/track/4dDvtBzbQqy7iG5Jfr0qif,Sunday Morning - Acoustic,Maroon 5,1.22.03 Acoustic,False,9,254853,7,1,4,0.418,0.666,0.109,0.571,0,0.709,0.737,82.06
+5mVDhLnXTHlBWJnMHXa9Qs,https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs,Halo,Lotte Kestner,The Bluebird of Happiness,False,62,269920,9,1,4,0.576,0.121,0.036,0.952,0.00111,0.1,0.063,116.826
+2DaVc0C6Yi1VCXFrHNi1aM,https://open.spotify.com/track/2DaVc0C6Yi1VCXFrHNi1aM,Sampa,Caetano Veloso,Caetanear,False,1,196333,0,1,4,0.76,0.0435,0.166,0.605,0,0.26,0.55,114.539
+3m2FNr5FlOyf94Slpae7vy,https://open.spotify.com/track/3m2FNr5FlOyf94Slpae7vy,O último romântico,Lulu Santos,O Último Romântico,False,43,252306,4,1,4,0.716,0.494,0.0288,0.62,1.28e-05,0.303,0.805,129.864
+2RPHy1PlxehscIM1K1wQMy,https://open.spotify.com/track/2RPHy1PlxehscIM1K1wQMy,Nova Bossa Nova,Marcos Valle,Far Out Bossa Nova,False,1,246400,8,1,4,0.598,0.739,0.0452,0.523,0.725,0.146,0.881,95.018
+0NFVg74sSsdU1gNc9xfpIO,https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO,Aonde Quer Que Eu Vá,Os Paralamas Do Sucesso,Arquivo II 1991 - 2000,False,64,257333,0,1,4,0.6,0.537,0.0273,0.509,0.303,0.101,0.316,78.049
+1DnSZ9M8uvX0UebR3dmBNI,https://open.spotify.com/track/1DnSZ9M8uvX0UebR3dmBNI,Easy,Commodores,Commodores,False,23,256426,10,0,4,0.589,0.384,0.0332,0.112,2.8e-05,0.0596,0.354,132.909
+05c0xQt46QZBFQs32W5dZB,https://open.spotify.com/track/05c0xQt46QZBFQs32W5dZB,Tomara,Vinícius,Como Dizia O Poeta...,False,39,132173,7,1,4,0.517,0.541,0.0394,0.567,0,0.143,0.827,103.401
+76Zi40dd2HoTn3sehttJhY,https://open.spotify.com/track/76Zi40dd2HoTn3sehttJhY,My Way,Frank Sinatra,My Way (40th Anniversary Edition),False,14,276800,2,1,4,0.28,0.388,0.0314,0.689,0,0.122,0.223,148.033
+10WmdQPLvZ72KEIVabJDRP,https://open.spotify.com/track/10WmdQPLvZ72KEIVabJDRP,Tudo Na Mais Santa Paz,Vinícius de Moraes,20 Grandes Sucessos De Toquinho & Vinicius,False,0,220171,9,0,4,0.616,0.485,0.0456,0.634,6.35e-05,0.241,0.599,84.697
+7crW4JI0pCXpD8megZliLS,https://open.spotify.com/track/7crW4JI0pCXpD8megZliLS,Como Dizia O Poeta,Vinícius,Como Dizia O Poeta...,False,35,194133,2,0,4,0.506,0.72,0.0717,0.489,0,0.148,0.95,113.373
+4smh7ZvaEntvNMB8lJmrZR,https://open.spotify.com/track/4smh7ZvaEntvNMB8lJmrZR,"I Won't Say (I'm In Love) - From ""Hercules"" / Soundtrack Version",Susan Egan,Hercules,False,0,140226,0,1,4,0.684,0.481,0.0391,0.228,0,0.157,0.48,121.208
+5UCcfmuRD2N2G0fhJVk2KQ,https://open.spotify.com/track/5UCcfmuRD2N2G0fhJVk2KQ,One,Three Dog Night,The Collection,False,37,183493,5,0,4,0.567,0.433,0.0337,0.134,3.74e-05,0.11,0.43,124.032
+14HC3Anbaf8Ahwk0swKkJT,https://open.spotify.com/track/14HC3Anbaf8Ahwk0swKkJT,Samba Da Volta,Vinícius de Moraes,Pure Bossa Nova,False,0,173440,9,0,4,0.364,0.485,0.0408,0.842,0.0024,0.173,0.761,86.887
+4lHQCzdK3VdYQvQZnnRouG,https://open.spotify.com/track/4lHQCzdK3VdYQvQZnnRouG,Alone Again (Naturally),Gilbert O'Sullivan,Back to Front (Deluxe Edition),False,64,217728,8,0,4,0.558,0.464,0.0354,0.583,0.000133,0.159,0.559,171.762
+0VxocBntP1XTZRsR9ZURPS,https://open.spotify.com/track/0VxocBntP1XTZRsR9ZURPS,La Vie En Rose,Daniela Andrade,La Vie En Rose,False,65,105500,4,1,4,0.475,0.149,0.0395,0.844,0,0.14,0.318,95.423
+21UOaXTxPAFsJoASQiKmLL,https://open.spotify.com/track/21UOaXTxPAFsJoASQiKmLL,Eu Me Chamo Antônio,Versos Que Compomos Na Estrada,Eu Me Chamo Antônio,False,36,176120,2,0,3,0.42,0.174,0.137,0.9,0,0.376,0.135,172.358
+3GRtME3sE1NG48uO26fSKF,https://open.spotify.com/track/3GRtME3sE1NG48uO26fSKF,"You've Got a Friend In Me - From ""Toy Story"" / Soundtrack",Randy Newman,Toy Story,False,1,124160,0,0,4,0.689,0.333,0.0307,0.817,5.13e-06,0.285,0.471,115.835
+69l8nFPu0LWmnoJX7YSVYc,https://open.spotify.com/track/69l8nFPu0LWmnoJX7YSVYc,You've Got a Friend,James Taylor,Mud Slide Slim and the Blue Horizon,False,67,268706,9,1,4,0.695,0.282,0.0295,0.681,0.0267,0.0767,0.445,91.681
+6KahqT8w0AhtBOVtbXJwLf,https://open.spotify.com/track/6KahqT8w0AhtBOVtbXJwLf,O Segundo Sol,Nando Reis,Moska Apresenta Zoombido: Nando Reis,False,21,240136,9,1,4,0.506,0.313,0.0397,0.814,0,0.229,0.543,154.759
+3mj6prXmzqkj3PA3lg5ySK,https://open.spotify.com/track/3mj6prXmzqkj3PA3lg5ySK,Snowman,Sia,Snowman,False,12,165906,1,1,3,0.716,0.512,0.0331,0.483,0,0.0928,0.326,104.957
+5UYHuguNOMw8o5oJowbcU5,https://open.spotify.com/track/5UYHuguNOMw8o5oJowbcU5,Saudade fez um samba,João Gilberto,Chilling with Joao Gelberto,False,1,108346,2,1,4,0.716,0.253,0.0537,0.897,0,0.0843,0.889,87.884
+0dWOiVQwoUYTtXD0VVgmJQ,https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ,Chega de Saudade,João Gilberto,Rosa Morena,False,44,121986,4,0,4,0.563,0.242,0.0327,0.743,0,0.166,0.647,87.771
+55NFKYoD6rxiAwjT8SCDr6,https://open.spotify.com/track/55NFKYoD6rxiAwjT8SCDr6,Florindo,Mariana Aydar,"Peixes, Pássaros, Pessoas",False,35,299560,1,1,4,0.73,0.444,0.0719,0.825,0.000146,0.0646,0.818,88.029
+0Vlm4myT8Dbv33cDOfS2i3,https://open.spotify.com/track/0Vlm4myT8Dbv33cDOfS2i3,Tristeza,Toquinho,O Melhor da Parceria,False,24,246453,4,0,4,0.488,0.306,0.0389,0.928,0.793,0.111,0.252,103.437
+1I6hI9D2b1UXZUGoP8ixM0,https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0,Top to Toe,Fenne Lily,Top to Toe,False,54,216415,1,1,4,0.569,0.184,0.0584,0.908,0,0.114,0.309,110.916
+1uP8UVMXcTJn28TbhfR2Wo,https://open.spotify.com/track/1uP8UVMXcTJn28TbhfR2Wo,Paul,Big Thief,Masterpiece,False,63,183894,11,1,4,0.483,0.263,0.0401,0.199,0.000306,0.109,0.166,123.453
+3lAATXL4RhFPysjdODpT4k,https://open.spotify.com/track/3lAATXL4RhFPysjdODpT4k,Insensatez,Antônio Carlos Jobim,Bossa Nova,False,28,262293,11,0,4,0.31,0.403,0.0309,0.102,0.000518,0.0801,0.293,129.155
+1goUT7yXysKORNNkcxtpxk,https://open.spotify.com/track/1goUT7yXysKORNNkcxtpxk,Pensando Em Você,Paulinho Moska,Nova Bis,False,53,186693,7,1,4,0.484,0.414,0.0335,0.284,0,0.119,0.467,143.571
+4DnhC8qf5Ujuqv6XrUOMzE,https://open.spotify.com/track/4DnhC8qf5Ujuqv6XrUOMzE,Valeu,Celso Fonseca,Juventude / Slow Motion Bossa Nova,False,15,317893,0,1,4,0.611,0.228,0.0307,0.767,0.695,0.112,0.132,96.017
+5cWCu7pGLyOA5ZcnVzolcT,https://open.spotify.com/track/5cWCu7pGLyOA5ZcnVzolcT,Índia,Roberto Carlos,Roberto Carlos (2005),False,30,222800,2,1,3,0.443,0.396,0.0299,0.674,0.00325,0.122,0.365,178.071
+77aWqhX9yVfwj2P50AnvKi,https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi,Estácio Eu e Você - Ao Vivo,Luiz Melodia,Luiz Melodia Especial MTV (Ao Vivo),False,46,185706,11,0,4,0.658,0.584,0.168,0.573,1.96e-05,0.728,0.845,81.96
+3ztCt91U2wGkDZuzbCwH6H,https://open.spotify.com/track/3ztCt91U2wGkDZuzbCwH6H,Black Hole Sun,Soundgarden,Superunknown (20th Anniversary),False,12,318586,6,1,4,0.351,0.822,0.0408,0.000185,0.000117,0.0766,0.158,105.503
+1xCbDvw3UNReOWq9BbAThc,https://open.spotify.com/track/1xCbDvw3UNReOWq9BbAThc,O Mundo É Um Moinho,Cartola,Raizes Do Samba,False,52,235533,9,1,4,0.485,0.259,0.0578,0.939,0.000323,0.11,0.519,83.637
+76bcaYeKOKTrj9lEc9BZFU,https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU,Quando Bate Aquela Saudade,Rubel,Pearl,False,61,394706,7,1,4,0.55,0.314,0.0326,0.895,0.0107,0.188,0.595,90.088
+623FjLu3438Wk5urTsN4sS,https://open.spotify.com/track/623FjLu3438Wk5urTsN4sS,One Last Breath,Creed,Weathered,False,3,238240,2,1,4,0.39,0.702,0.036,0.00883,0.00207,0.342,0.195,125.686
+0ofHAoxe9vBkTCp2UQIavz,https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz,Dreams - 2004 Remaster,Fleetwood Mac,Rumours (Super Deluxe),False,78,257800,0,1,4,0.828,0.492,0.0276,0.0644,0.00428,0.128,0.789,120.151
+5ihS6UUlyQAfmp48eSkxuQ,https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ,Landslide,Fleetwood Mac,Fleetwood Mac,False,76,199493,7,0,4,0.414,0.161,0.0318,0.883,0.000223,0.117,0.423,159.375
+6iONcGH0iIzAGKrJUMlOPy,https://open.spotify.com/track/6iONcGH0iIzAGKrJUMlOPy,Dirty Work,Steely Dan,Can't Buy A Thrill,False,6,188693,1,1,4,0.625,0.352,0.0318,0.799,9.06e-05,0.0914,0.493,73.03
+69YS619ra1i2BJflnjeMI3,https://open.spotify.com/track/69YS619ra1i2BJflnjeMI3,Give Me One Reason - 2015 Remaster,Tracy Chapman,Greatest Hits,False,39,268240,11,1,4,0.595,0.519,0.0316,0.649,8.09e-06,0.102,0.61,98.506
+2DjWsDGgL1xNbhnr7f6t5F,https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F,Baby Can I Hold You,Tracy Chapman,Tracy Chapman,False,71,193120,2,1,4,0.692,0.422,0.0333,0.0811,0,0.0848,0.468,74.375
+19Ym5Sg0YyOCa6ao21bdoG,https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG,Gypsy,Fleetwood Mac,Greatest Hits,False,68,264906,5,1,4,0.622,0.54,0.0261,0.017,0.00771,0.265,0.847,130.879
+05oETzWbd4SI33qK2gbJfR,https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR,Rhiannon,Fleetwood Mac,Fleetwood Mac,False,67,252773,9,0,4,0.723,0.49,0.0296,0.111,0.0946,0.0923,0.795,129.012
+7Dm3dV3WPNdTgxoNY7YFnc,https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc,The Chain - 2004 Remaster,Fleetwood Mac,Rumours,False,62,269813,9,1,4,0.522,0.755,0.0524,0.0517,6.63e-05,0.0781,0.637,151.796
+7gOoGHzlmNEUhxl0p11LDs,https://open.spotify.com/track/7gOoGHzlmNEUhxl0p11LDs,Tempo de Pipa,Cícero,Canções de Apartamento,False,25,222653,2,1,4,0.63,0.495,0.0257,0.846,0.0785,0.11,0.555,109.02
+5ZBSB6VUppEsROi81im6cn,https://open.spotify.com/track/5ZBSB6VUppEsROi81im6cn,I Was Born To Love You,Freddie Mercury,Messenger Of The Gods: The Singles Collection,False,0,219373,8,1,4,0.577,0.674,0.0345,0.0148,1.23e-05,0.441,0.356,139.436
+379wqj7mJ2IIeIQvLtNpDk,https://open.spotify.com/track/379wqj7mJ2IIeIQvLtNpDk,Durch die schweren Zeiten,Udo Lindenberg,Stärker als die Zeit,False,46,234291,7,1,4,0.578,0.503,0.0303,0.148,0,0.104,0.353,145.924
+3CclvSD4a5DMLpOw1gEfKa,https://open.spotify.com/track/3CclvSD4a5DMLpOw1gEfKa,Recuérdame (Arrullo),Gael Garcia Bernal,Coco (Banda Sonora Original en Español),False,0,69813,4,0,4,0.531,0.129,0.0885,0.902,0.000134,0.122,0.0946,150.525
+1IdM9JrXYuMYiTdM983oH4,https://open.spotify.com/track/1IdM9JrXYuMYiTdM983oH4,"Not Spring, Love, or Cherry Blossoms","High4, IU","Not Spring, Love, or Cherry Blossoms",False,54,195265,7,1,4,0.77,0.484,0.0538,0.464,0,0.44,0.793,79.988
+3y7ByLZ05tluscOTRgEJ9Y,https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y,Palette (Feat. G-DRAGON),IU,Palette,False,66,217412,0,1,4,0.804,0.68,0.2,0.458,0,0.102,0.62,102.013
+3aqTTareFsrd7gMeV7Qvif,https://open.spotify.com/track/3aqTTareFsrd7gMeV7Qvif,How Deep Is Your Love,Bee Gees,Greatest,False,12,245200,5,0,4,0.633,0.357,0.0264,0.105,0,0.133,0.674,104.938
+5lc0LIe6LLZYM0qjCfepD3,https://open.spotify.com/track/5lc0LIe6LLZYM0qjCfepD3,Demorou Pra Ser,Vanguart,Muito Mais Que o Amor,False,48,216240,4,1,4,0.47,0.492,0.0305,0.0941,4.94e-05,0.0826,0.549,116.744
+34HzaozRuzF3BSjsMrBqIs,https://open.spotify.com/track/34HzaozRuzF3BSjsMrBqIs,E o Meu Peito Mais Aberto Que o Mar da Bahia,Vanguart,Beijo Estranho,False,42,289560,7,1,4,0.299,0.663,0.0409,0.0288,0,0.48,0.427,127.249
+6HwFsywW6lLyFwpRN7gU18,https://open.spotify.com/track/6HwFsywW6lLyFwpRN7gU18,Starry Starry Night,Lianne La Havas,Loving Vincent (Original Motion Picture Soundtrack),False,41,283504,7,1,4,0.304,0.279,0.0375,0.933,0,0.118,0.167,86.231
+0C5ex13H3zRMsqSROZu78W,https://open.spotify.com/track/0C5ex13H3zRMsqSROZu78W,I Put A Spell On You,Nina Simone,I Put A Spell On You,False,14,155026,6,0,3,0.42,0.398,0.0296,0.755,0.000537,0.172,0.364,88.897
+39CyGKIFqMzSuynOR8uilD,https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD,Baltimore,Nina Simone,Baltimore,False,62,278866,9,1,4,0.638,0.28,0.0673,0.417,0.439,0.0611,0.734,154.955
+0Ua1o04WdJ2RNESWxOUnRT,https://open.spotify.com/track/0Ua1o04WdJ2RNESWxOUnRT,Mood Indigo,Nina Simone,Let It All Out,False,0,146626,6,0,4,0.569,0.432,0.0428,0.84,0,0.164,0.531,120.37
+6ePyl2ns4b7MVYhjsj32ZK,https://open.spotify.com/track/6ePyl2ns4b7MVYhjsj32ZK,Intro: Singularity,BTS,Love Yourself 轉 'Tear',False,63,196998,1,0,3,0.775,0.271,0.092,0.554,0.00285,0.112,0.204,104.001
+17YuXw2ScwLLL1sUrRKhoW,https://open.spotify.com/track/17YuXw2ScwLLL1sUrRKhoW,Fantasy,Alina Baraz,Urban Flora,False,54,218947,4,0,4,0.68,0.747,0.091,0.353,0,0.138,0.331,113.933
+3rGFsUgyH9GbbYJT4iwbhJ,https://open.spotify.com/track/3rGFsUgyH9GbbYJT4iwbhJ,To Love Somebody,Bee Gees,Bee Gees' 1st,False,16,182000,9,1,4,0.423,0.384,0.0315,0.729,4.11e-06,0.27,0.521,90.43
+5RXXFTS0PCEc5HcnZ9cyEZ,https://open.spotify.com/track/5RXXFTS0PCEc5HcnZ9cyEZ,I'm A Fool to Want You,Frank Sinatra,The Essential Frank Sinatra,False,38,175000,3,0,5,0.156,0.125,0.0375,0.927,0.000383,0.0818,0.116,85.772
+1boXOL0ua7N2iCOUVI1p9F,https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F,Japanese Denim,Daniel Caesar,Get You - Single,True,74,270846,3,1,3,0.707,0.238,0.0379,0.0905,2.42e-06,0.0842,0.345,124.156
+5SFT7iYVPd3eSVphptJ42i,https://open.spotify.com/track/5SFT7iYVPd3eSVphptJ42i,Wasn't Looking,ELIZA,Wasn't Looking,False,46,236662,5,0,4,0.845,0.176,0.0598,0.0858,0.0104,0.109,0.587,82.004
+1BA4OdphRNKQSeHrMHLAWg,https://open.spotify.com/track/1BA4OdphRNKQSeHrMHLAWg,Baby Blue,King Krule,6 Feet Beneath the Moon,False,56,215506,3,1,4,0.468,0.331,0.036,0.613,0.00108,0.129,0.09,102.448
+0258EtxjiL6jPMPcqyVSEQ,https://open.spotify.com/track/0258EtxjiL6jPMPcqyVSEQ,Come on Then,Lily Allen,No Shame,True,42,191400,1,1,4,0.52,0.629,0.179,0.0261,0,0.125,0.32,143.961
+5qtMUB20QK1aLu8Wz4QCiM,https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM,Apples,Lily Allen,No Shame,True,44,219866,9,0,4,0.653,0.149,0.0862,0.972,3.27e-06,0.152,0.712,103.706
+7h478wd02smsa9jlda6Son,https://open.spotify.com/track/7h478wd02smsa9jlda6Son,Three,Lily Allen,No Shame,False,41,218640,8,1,4,0.529,0.288,0.0267,0.892,0.00029,0.17,0.19,131.794
+0KyzXQhY2yzcb1FYCHkZc2,https://open.spotify.com/track/0KyzXQhY2yzcb1FYCHkZc2,Blessed,Daniel Caesar,Freudian,False,66,241370,11,1,1,0.448,0.263,0.0373,0.824,1.91e-06,0.106,0.451,109.889
+7zFXmv6vqI4qOt4yGf3jYZ,https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ,Get You (feat. Kali Uchis),Daniel Caesar,Freudian,False,76,278179,4,0,4,0.658,0.294,0.0321,0.422,5.2e-05,0.0749,0.358,74.038
+29aLE9yGzY3nlU71GiMrRl,https://open.spotify.com/track/29aLE9yGzY3nlU71GiMrRl,crash,EDEN,vertigo,True,0,232412,0,0,4,0.505,0.228,0.064,0.872,0.000208,0.119,0.182,119.62
+4HbeGjbt7u3pvwDk1vN7P0,https://open.spotify.com/track/4HbeGjbt7u3pvwDk1vN7P0,Mystery of Love,Sufjan Stevens,Call Me By Your Name (Original Motion Picture Soundtrack),False,71,248964,4,0,5,0.365,0.273,0.038,0.94,0.431,0.109,0.238,132.285
+0sHFw13WH3LtSB3yP8UMYJ,https://open.spotify.com/track/0sHFw13WH3LtSB3yP8UMYJ,Falling for U,Peachy!,Falling for U,False,77,124000,8,0,4,0.516,0.358,0.424,0.741,1.34e-06,0.0813,0.397,79.509
+5lH3H5LMsBnWfec33fui3w,https://open.spotify.com/track/5lH3H5LMsBnWfec33fui3w,Through and Through,khai dreams,Through and Through,False,68,113684,6,1,4,0.852,0.424,0.0463,0.383,0,0.0843,0.591,94.934
+2dIPAPCa05Hh2Esift0sVX,https://open.spotify.com/track/2dIPAPCa05Hh2Esift0sVX,Ultimately,khai dreams,Ultimately,False,62,142028,5,1,4,0.734,0.222,0.229,0.896,0,0.343,0.62,106.946
+4Xq5grh3zskbbhW1btJzEp,https://open.spotify.com/track/4Xq5grh3zskbbhW1btJzEp,Feels to Lie,Jalen Tyree,Trident,True,31,136463,1,0,4,0.542,0.212,0.557,0.905,1.56e-06,0.164,0.489,74.664
+7nL48xOPl0CraSaxKonp8j,https://open.spotify.com/track/7nL48xOPl0CraSaxKonp8j,That's Life,Frank Sinatra,Ultimate Sinatra,False,51,186133,2,1,4,0.458,0.692,0.0485,0.458,0,0.587,0.576,112.755
+0GN3fXUdsTHeUg50xfDS0V,https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V,Sugar for the Pill,Slowdive,Slowdive,False,58,270918,7,1,4,0.533,0.545,0.0243,0.207,0.797,0.113,0.419,98.014
+55CenVQ4alvDJ1PS8aYB0m,https://open.spotify.com/track/55CenVQ4alvDJ1PS8aYB0m,Alison,Slowdive,Souvlaki,False,5,231893,4,1,4,0.279,0.423,0.038,0.00957,0.837,0.128,0.291,101.571
+4CUTUsBGjHslu2Bd3AOXGg,https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg,Basta Ya,The Marías,"Superclean, Vol. I",False,54,176599,11,0,4,0.766,0.3,0.0375,0.592,0.00158,0.114,0.44,85.996
+4cJOLN346rtOty3UPACsao,https://open.spotify.com/track/4cJOLN346rtOty3UPACsao,I Don't Know You,The Marías,I Don't Know You,False,65,209449,9,0,4,0.884,0.333,0.0617,0.293,0.0205,0.103,0.587,118.065
+2hINe4TGrBcbiLPHveBvt8,https://open.spotify.com/track/2hINe4TGrBcbiLPHveBvt8,Song for Lovers,The Dø,A Mouthful,False,33,144320,9,0,4,0.534,0.181,0.0365,0.928,3.69e-05,0.382,0.24,143.837
+59ONqMEvrUq2iaiQbfRc3q,https://open.spotify.com/track/59ONqMEvrUq2iaiQbfRc3q,Por você,Barão Vermelho,Balada MTV,False,62,212493,4,1,4,0.645,0.535,0.0286,0.157,1.8e-05,0.72,0.5,136.464
+7CdEv0V9XkmPrIfSELPqGf,https://open.spotify.com/track/7CdEv0V9XkmPrIfSELPqGf,Butterfly Dream,Turnover,Good Nature,False,37,207861,8,1,4,0.715,0.607,0.0307,0.226,0.327,0.111,0.739,121.99
+10IhhMK2kwyTHIlAZD8rMw,https://open.spotify.com/track/10IhhMK2kwyTHIlAZD8rMw,A Música Mais Triste do Ano,Luiz Lins,A Música Mais Triste do Ano - Single,False,56,175000,10,1,4,0.499,0.274,0.0573,0.606,0.000733,0.108,0.102,110.757
+5HBHugGwJVVWnnPBubGAY7,https://open.spotify.com/track/5HBHugGwJVVWnnPBubGAY7,Choro Chorado Pra Paulinho Nogueira,Toquinho E Paulinho Noguiera,Toquinho E Paulinho Nogueira,False,0,169200,5,1,4,0.536,0.265,0.0405,0.953,0.0108,0.139,0.618,155.918
+1P5LNF98A4MgUvqTEXemEu,https://open.spotify.com/track/1P5LNF98A4MgUvqTEXemEu,Um Girassol Da Cor Do Seu Cabelo,Lô Borges,Para Sempre,False,48,250333,9,0,4,0.29,0.323,0.0291,0.58,0.000589,0.29,0.174,142.044
+6SEolIp22t0DzeBfCBo3hr,https://open.spotify.com/track/6SEolIp22t0DzeBfCBo3hr,Vibin' Out with ((( O ))),FKJ,French Kiwi Juice,False,65,311837,3,1,4,0.41,0.169,0.0485,0.847,0.00327,0.117,0.208,89.494
+6hwrxnBXln6pXeMJc6b6Im,https://open.spotify.com/track/6hwrxnBXln6pXeMJc6b6Im,Agua De Beber,Astrud Gilberto,The Astrud Gilberto Album,False,3,139253,4,0,4,0.639,0.351,0.04,0.394,1.01e-06,0.0712,0.815,148.057
+6wUp7y502iyWLuLuurlOyw,https://open.spotify.com/track/6wUp7y502iyWLuLuurlOyw,A Banda,Chico Buarque,Chico Buarque de Hollanda,False,46,131000,2,1,4,0.67,0.669,0.0476,0.831,6.89e-05,0.101,0.927,118.968
+0XI3xzi3W1sBDfri2FKtj9,https://open.spotify.com/track/0XI3xzi3W1sBDfri2FKtj9,João E Maria,Chico Buarque,Chico 50 Anos - O Trovador,False,53,141773,7,0,3,0.55,0.33,0.0366,0.683,0.000432,0.0933,0.553,115.131
+2OkORtjlS6pJutIby9jjRx,https://open.spotify.com/track/2OkORtjlS6pJutIby9jjRx,Tua Cantiga,Chico Buarque,Caravanas,False,42,251480,8,1,3,0.63,0.38,0.0328,0.646,1.27e-05,0.114,0.315,82.033
+0xkjLNqmzIfXB4ONY8kJ1c,https://open.spotify.com/track/0xkjLNqmzIfXB4ONY8kJ1c,Good Little Girl,Adriana Figueroa,Mathematical! (Adventure Time EP),False,38,75343,0,1,3,0.42,0.17,0.0314,0.948,8.28e-05,0.167,0.64,135.381
+4P0yLay4gFvWWKxM6egrn7,https://open.spotify.com/track/4P0yLay4gFvWWKxM6egrn7,It's Over Isn't It,Steven Universe,"Steven Universe, Vol. 1 (Original Soundtrack)",False,59,138006,0,1,3,0.552,0.199,0.0571,0.868,0,0.107,0.4,114.94
+4zdV93zH1PbPAM5f261CvQ,https://open.spotify.com/track/4zdV93zH1PbPAM5f261CvQ,"I Remember You (From ""Adventure Time"")",The Marcus Hedges Trend Orchestra,Adventure Time: Themes from Marceline,False,41,196285,0,1,4,0.403,0.0933,0.0313,0.979,0.000554,0.0821,0.124,70.25
+20BJLckTGhiPYaLQox2D2e,https://open.spotify.com/track/20BJLckTGhiPYaLQox2D2e,"Everything Stays (From ""Adventure Time"")",The Marcus Hedges Trend Orchestra,Adventure Time: Themes from Marceline,False,48,111942,7,1,3,0.518,0.157,0.0318,0.978,4.65e-05,0.273,0.469,129.912
+55DyBUkjebkcYhDGfEXitR,https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR,Cariño,The Marías,Cariño,False,58,258713,0,0,4,0.647,0.388,0.0297,0.401,0.0453,0.117,0.669,113.98
+4SyNqGP66aYZjtSePnZ3Le,https://open.spotify.com/track/4SyNqGP66aYZjtSePnZ3Le,Time to Time,khai dreams,Time to Time,False,45,133894,11,1,5,0.567,0.16,0.157,0.921,0,0.104,0.807,125.492
+2LFELeRAne8UMsIlQJcGYM,https://open.spotify.com/track/2LFELeRAne8UMsIlQJcGYM,9pm on a Sunday,khai dreams,9pm on a Sunday,True,45,84000,1,0,4,0.793,0.356,0.143,0.574,4.27e-06,0.0812,0.501,79.992
+60o2QwNYnlEWeMBf5scbWQ,https://open.spotify.com/track/60o2QwNYnlEWeMBf5scbWQ,I Wish You Love,khai dreams,I Wish You Love,False,48,184293,1,1,4,0.7,0.374,0.0687,0.818,0,0.108,0.279,88.028
+53usuYfeK66GLBhm6k7x5e,https://open.spotify.com/track/53usuYfeK66GLBhm6k7x5e,Fantasy,khai dreams,Summer Is Like a Dream,False,62,170666,7,1,4,0.35,0.43,0.131,0.715,0,0.299,0.203,169.908
+2HD2g1syRNaqanstTj8zfJ,https://open.spotify.com/track/2HD2g1syRNaqanstTj8zfJ,Love Like You (End Credits),Steven Universe,"Steven Universe, Vol. 1 (Original Soundtrack)",False,63,143629,0,0,3,0.641,0.242,0.0304,0.879,0,0.15,0.294,118.391
+3dglCYsVMjPbDlU2CC9Vq7,https://open.spotify.com/track/3dglCYsVMjPbDlU2CC9Vq7,Let's See What The Night Can Do,Jason Mraz,Know.,False,62,245186,7,1,4,0.392,0.423,0.0348,0.27,0,0.117,0.288,113.537
+2CxmktXqJwP9KZv6WJtZCm,https://open.spotify.com/track/2CxmktXqJwP9KZv6WJtZCm,Blue Ain't Your Color,Keith Urban,Ripcord,False,52,230600,7,1,3,0.69,0.416,0.0335,0.617,1.37e-06,0.102,0.479,82.45
+0b9djfiuDIMw1zKH6gV74g,https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g,Somebody Like You,Keith Urban,Golden Road,False,65,323040,4,1,4,0.624,0.84,0.0337,0.108,0.000546,0.144,0.656,111.02
+3KGCF68zDut37Ug3fzWgVU,https://open.spotify.com/track/3KGCF68zDut37Ug3fzWgVU,Saudade,Luiz Lins,Saudade,False,57,184841,0,0,4,0.607,0.356,0.109,0.782,0.000211,0.15,0.273,138.001
+1mh5s6XJ3RLJBRPErACsHW,https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW,This Love,Davichi,Descendants Of The Sun (Original Television Soundtrack) Pt.3,False,61,225171,9,1,4,0.405,0.445,0.0337,0.745,0,0.194,0.222,138.76
+1bSpwPhAxZwlR2enJJsv7U,https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U,No Surprises,Radiohead,OK Computer,False,70,229120,5,1,4,0.255,0.393,0.0278,0.0577,0.00361,0.113,0.118,76.426
+7m9OqQk4RVRkw9JJdeAw96,https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96,Jocelyn Flores,XXXTENTACION,17,True,85,119133,0,0,4,0.872,0.391,0.242,0.469,4.13e-06,0.297,0.437,134.021
+0JP9xo3adEtGSdUEISiszL,https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL,Moonlight,XXXTENTACION,?,True,84,135090,9,0,4,0.921,0.537,0.0804,0.556,0.00404,0.102,0.711,128.009
+3ee8Jmje8o58CHK66QrVC2,https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2,SAD!,XXXTENTACION,?,True,85,166605,8,1,4,0.74,0.613,0.145,0.258,0.00372,0.123,0.473,75.023
+5xv4WzAs23f6FCEhr1dP3A,https://open.spotify.com/track/5xv4WzAs23f6FCEhr1dP3A,Me Cura,Ana Muller,Garimpo,False,0,210034,8,0,4,0.588,0.761,0.0313,0.371,0.000205,0.217,0.479,112.063
+31kZMqAJ4QZFQZnQEhfWL7,https://open.spotify.com/track/31kZMqAJ4QZFQZnQEhfWL7,Perfume do Invisível,Céu,Tropix,False,43,308520,7,1,4,0.787,0.355,0.0309,0.803,0.0155,0.0876,0.317,110.023
+6EThJr4Dq1Y93JspecGU2F,https://open.spotify.com/track/6EThJr4Dq1Y93JspecGU2F,Cigarette Daydreams,Cage The Elephant,Melophobia,False,67,208765,2,1,4,0.638,0.668,0.0259,0.0822,0,0.0815,0.299,113.945
+6Jl3ZOX6MUOlyoUc721bsX,https://open.spotify.com/track/6Jl3ZOX6MUOlyoUc721bsX,A Song About Being Sad,Rex Orange County,Bcos U Will Never B Free,True,66,136000,5,1,4,0.568,0.263,0.101,0.891,0,0.183,0.244,111.86
+3rIKurK8njiyQvZQsSU6bl,https://open.spotify.com/track/3rIKurK8njiyQvZQsSU6bl,Nothing,Rex Orange County,Apricot Princess,True,60,293346,9,1,4,0.725,0.418,0.0309,0.346,1.01e-06,0.0658,0.378,77.923
+3PbV3ocgAp3Xn0omGFC0cG,https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG,Untitled,Rex Orange County,Apricot Princess,True,67,135706,9,1,5,0.567,0.199,0.101,0.905,0,0.131,0.329,83.827
+47Bg6IrMed1GPbxRgwH2aC,https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC,Best Friend,Rex Orange County,Best Friend,True,80,262231,6,1,4,0.575,0.714,0.0596,0.395,0,0.115,0.32,144.982
+7bdRgiNBaQnGEjl2uqgIGS,https://open.spotify.com/track/7bdRgiNBaQnGEjl2uqgIGS,Tears Dry - Original Version,Amy Winehouse,Lioness: Hidden Treasures,True,2,248093,4,1,4,0.419,0.805,0.0456,0.269,3.04e-06,0.183,0.47,169.921
+3ml3WB66sqG4kXoPBX2POA,https://open.spotify.com/track/3ml3WB66sqG4kXoPBX2POA,Janet,Berhana,Berhana,True,61,204000,0,1,4,0.81,0.308,0.0818,0.354,0,0.0899,0.56,120.012
+1x1BKrrpq7CfOZPBeUsx16,https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16,Grey Luh,Berhana,Berhana,True,64,261102,0,1,4,0.543,0.298,0.0683,0.597,1.49e-06,0.0804,0.254,125.523
+5p8mIi823BET6E9BcJNbwv,https://open.spotify.com/track/5p8mIi823BET6E9BcJNbwv,Drinkin',JMSN,Whatever Makes U Happy,False,43,283583,10,0,3,0.635,0.56,0.157,0.0246,0.00423,0.301,0.547,129.961
+391cjBOeOMyPTZZl0yUAiF,https://open.spotify.com/track/391cjBOeOMyPTZZl0yUAiF,Cruel Intentions,JMSN,It is.,True,1,346657,11,0,3,0.543,0.301,0.0826,0.351,0.000145,0.467,0.284,122.263
+6VOTgBZ6MaF0Snxen78Hv8,https://open.spotify.com/track/6VOTgBZ6MaF0Snxen78Hv8,Um Dia Útil,Maurício Pereira,Mergulhar Na Surpresa,False,5,244893,1,1,4,0.622,0.277,0.173,0.926,4.73e-06,0.0901,0.783,104.476
+5df99H7yd4phkyAR9feLdf,https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf,Ai de Mim,OUTROEU,OutroEu,False,56,258720,2,1,4,0.391,0.477,0.0276,0.576,0.00137,0.111,0.197,98.758
+2vGvPQNnyybJmiqpr1HiKX,https://open.spotify.com/track/2vGvPQNnyybJmiqpr1HiKX,Sorriso ao Sono,Phill Veras,Carpete,False,48,248480,2,1,4,0.627,0.342,0.0394,0.7,0.166,0.082,0.513,80.03
+4Qq8rERaPWkDuZsvSWR9LL,https://open.spotify.com/track/4Qq8rERaPWkDuZsvSWR9LL,Volta,O Terno,Melhor do Que Parece,False,51,222106,10,1,3,0.387,0.154,0.0405,0.967,0.000113,0.113,0.306,83.347
+4q3KkucNQOahEc2e8ZzxWL,https://open.spotify.com/track/4q3KkucNQOahEc2e8ZzxWL,I'm Just Snacking,Gus Dapperton,I'm Just Snacking,False,4,198000,8,0,4,0.614,0.478,0.0289,0.134,4.52e-06,0.254,0.384,127.994
+4QBs03zMdjDtS6ZRAdojDv,https://open.spotify.com/track/4QBs03zMdjDtS6ZRAdojDv,Courtside,Triathalon,Courtside,False,53,186666,1,0,4,0.668,0.524,0.0391,0.585,0.397,0.252,0.621,139.901
+6iGWH4PRPDwtN9NydaHK8b,https://open.spotify.com/track/6iGWH4PRPDwtN9NydaHK8b,Fool,Cavetown,Lemon Boy,False,69,233785,1,1,4,0.671,0.464,0.149,0.0632,0.073,0.0711,0.131,79.509
+5DC7q4EVZt2vEMZFx4IpzG,https://open.spotify.com/track/5DC7q4EVZt2vEMZFx4IpzG,Lo Que Siento,Cuco,Lo Que Siento,False,1,312000,10,1,5,0.329,0.685,0.17,0.509,0,0.428,0.412,87.986
+5yyRH93h4Pm6tXXYTxt7ea,https://open.spotify.com/track/5yyRH93h4Pm6tXXYTxt7ea,The Blower's Daughter,Damien Rice,O,False,66,286653,4,1,4,0.342,0.2,0.0324,0.134,0.000153,0.341,0.0743,133.113
+2RGe02P8xxSF9syj0ltPjX,https://open.spotify.com/track/2RGe02P8xxSF9syj0ltPjX,Chronic Sunshine,Cosmo Pyke,Chronic Sunshine,False,59,270926,2,1,4,0.431,0.773,0.0636,0.0264,0,0.348,0.504,111.387
+0KyAGiNGUytG5JLxJu4F6l,https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l,Pretty Girl,Clairo,Pretty Girl,False,75,178352,0,1,4,0.93,0.611,0.0415,0.593,0.00124,0.0592,0.695,112.127
+1F6IbA7di42uPc3cff8PXV,https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV,Flaming Hot Cheetos,Clairo,Flaming Hot Cheetos,False,75,123884,7,0,4,0.817,0.551,0.133,0.865,0.000151,0.101,0.142,109.966
+7saliZ9OxOgVZvac91pnHH,https://open.spotify.com/track/7saliZ9OxOgVZvac91pnHH,Lover Is a Day,Cuco,Wannabewithu,True,1,456000,3,1,4,0.398,0.646,0.0412,0.0454,0.206,0.101,0.353,179.853
+5oIvzNfaG5AvFtXvjAiIDR,https://open.spotify.com/track/5oIvzNfaG5AvFtXvjAiIDR,Headspin,Alex Siegel,Headspin,False,35,225750,0,1,4,0.714,0.433,0.03,0.255,0.736,0.7,0.489,157.879
+3Vm6yiTPfhFeUHD4gt42cZ,https://open.spotify.com/track/3Vm6yiTPfhFeUHD4gt42cZ,I Like It,The Marías,"Superclean, Vol. I",False,51,203700,9,0,4,0.919,0.183,0.0614,0.51,0.00205,0.099,0.756,100.018
+1mbuSss0OVqfS00y7yCNCZ,https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ,Ruthless,The Marías,"Superclean, Vol. II",False,61,247455,9,1,4,0.673,0.437,0.0325,0.713,0.152,0.117,0.551,104.996
+7bWTJ9aXMNGoQ3rCQEjEWu,https://open.spotify.com/track/7bWTJ9aXMNGoQ3rCQEjEWu,take you home,slenderbodies,take you home,False,0,230185,5,0,4,0.775,0.541,0.0498,0.165,4.87e-05,0.0929,0.817,97.993
+6k8Z9CtoRLk9mXarke5LHQ,https://open.spotify.com/track/6k8Z9CtoRLk9mXarke5LHQ,gray,slenderbodies,sotto voce,False,55,183157,8,0,4,0.804,0.581,0.107,0.428,0.000112,0.17,0.417,95.033
+4JaWIJ7I4c6lGbSOvr047W,https://open.spotify.com/track/4JaWIJ7I4c6lGbSOvr047W,Chinatown,Harry Teardrop,Chinatown,False,38,230500,11,1,4,0.56,0.539,0.0299,0.493,3.9e-06,0.289,0.46,76.008
+3oEkrIfXfSh9zGnE7eBzSV,https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV,The Winner Takes It All,ABBA,Super Trouper,False,71,294720,6,1,4,0.454,0.788,0.0371,0.574,0.000766,0.0859,0.52,126.15
+6hHXft1nFyvfVv6UoRToPZ,https://open.spotify.com/track/6hHXft1nFyvfVv6UoRToPZ,Our Last Summer,ABBA,Super Trouper,False,50,259733,2,1,4,0.504,0.528,0.0244,0.72,6.28e-05,0.432,0.414,98.341
+05bnEv2dpFzmGVLGdjD9UP,https://open.spotify.com/track/05bnEv2dpFzmGVLGdjD9UP,Orlando,XXXTENTACION,17,True,66,163840,1,1,4,0.57,0.0279,0.0588,0.859,0.0892,0.254,0.28,84.902
+2yZax79pOrYuyIFVW2cZY2,https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2,Carry On,XXXTENTACION,17,True,75,129720,3,0,4,0.735,0.197,0.537,0.768,0.000276,0.296,0.383,147.899
+3GVkPk8mqxz0itaAriG1L7,https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7,Everybody Dies In Their Nightmares,XXXTENTACION,17,True,82,95466,7,0,4,0.734,0.57,0.133,0.847,2.14e-05,0.112,0.689,129.953
+5TXDeTFVRVY7Cvt0Dw4vWW,https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW,Revenge,XXXTENTACION,17,True,74,120026,11,0,4,0.746,0.251,0.259,0.782,0.00203,0.106,0.18,139.999
+74iZuPGwyL33VlTr6jTnab,https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab,Always Remember Us This Way,Lady Gaga,A Star Is Born Soundtrack,False,74,210200,0,1,4,0.553,0.502,0.0409,0.299,0,0.764,0.296,129.976
+14JzyD6FlBD5z0wV5P07YI,https://open.spotify.com/track/14JzyD6FlBD5z0wV5P07YI,when the party's over,Billie Eilish,when the party's over,False,25,199931,1,0,3,0.498,0.104,0.0621,0.979,7.86e-05,0.0895,0.205,124.001
+7qwt4xUIqQWCu1DJf96g2k,https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k,Hello?,Clairo,diary 001,False,73,135016,10,0,4,0.839,0.473,0.0607,0.641,0.000459,0.0939,0.0644,98.732
+2TI2fw9FWPeah6N4k1b4NU,https://open.spotify.com/track/2TI2fw9FWPeah6N4k1b4NU,This Is Home,Cavetown,This Is Home,False,72,226073,7,1,4,0.81,0.266,0.0407,0.56,1.05e-06,0.0962,0.212,130.041
+5dLkQJdUKnsxZP0OTAynxb,https://open.spotify.com/track/5dLkQJdUKnsxZP0OTAynxb,La Luna,KAINA,Sweet Asl.,False,41,130489,0,1,4,0.634,0.404,0.0452,0.857,0.0709,0.0995,0.216,82.22
+5aqu5xhPqoOWqF71PkfgM8,https://open.spotify.com/track/5aqu5xhPqoOWqF71PkfgM8,ATTENTION,Joji,BALLADS 1,True,71,128888,7,1,4,0.787,0.312,0.0383,0.895,0.0224,0.115,0.425,119.899
+48x8fBWfyeSMzLl5gbsjr9,https://open.spotify.com/track/48x8fBWfyeSMzLl5gbsjr9,COME THRU,Joji,BALLADS 1,True,65,153168,0,1,4,0.66,0.596,0.0358,0.163,0.86,0.109,0.0757,77.026
+1DMEzmAoQIikcL52psptQL,https://open.spotify.com/track/1DMEzmAoQIikcL52psptQL,TEST DRIVE,Joji,BALLADS 1,True,73,179423,3,1,4,0.646,0.648,0.0372,0.71,0.00316,0.108,0.466,75.004
+1VGzxJnVQND7Cg5H5wGj14,https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14,YEAH RIGHT,Joji,BALLADS 1,True,78,174357,1,1,4,0.672,0.588,0.133,0.619,0.241,0.0992,0.204,169.033
+39oeKRgsLeynDIbWuXyA47,https://open.spotify.com/track/39oeKRgsLeynDIbWuXyA47,CAN'T GET OVER YOU (feat. Clams Casino),Joji,BALLADS 1,False,75,107076,9,1,4,0.9,0.316,0.332,0.684,0.0771,0.0853,0.844,129.914
+0rKtyWc8bvkriBthvHKY8d,https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d,SLOW DANCING IN THE DARK,Joji,BALLADS 1,True,84,209273,3,1,4,0.515,0.479,0.0261,0.544,0.00598,0.191,0.284,88.964
+5ssuMBqBwZbxN8BCIX5sLo,https://open.spotify.com/track/5ssuMBqBwZbxN8BCIX5sLo,Everything That Isn't Me,Lukas Graham,3 (The Purple Album),False,47,197746,8,1,4,0.702,0.413,0.0961,0.626,3.96e-05,0.103,0.263,75.832
+6iuKYlSk5PxQ3P8O4OrLcj,https://open.spotify.com/track/6iuKYlSk5PxQ3P8O4OrLcj,Lullaby,Lukas Graham,3 (The Purple Album),False,47,191813,10,1,4,0.658,0.493,0.0303,0.077,0,0.108,0.524,139.829
+2GUMnvJq9GUWH5d9XRgTeP,https://open.spotify.com/track/2GUMnvJq9GUWH5d9XRgTeP,You're Not the Only One (Redemption Song),Lukas Graham,3 (The Purple Album),False,52,183640,9,1,4,0.653,0.419,0.0414,0.293,0,0.111,0.366,98.983
+0OCRwXbQRdOZ1OtB4Imsp1,https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1,Love Someone,Lukas Graham,3 (The Purple Album),False,71,205440,9,0,4,0.538,0.409,0.0505,0.172,0,0.11,0.265,171.838
+1xRn1GOSJCqf0HxFEB200o,https://open.spotify.com/track/1xRn1GOSJCqf0HxFEB200o,Promise,Lukas Graham,3 (The Purple Album),False,46,194120,6,0,3,0.767,0.508,0.0457,0.398,0,0.136,0.687,95.97
+5VSlplWVGj9b3HBUJ7Gsnz,https://open.spotify.com/track/5VSlplWVGj9b3HBUJ7Gsnz,Stick Around,Lukas Graham,3 (The Purple Album),False,47,192613,11,0,3,0.369,0.45,0.0411,0.478,6.97e-06,0.111,0.126,185.961
+5mIOsPuQdXchVY0jB5NO9Q,https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q,4EVER,Clairo,4EVER,False,71,159595,9,0,4,0.75,0.585,0.0285,0.049,0.00552,0.155,0.584,102.331
+556b0qVFXcn1eXz1JYXHKg,https://open.spotify.com/track/556b0qVFXcn1eXz1JYXHKg,Your Loving,Will Davila,Your Loving,False,43,205502,10,1,4,0.692,0.38,0.0392,0.533,0.129,0.379,0.764,87.63
+3ishRxjsqYVk6FdAGeeUAP,https://open.spotify.com/track/3ishRxjsqYVk6FdAGeeUAP,Set Piece,Vansire,Angel Youth,False,53,199490,1,0,4,0.541,0.483,0.0514,0.351,0.4,0.111,0.641,80.73
+5HR0ti4siqbTIr1BitbZ7d,https://open.spotify.com/track/5HR0ti4siqbTIr1BitbZ7d,Eu Tô Bem,Luiz Lins,Eu Tô Bem,False,57,134504,0,1,4,0.851,0.496,0.241,0.527,1.96e-06,0.106,0.803,116.015
+3k1Hjff2PVHCeFEhNLCtSa,https://open.spotify.com/track/3k1Hjff2PVHCeFEhNLCtSa,Vem Cá,Altamira,Altamira I,False,0,166661,11,1,4,0.753,0.396,0.133,0.525,0,0.182,0.724,80.951
+36CKza28wMxYdjdzji7ine,https://open.spotify.com/track/36CKza28wMxYdjdzji7ine,I Started A Joke,Bee Gees,Idea (Deluxe Edition),False,64,188306,7,1,4,0.31,0.464,0.0275,0.156,8.94e-06,0.132,0.431,144.775
+7McZS9J6h0SKoZBR6cfcFe,https://open.spotify.com/track/7McZS9J6h0SKoZBR6cfcFe,Apocalypse,Cigarettes After Sex,Cigarettes After Sex,False,58,290616,5,1,4,0.369,0.465,0.0277,0.0211,0.6,0.109,0.177,94.435
+3QQaF7h44OcBlapuE0yWiC,https://open.spotify.com/track/3QQaF7h44OcBlapuE0yWiC,Young & Dumb,Cigarettes After Sex,Cigarettes After Sex,True,44,273896,0,1,4,0.39,0.52,0.0284,0.515,0.711,0.101,0.239,96.566
+7goptIL8LlgQy5aoVvSncR,https://open.spotify.com/track/7goptIL8LlgQy5aoVvSncR,You,Jacquees,Before Anythang (Original Motion Picture Soundtrack),True,0,217360,8,0,4,0.744,0.45,0.067,0.4,0,0.129,0.325,114.945
+6tHWl8ows5JOZq9Yfaqn3M,https://open.spotify.com/track/6tHWl8ows5JOZq9Yfaqn3M,Mine,Bazzi,Mine,True,12,133994,4,1,4,0.716,0.805,0.0856,0.014,3.1e-06,0.291,0.719,142.886
+23c9gmiiv7RCu7twft0Mym,https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym,Who Hurt You?,Daniel Caesar,Who Hurt You?,True,72,231964,11,0,4,0.649,0.493,0.11,0.586,0.000167,0.0667,0.277,104.542
+6d4E3KLrX4xiwx1DiIJefO,https://open.spotify.com/track/6d4E3KLrX4xiwx1DiIJefO,Petty Lover,Jaz Karis,Pretty Dreamer / Petty Lover,True,54,160654,6,1,5,0.763,0.362,0.572,0.803,4.67e-06,0.16,0.587,119.855
+1Zz26uUewyiMfQEKYgZ7oh,https://open.spotify.com/track/1Zz26uUewyiMfQEKYgZ7oh,Cordao,Chico Buarque,Construção,False,33,149480,4,1,4,0.515,0.709,0.0302,0.301,0.000147,0.152,0.844,151.557
+3FIuBxOxuQ6kYy8JO0gq2a,https://open.spotify.com/track/3FIuBxOxuQ6kYy8JO0gq2a,Construção,Chico Buarque,Construção,False,55,383626,4,0,4,0.479,0.725,0.0298,0.24,1.19e-05,0.158,0.595,126.727
+127twwy3iCo1xBRQHyWetU,https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU,Cotidiano,Chico Buarque,Construção,False,51,168373,7,0,4,0.477,0.835,0.0533,0.38,8.3e-06,0.062,0.778,89.855
+4plcy0Ax6tiHdeOapKX4bA,https://open.spotify.com/track/4plcy0Ax6tiHdeOapKX4bA,High Tide,Sleep Good,Bohemian Grove,False,3,192866,5,1,4,0.734,0.772,0.0357,0.671,0.972,0.0854,0.835,125.913
+3DjjbSZk16kPEpgjF0OCYN,https://open.spotify.com/track/3DjjbSZk16kPEpgjF0OCYN,888,Cavetown,Lemon Boy,False,53,215429,3,1,3,0.403,0.324,0.0425,0.845,3.23e-06,0.0688,0.25,176.147
+2lJ2dR5kqK6BE4gzh5YfsK,https://open.spotify.com/track/2lJ2dR5kqK6BE4gzh5YfsK,Juliet,Cavetown,Animal Kingdom: Sandy,False,57,278991,6,1,4,0.547,0.586,0.0313,0.00346,0.0011,0.0562,0.363,131.785
+0ZXBFuXNtWSEFA3OWWSMCl,https://open.spotify.com/track/0ZXBFuXNtWSEFA3OWWSMCl,Waterfall,RICEWINE,Flood,True,42,280569,1,0,4,0.81,0.389,0.0451,0.845,0.858,0.343,0.124,119.984
+1zXX9sBeDiUDy4ugl8HrW5,https://open.spotify.com/track/1zXX9sBeDiUDy4ugl8HrW5,Dreams / Nightmares,RICEWINE,Mornings,True,43,242423,0,1,4,0.732,0.694,0.0519,0.523,0.116,0.136,0.306,96.045
+4dkFG1pSn2czTCkLncpnep,https://open.spotify.com/track/4dkFG1pSn2czTCkLncpnep,Naquela Mesa,Nelson Gonçalves,Passado E Presente,False,49,182293,2,0,4,0.667,0.563,0.0375,0.722,0,0.1,0.848,116.941
+3iRsaOIjbyTpFX9xWyWQz3,https://open.spotify.com/track/3iRsaOIjbyTpFX9xWyWQz3,Noturna (Nada de Novo na Noite),Silva,Silva Canta Marisa,False,40,156933,7,0,4,0.444,0.232,0.0311,0.974,3.15e-05,0.225,0.541,77.035
+3oVI4L3rUkawtbRo2GsOZh,https://open.spotify.com/track/3oVI4L3rUkawtbRo2GsOZh,Sambinha Bom,Mallu Magalhães,Pitanga,False,47,175106,9,1,4,0.654,0.406,0.054,0.762,0.00824,0.261,0.579,143.976
+4gFlHAye7To29Fs4UszQUH,https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH,I Get Along Without You Very Well (Except Sometimes) - Vocal Version,Chet Baker,Chet Baker Sings,False,56,179640,10,1,3,0.442,0.033,0.041,0.922,0.000171,0.151,0.21,103.34
+06UkYE0SZ3Y8zGRFOuWGAe,https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe,It's Always You - Vocal Version,Chet Baker,Chet Baker Sings,False,60,215466,8,1,4,0.499,0.0341,0.0417,0.923,5.27e-05,0.131,0.31,81.735
+0CaqEVnLB5plVzrlrMjfKT,https://open.spotify.com/track/0CaqEVnLB5plVzrlrMjfKT,Like Someone In Love - Remastered,Frank Sinatra,Songs For Young Lovers,False,31,188853,8,1,4,0.334,0.153,0.0328,0.943,0.000964,0.115,0.179,59.878
+0x0ffSAP6PkdoDgHOfroof,https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof,My Funny Valentine - Remastered,Frank Sinatra,Songs For Young Lovers,False,48,150666,11,0,4,0.257,0.125,0.0332,0.891,0,0.108,0.245,84.93
+07vtuaY3Ym8jf76SJ8g7ar,https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar,But Not For Me,Diana Krall,Love Is Here To Stay,False,44,185306,5,1,3,0.52,0.0503,0.0433,0.976,1.22e-06,0.123,0.296,105.371
+1HEGcv63IZ7TPncpVKdVdN,https://open.spotify.com/track/1HEGcv63IZ7TPncpVKdVdN,My One And Only Love,John Coltrane,John Coltrane & Johnny Hartman,False,57,294306,0,1,4,0.466,0.0718,0.0374,0.984,0.000931,0.107,0.196,121.885
+0F845nujLVqCb0XMZCh5Pc,https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc,I Fall In Love Too Easily - Vocal Version,Chet Baker,Chet Baker Sings,False,63,201440,0,0,4,0.532,0.0657,0.0406,0.94,0.00488,0.0946,0.292,128.607
+1nX1R4vMHDeyliGNuTAjnH,https://open.spotify.com/track/1nX1R4vMHDeyliGNuTAjnH,O Tiro,Scatolove,Lei de Muffin,False,42,143230,0,1,4,0.615,0.223,0.0353,0.81,5.84e-06,0.332,0.237,129.8
+4Sr6N2pJXCb5VjdknAjblG,https://open.spotify.com/track/4Sr6N2pJXCb5VjdknAjblG,"What Is Love? Tell Me, Is It Easy?",Hala,Spoonfed,False,57,230546,7,1,4,0.801,0.41,0.0322,0.187,0.0258,0.0993,0.719,125.133
+6OCFXXVmoPFtidXA7ey1SI,https://open.spotify.com/track/6OCFXXVmoPFtidXA7ey1SI,Great Dane,Cosmo Pyke,Just Cosmo,False,54,478037,5,1,4,0.498,0.692,0.176,0.104,0,0.0688,0.577,136.662
+1ahzHj4rfljE8w4ZwpEjOM,https://open.spotify.com/track/1ahzHj4rfljE8w4ZwpEjOM,A Little While,Yellow Days,Harmless Melodies,False,64,318147,3,0,4,0.577,0.604,0.0332,0.182,0.00211,0.205,0.351,99.997
+28ef1nIQqtnYbnAtR8AIiu,https://open.spotify.com/track/28ef1nIQqtnYbnAtR8AIiu,That Distant Shore,Adriana Figueroa,That Distant Shore,False,36,96384,2,1,4,0.619,0.214,0.0461,0.811,0,0.152,0.314,126.72
+2ilm46mO1B10paauIyloxK,https://open.spotify.com/track/2ilm46mO1B10paauIyloxK,idontwannabeyouanymore,Billie Eilish,dont smile at me,False,2,203569,7,1,3,0.483,0.418,0.0468,0.755,0,0.115,0.252,170.265
+5t3Vk8bRKylx4fjj7qlbib,https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib,bitches broken hearts,Billie Eilish,bitches broken hearts,True,78,176471,0,1,4,0.777,0.422,0.0482,0.919,0.00877,0.0958,0.187,120.041
+3xDvZswTmnHBWsB39z6Sbn,https://open.spotify.com/track/3xDvZswTmnHBWsB39z6Sbn,Six Feet Under,Billie Eilish,Six Feet Under,False,3,189613,11,0,4,0.573,0.3,0.0366,0.803,0.000338,0.0773,0.181,67.511
+1kPaBQZpY8h8U4tynEHzLz,https://open.spotify.com/track/1kPaBQZpY8h8U4tynEHzLz,Curió,República Popular,Húmus (Pt. 1),False,0,224666,5,1,3,0.307,0.485,0.0247,0.184,0.115,0.664,0.431,96.222
+5OHZ5in2h3NLndNHCnJzEX,https://open.spotify.com/track/5OHZ5in2h3NLndNHCnJzEX,Cheek To Cheek - 2006 Digital Remaster/24 Bit Mastering,Frank Sinatra,Romance: Songs From The Heart,False,33,186666,7,0,4,0.581,0.34,0.0584,0.605,0,0.145,0.876,83.054
+3wwXUFIYX044Tqiy3AFpLO,https://open.spotify.com/track/3wwXUFIYX044Tqiy3AFpLO,Something Stupid (feat. Reese Witherspoon),Michael Bublé,To Be Loved,False,60,177626,5,1,4,0.573,0.719,0.026,0.572,0.000555,0.332,0.548,99.349
+2SbsvihBJmgNKZ4qkXFWrp,https://open.spotify.com/track/2SbsvihBJmgNKZ4qkXFWrp,More Than Words,Extreme,Extreme II - Pornograffitti,False,74,334040,6,1,4,0.623,0.127,0.0306,0.452,0,0.114,0.237,91.625
+0WhSUlLPKdXOEU4JPqktuo,https://open.spotify.com/track/0WhSUlLPKdXOEU4JPqktuo,Conselho do Bom Senso - Ao Vivo,Tuyo,Tuyo no Estúdio Showlivre (Ao Vivo),False,20,278126,11,0,4,0.662,0.197,0.0528,0.814,2.59e-05,0.078,0.421,138.11
+1At06Lay1AIzDZN9YSacXC,https://open.spotify.com/track/1At06Lay1AIzDZN9YSacXC,A Song For Two,Hiroshi Fujiwara,Hiroshi Fujiwara Best,False,10,351330,9,0,4,0.513,0.619,0.0348,0.239,0,0.0963,0.802,84.889
+37y7iDayfwm3WXn5BiAoRk,https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk,Dark Red,Steve Lacy,Dark Red,False,69,173104,6,1,4,0.603,0.783,0.062,0.449,7.96e-06,0.119,0.775,172.041
+2VAlwOewe5c40VHyqozF1V,https://open.spotify.com/track/2VAlwOewe5c40VHyqozF1V,"Steady, As She Goes",The Raconteurs,Broken Boy Soldiers,False,11,215266,9,1,4,0.534,0.605,0.113,0.00865,0.00826,0.0781,0.56,123.003
+4NTdYJx7s9KN0Xq8JEqbff,https://open.spotify.com/track/4NTdYJx7s9KN0Xq8JEqbff,I Shall Be Released,Phillip Long,I Shall Be Released,False,14,374977,11,0,3,0.563,0.383,0.0307,0.0951,0.000167,0.0872,0.128,150.156
+1M321puDN1WBd5NF0ogOKW,https://open.spotify.com/track/1M321puDN1WBd5NF0ogOKW,Habit,Still Woozy,Habit,True,11,153857,1,1,4,0.766,0.402,0.107,0.27,0.0007,0.106,0.466,125.107
+5qgXYwcKp3HCThS6o2YmCb,https://open.spotify.com/track/5qgXYwcKp3HCThS6o2YmCb,Devil Town,Cavetown,Devinyl Splits No. 11,False,52,270037,5,1,4,0.624,0.467,0.0257,0.0777,0,0.21,0.581,79.985
+3fKOMqJToZH96WgR8zzN7h,https://open.spotify.com/track/3fKOMqJToZH96WgR8zzN7h,Bae Caught Me Vapin',Fantasy Guys,On Poppy Island,False,44,214248,5,0,4,0.785,0.478,0.0456,0.692,0.00122,0.0626,0.633,140.009
+3Dtr5e9OQGML2f48A6mw9P,https://open.spotify.com/track/3Dtr5e9OQGML2f48A6mw9P,Running,Nicotine's Famous Honey,An Open Letter,True,1,247769,11,1,4,0.454,0.393,0.0417,0.825,0.275,0.106,0.181,110.072
+3uA8SjMyDtwtt0jLPMQbVD,https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD,D (Half Moon),DEAN,130 Mood : TRBL,False,62,229359,7,1,4,0.512,0.765,0.136,0.246,0,0.0573,0.519,169.709
+6z1kLsntE7FuzKZHZWrXYN,https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN,instagram,DEAN,instagram,False,67,255728,8,1,4,0.463,0.566,0.145,0.196,0,0.284,0.219,93.921
+2IgbYlOlFpiSFYnsqB39lM,https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM,Jasmine,DPR LIVE,Jasmine,False,61,201510,8,1,4,0.597,0.486,0.0986,0.331,0,0.14,0.397,137.68
+6wcRv0UBvEH9NCIA3IVyQs,https://open.spotify.com/track/6wcRv0UBvEH9NCIA3IVyQs,love,DEAN,love,True,55,258226,11,1,4,0.582,0.67,0.0483,0.00125,0.000669,0.105,0.37,109.993
+1dN4Z7wZTQXLEl33RkMO3a,https://open.spotify.com/track/1dN4Z7wZTQXLEl33RkMO3a,Text Me,DPR LIVE,Her,False,59,177342,5,0,4,0.846,0.592,0.28,0.146,0,0.258,0.757,134.024
+79gYyZ45D8JlRc3kXY03RP,https://open.spotify.com/track/79gYyZ45D8JlRc3kXY03RP,Lost 2,"Car, the Garden",APARTMENT,False,21,245453,8,0,4,0.651,0.391,0.0346,0.338,1.94e-05,0.103,0.214,76.007
+3rQmTAyMDDZ73rMyhLkn98,https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98,Dance,offonoff,boy.,False,52,219034,3,0,4,0.805,0.393,0.0339,0.717,6.56e-06,0.105,0.407,89.03
+0PkpRtJqrwuXhbdtJuQm7E,https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E,Photograph,offonoff,boy.,False,54,239002,3,1,4,0.597,0.458,0.0609,0.809,0,0.105,0.184,90.15
+14p5EKgbPx4U3P1j5JNHeh,https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh,"Cigarette (Feat. Tablo, MISO)",offonoff,boy.,False,58,241765,5,0,4,0.776,0.392,0.207,0.271,2.21e-06,0.14,0.438,87.98
+1cBNzkPsAdI7XJaKIsjKUk,https://open.spotify.com/track/1cBNzkPsAdI7XJaKIsjKUk,"Girl, Interrupted",2xxx!,Life,True,44,180972,1,0,4,0.513,0.379,0.171,0.259,3.05e-05,0.0711,0.0619,85.645
+4BCBOgxOIACmIHlZeWCfZk,https://open.spotify.com/track/4BCBOgxOIACmIHlZeWCfZk,Piss On Me,2xxx!,Life,True,37,193375,2,1,4,0.832,0.446,0.232,0.0733,4.18e-05,0.366,0.423,90.007
+5bSOXk0zkFAyVKNrPgWUsk,https://open.spotify.com/track/5bSOXk0zkFAyVKNrPgWUsk,Who's Lovin' You,The Jackson 5,Greatest Hits,False,41,239333,7,1,3,0.355,0.422,0.0297,0.785,4.22e-05,0.209,0.381,80.04
+2GgkDNXh1oR5utPgCO7Jog,https://open.spotify.com/track/2GgkDNXh1oR5utPgCO7Jog,I'll Be There,The Jackson 5,Greatest Hits,False,20,236493,5,1,4,0.512,0.566,0.0264,0.564,1.51e-05,0.714,0.319,93.858
+10vkYRKw6Jjr7try1ir50G,https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G,Tired of Being Alone,Al Green,Gets Next to You,False,67,172320,7,1,4,0.772,0.397,0.0391,0.339,0.00541,0.0753,0.617,97.964
+63xdwScd1Ai1GigAwQxE8y,https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y,Let's Stay Together,Al Green,Let's Stay Together,False,73,199396,7,0,4,0.756,0.397,0.0522,0.57,0.0115,0.0542,0.507,101.985
+6SMHgPgNkhe9lneNTbgtel,https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel,Love and Happiness,Al Green,I'm Still in Love with You,False,60,307062,6,1,4,0.822,0.457,0.235,0.214,0.000397,0.0766,0.73,99.16
+4uDWmlaVBBbGzwUjF0WDB4,https://open.spotify.com/track/4uDWmlaVBBbGzwUjF0WDB4,Bed Bugz,Alxndr London,Today,False,18,206583,10,0,4,0.771,0.436,0.0733,0.541,0.0112,0.0866,0.334,90.008
+23DIXeB8XEEh4BzaTcgKBS,https://open.spotify.com/track/23DIXeB8XEEh4BzaTcgKBS,April,Alxndr London,April,False,34,225374,0,1,4,0.54,0.528,0.166,0.707,0.000612,0.108,0.55,124.088
+5v2AYSvjVC8j89avkf56LY,https://open.spotify.com/track/5v2AYSvjVC8j89avkf56LY,Jupiter & Pluto,Alxndr London,A Long Time Ago EP,False,29,211445,11,0,4,0.659,0.524,0.0865,0.587,0.018,0.106,0.321,129.832
+7pdF27mSDuPWhppnHAmWHa,https://open.spotify.com/track/7pdF27mSDuPWhppnHAmWHa,whoa (mind in awe),XXXTENTACION,SKINS,False,73,157776,6,0,4,0.735,0.525,0.0441,0.653,0.918,0.101,0.369,160.147
+01w1oN1WO5aOThHnLBN8eS,https://open.spotify.com/track/01w1oN1WO5aOThHnLBN8eS,American Spirits,Inner Wave,III,True,58,170000,1,0,4,0.5,0.824,0.0285,0.0509,0,0.102,0.877,158.073
+69Tf2qK9sYOi1ncnXrfIUV,https://open.spotify.com/track/69Tf2qK9sYOi1ncnXrfIUV,1 4 2,Inner Wave,Sun Transmission,False,48,305467,9,0,4,0.701,0.692,0.0372,0.179,0.00999,0.0994,0.561,114.96
+4YLTFu7iyC3q34dvf5hRDq,https://open.spotify.com/track/4YLTFu7iyC3q34dvf5hRDq,Eclipse,Inner Wave,Eclipse,False,13,183633,4,0,4,0.644,0.748,0.0291,0.394,0.91,0.358,0.732,120.007
+34HAlaqKnkgvYMXuAO3hoU,https://open.spotify.com/track/34HAlaqKnkgvYMXuAO3hoU,Loveleen,Rejjie Snow,Rejovich,True,51,170661,5,0,4,0.761,0.43,0.191,0.478,0.0287,0.0891,0.728,83.024
+4uToWVHXLtKEEboNsG3n2u,https://open.spotify.com/track/4uToWVHXLtKEEboNsG3n2u,Egyptian Luvr (feat. Aminé and Dana Williams),Rejjie Snow,Dear Annie,True,61,256613,10,0,4,0.834,0.591,0.305,0.0553,0,0.074,0.9,104.944
+1r3M82sqImOu3AUwRdELRT,https://open.spotify.com/track/1r3M82sqImOu3AUwRdELRT,23,Rejjie Snow,Dear Annie,True,59,181613,4,0,4,0.803,0.637,0.105,0.276,1.68e-05,0.22,0.5,97.032
+0JcQWyqbz2pl8Pp53mka2d,https://open.spotify.com/track/0JcQWyqbz2pl8Pp53mka2d,88,Inner Wave,Sun Transmission,False,0,233747,4,0,4,0.656,0.63,0.0322,0.0947,0.417,0.133,0.653,117.054
+6omtWgXFEAeIoyEkiMFe9o,https://open.spotify.com/track/6omtWgXFEAeIoyEkiMFe9o,Casual Encounters,James Tillman,Silk Noise Reflex,False,42,214227,4,0,4,0.408,0.344,0.0808,0.852,0.541,0.0941,0.159,150.03
+7B7oncgJZ6AvkmKg6IZwpE,https://open.spotify.com/track/7B7oncgJZ6AvkmKg6IZwpE,Sinatra,Joy Crookes,Influence EP,False,38,183151,1,0,4,0.565,0.685,0.192,0.448,1.43e-05,0.0946,0.581,131.86
+6R7LF2nY3kIExm30uiQNya,https://open.spotify.com/track/6R7LF2nY3kIExm30uiQNya,So Badly (Album Version),JMSN,Velvet,False,34,298250,2,0,4,0.614,0.55,0.0376,0.208,0.000156,0.0412,0.493,154.624
+64ka8E2PpNo4NxSCiRBj1H,https://open.spotify.com/track/64ka8E2PpNo4NxSCiRBj1H,Why Don't You,Cleo Sol,Why Don't You,False,59,232258,0,1,4,0.512,0.594,0.101,0.333,0.105,0.057,0.549,94.546
+3KkXRkHbMCARz0aVfEt68P,https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),False,86,158040,2,1,4,0.76,0.479,0.0466,0.556,0,0.0703,0.913,89.911
+3KS09EvUKTtPgTHbBBsLCw,https://open.spotify.com/track/3KS09EvUKTtPgTHbBBsLCw,Follow the Sun,Xavier Rudd,Spirit Bird,False,20,255493,0,1,4,0.613,0.391,0.0385,0.532,2.63e-05,0.109,0.218,123.985
+6Rt6KwuF7I8ZkdZG2G0bYr,https://open.spotify.com/track/6Rt6KwuF7I8ZkdZG2G0bYr,The Only Thing,Sufjan Stevens,Carrie & Lowell,False,65,284130,3,1,4,0.519,0.145,0.0392,0.987,0.0643,0.108,0.487,158.975
+6SWHTMywuTXLFlMQ75cAuu,https://open.spotify.com/track/6SWHTMywuTXLFlMQ75cAuu,Keep Me,Khalid,American Teen,False,62,276226,2,0,4,0.778,0.574,0.0327,0.368,0,0.126,0.663,112.048
+4V3VshJLUTCIWa77YiAkvM,https://open.spotify.com/track/4V3VshJLUTCIWa77YiAkvM,Winter,Khalid,American Teen,False,64,241866,1,1,4,0.678,0.575,0.123,0.101,9.38e-06,0.116,0.367,100.007
+2oVyKK5NH2oawyrDZJn581,https://open.spotify.com/track/2oVyKK5NH2oawyrDZJn581,'Cause I'm A Man,Tame Impala,Currents,True,8,241985,9,1,4,0.537,0.695,0.0371,0.103,0.00315,0.134,0.626,144.674
+1ujxjsoNvh4XgS2fUNwkZ2,https://open.spotify.com/track/1ujxjsoNvh4XgS2fUNwkZ2,Space Song,Beach House,Depression Cherry,False,54,320466,0,0,4,0.509,0.79,0.0293,0.218,0.125,0.144,0.625,147.073
+0ARp9mXXpPflIwehy25kCa,https://open.spotify.com/track/0ARp9mXXpPflIwehy25kCa,Big Sis,SALES,SALES LP,False,60,166400,2,1,4,0.825,0.482,0.0378,0.876,0.209,0.101,0.338,99.991
+67LKZcv1J2Yj4pk5UIuFQW,https://open.spotify.com/track/67LKZcv1J2Yj4pk5UIuFQW,Warned You,Good Morning,Shawcross,False,4,133128,6,1,4,0.507,0.428,0.0263,0.662,0.149,0.101,0.406,138.163
+6B1Q7hi48RVUvak1SLoiJX,https://open.spotify.com/track/6B1Q7hi48RVUvak1SLoiJX,Venus Flytrap,Feng Suave,Venus Flytrap,False,52,222122,4,1,4,0.611,0.453,0.0296,0.533,1.78e-05,0.115,0.4,130.925
+496vdGaX5HCCVjKVl4rIlF,https://open.spotify.com/track/496vdGaX5HCCVjKVl4rIlF,Seventeen,Summer Salt,Happy Camper,False,39,206786,3,1,4,0.659,0.558,0.0275,0.734,0.0856,0.35,0.594,109.993
+5Qp0kgAx5weYcq9OXpXwzM,https://open.spotify.com/track/5Qp0kgAx5weYcq9OXpXwzM,Revvin' My CJ-7,Summer Salt,Happy Camper,False,40,169160,10,1,4,0.76,0.418,0.0407,0.826,1.35e-05,0.104,0.341,119.883
+78ECvz2vs1obDkLdbMEdJK,https://open.spotify.com/track/78ECvz2vs1obDkLdbMEdJK,Driving to Hawaii,Summer Salt,Driving to Hawaii,False,59,188183,7,1,3,0.346,0.637,0.0403,0.719,2.03e-05,0.263,0.297,186.836
+4qkwbl6SxwLE09pxLAFINt,https://open.spotify.com/track/4qkwbl6SxwLE09pxLAFINt,Sweet to Me,Summer Salt,Driving to Hawaii,False,59,204306,9,1,4,0.563,0.51,0.0283,0.677,3.8e-06,0.305,0.501,97.467
+3iFYY09Z5yoNy1QnJBt4AR,https://open.spotify.com/track/3iFYY09Z5yoNy1QnJBt4AR,Candy Wrappers,Summer Salt,So Polite,False,60,194418,5,1,4,0.692,0.546,0.0262,0.696,0.415,0.302,0.483,95.042
+197W2OQ1Khv8gnO0ZSBNq7,https://open.spotify.com/track/197W2OQ1Khv8gnO0ZSBNq7,Oh Dear,Summer Salt,Happy Camper,False,43,212133,6,0,4,0.707,0.468,0.0269,0.373,6.72e-06,0.106,0.553,102.627
+0U0gZhiusaKvvqHe8w7B1X,https://open.spotify.com/track/0U0gZhiusaKvvqHe8w7B1X,Bones,Crumb,Crumb,False,1,193986,11,0,4,0.535,0.605,0.0355,0.164,0.401,0.558,0.399,90.922
+0npSmMSYZ6zCfNrjtOjwpE,https://open.spotify.com/track/0npSmMSYZ6zCfNrjtOjwpE,So Tired,Crumb,Crumb,False,2,218173,11,0,4,0.488,0.398,0.0463,0.209,0.0239,0.0852,0.357,113.518
+4KDVWd4zUHrfJHyuOuvLJP,https://open.spotify.com/track/4KDVWd4zUHrfJHyuOuvLJP,Plants,Crumb,Plants,False,1,191904,11,0,4,0.494,0.406,0.0416,0.607,0.53,0.122,0.219,81.067
+26AhgCPP2OKAnF4AyBf2Kg,https://open.spotify.com/track/26AhgCPP2OKAnF4AyBf2Kg,Locket,Crumb,Locket,False,4,318378,1,1,4,0.393,0.481,0.0273,0.758,0.73,0.0869,0.0763,98.462
+0YUP8ar1GNHPFqMwUM7xCE,https://open.spotify.com/track/0YUP8ar1GNHPFqMwUM7xCE,Recently Played,Crumb,Locket,False,1,120454,0,0,3,0.57,0.334,0.0312,0.692,0.172,0.226,0.124,113.546
+2T64m94VBrsEISkAYq6Cnq,https://open.spotify.com/track/2T64m94VBrsEISkAYq6Cnq,Cooks,Still Woozy,Cooks,False,22,174105,7,1,4,0.363,0.579,0.0986,0.446,0.0127,0.264,0.719,78.032
+2QRk4N7GObZRGyhKjUHZhP,https://open.spotify.com/track/2QRk4N7GObZRGyhKjUHZhP,Dizzy On the Comedown,Turnover,Peripheral Vision,False,52,255773,8,1,4,0.619,0.632,0.0274,0.431,8.61e-06,0.0897,0.264,114.966
+3ZffCQKLFLUvYM59XKLbVm,https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm,Wake Me up When September Ends,Green Day,American Idiot,False,75,285653,7,1,4,0.546,0.814,0.0314,0.023,0,0.0972,0.146,104.98
+4cZGdje7UXxBsJViy2Cs8Z,https://open.spotify.com/track/4cZGdje7UXxBsJViy2Cs8Z,Coração selvagem,Belchior,Coração selvagem (1977),False,47,284040,6,0,4,0.331,0.668,0.0656,0.0108,3.13e-06,0.177,0.478,93.357
+1UsAjRCSavihMYsspqJz4e,https://open.spotify.com/track/1UsAjRCSavihMYsspqJz4e,Sujeito De Sorte,Belchior,Alucinacao,False,56,196560,4,1,1,0.455,0.407,0.0988,0.291,0.000235,0.067,0.442,167.385
+661Ns9G25zHdih4qVshBO7,https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7,Anunciação,Alceu Valença,20 Grandes Sucessos De Alceu Valença,False,64,288160,9,0,4,0.539,0.745,0.0279,0.451,0.000239,0.103,0.78,99.923
+7CdDIvw3jvjNaIs5m3mM4A,https://open.spotify.com/track/7CdDIvw3jvjNaIs5m3mM4A,La Belle De Jour,Alceu Valença,Sete Desejos,False,61,268760,0,1,4,0.644,0.404,0.0348,0.159,0.000291,0.167,0.689,105.061
+1b95iTuFa05xohamPS1qzK,https://open.spotify.com/track/1b95iTuFa05xohamPS1qzK,Lua e Flor,Oswaldo Montenegro,Música!,False,49,292026,2,1,4,0.238,0.317,0.0311,0.671,0.00979,0.913,0.162,70.641
+7azaUeZjFTpxUbpTFsZPX4,https://open.spotify.com/track/7azaUeZjFTpxUbpTFsZPX4,A lista,Oswaldo Montenegro,25 Anos,False,51,179266,0,1,3,0.463,0.5,0.0665,0.558,0,0.982,0.331,89.87
+6pCKtQVceXMMDFAXOM0f5r,https://open.spotify.com/track/6pCKtQVceXMMDFAXOM0f5r,Bandolins,Oswaldo Montenegro,Música!,False,42,258973,5,1,3,0.503,0.412,0.0526,0.719,0,0.0949,0.482,106.215
+41raJNApCvmvEMIHTPLMXu,https://open.spotify.com/track/41raJNApCvmvEMIHTPLMXu,Milla - Versão Estúdio,Netinho,Prefixo De Verão,False,40,301413,4,1,4,0.449,0.817,0.0663,0.148,0,0.211,0.485,144.247
+4XlaqUspMU73ZWXLG8Zlwc,https://open.spotify.com/track/4XlaqUspMU73ZWXLG8Zlwc,Simples Desejo,Luciana Mello,Assim Que Se Faz,False,49,283133,5,1,4,0.635,0.594,0.0382,0.334,0.000901,0.366,0.392,82.013
+2zkvq99AeX8CwdpoShW0O3,https://open.spotify.com/track/2zkvq99AeX8CwdpoShW0O3,Desacostumei de Carinho - Ao Vivo,Alcione,Boleros Ao Vivo,False,28,204461,7,1,4,0.682,0.493,0.0349,0.727,0.000147,0.752,0.3,98.002
+0PgsB53yhlKs8D19LgYU4i,https://open.spotify.com/track/0PgsB53yhlKs8D19LgYU4i,Se...,Djavan,Coisa de Acender,False,67,291533,9,1,4,0.575,0.392,0.035,0.609,7.45e-05,0.0624,0.498,179.789
+3iof6EclqePezHDibBiykI,https://open.spotify.com/track/3iof6EclqePezHDibBiykI,Oceano,Djavan,Djavan,False,59,296106,7,1,3,0.665,0.479,0.0247,0.551,0.000548,0.286,0.154,92.864
+34dfSRZXC8qvYm3Uo6mqqK,https://open.spotify.com/track/34dfSRZXC8qvYm3Uo6mqqK,Dia Branco,Geraldo Azevedo,Inclinações Musicais,False,47,128906,2,1,4,0.43,0.213,0.0289,0.93,3.37e-06,0.109,0.12,72.333
+5uTL4NNdF9v04raxadx1Zy,https://open.spotify.com/track/5uTL4NNdF9v04raxadx1Zy,Why? (The King of Love Is Dead) - Live,Nina Simone,The Best Of,False,15,347760,3,1,4,0.476,0.125,0.0467,0.902,0,0.934,0.284,88.199
+0TOQzBpLfNCteJ4y0H84w7,https://open.spotify.com/track/0TOQzBpLfNCteJ4y0H84w7,Ain't No Sunshine,Al Jarreau,Early Gold And New Spins,False,39,120960,4,1,4,0.449,0.508,0.0849,0.131,1.5e-05,0.15,0.477,74.662
+6CcJMwBtXByIz4zQLzFkKc,https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc,i love you,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",False,84,291796,0,1,4,0.421,0.131,0.0382,0.952,0.00453,0.109,0.12,137.446
+062zhcWzYvj5c8kFRuqbRI,https://open.spotify.com/track/062zhcWzYvj5c8kFRuqbRI,Amarela Paixão,Liniker e os Caramelows,Goela Abaixo,False,41,241883,2,0,4,0.292,0.194,0.0278,0.876,0.063,0.232,0.341,80.025
+2myQE9T8UAbl5u6Wg3UT2J,https://open.spotify.com/track/2myQE9T8UAbl5u6Wg3UT2J,Intimidade,Liniker e os Caramelows,Goela Abaixo,False,55,194882,8,1,4,0.459,0.0566,0.0462,0.965,2.67e-06,0.0742,0.316,110.86
+6HE5bKXwlqXezRp0ublZHn,https://open.spotify.com/track/6HE5bKXwlqXezRp0ublZHn,Ruiva,Natália Carreira,Pertencer,False,25,303077,0,1,4,0.631,0.31,0.0259,0.757,2.25e-05,0.0997,0.288,98.939
+3mR3mLX0VEq6zSushpmPJu,https://open.spotify.com/track/3mR3mLX0VEq6zSushpmPJu,Geminiana,Natália Carreira,Pertencer,False,28,253300,11,0,4,0.487,0.335,0.0329,0.759,5.51e-06,0.111,0.123,129.6
+4COPnBGopMFKcP9qkgqVut,https://open.spotify.com/track/4COPnBGopMFKcP9qkgqVut,Campos,Natália Carreira,Campos,False,29,222461,6,0,4,0.709,0.41,0.0404,0.508,0.000872,0.586,0.0847,129.723
+3XEtw7t4V5sfd2vtkp0ql7,https://open.spotify.com/track/3XEtw7t4V5sfd2vtkp0ql7,Smooth Operator - Single Version,Sade,The Best Of Sade,False,65,258693,9,0,4,0.734,0.581,0.032,0.24,0.000585,0.0298,0.962,119.337
+1ko2lVN0vKGUl9zrU0qSlT,https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT,Just the Two of Us (feat. Bill Withers),"Grover Washington, Jr.",Anthology,False,65,237106,1,1,4,0.803,0.488,0.0803,0.576,0.0609,0.0763,0.624,95.771
+2GsvXMAz16fKroAmaCxLfL,https://open.spotify.com/track/2GsvXMAz16fKroAmaCxLfL,Você mentiu,Anitta,Kisses,False,57,179268,8,1,4,0.809,0.328,0.0351,0.648,1.51e-05,0.107,0.304,82.01
+3KgNRsopCyrO211RJnfLA0,https://open.spotify.com/track/3KgNRsopCyrO211RJnfLA0,Quiçá,Labaq,• V O A •,False,0,290840,2,1,4,0.483,0.115,0.0613,0.94,0.0273,0.113,0.102,175.682
+1ZseaIKt19broBzze3F8hz,https://open.spotify.com/track/1ZseaIKt19broBzze3F8hz,"Hello, Anxiety",Phum Viphurit,"Hello, Anxiety",False,59,264761,9,1,4,0.84,0.495,0.0406,0.589,0.552,0.103,0.808,125.993
+0v4AHLqKlUSBLPFvqtv4qr,https://open.spotify.com/track/0v4AHLqKlUSBLPFvqtv4qr,"For Just One Day Let's Only Think About (Love) [From ""Steven Universe""]",Steven Universe,"For Just One Day Let's Only Think About (Love) [From ""Steven Universe""]",False,48,228727,2,0,4,0.534,0.459,0.0371,0.621,0,0.0715,0.34,120.683
+0qQECnsBqoacXBhcvkP4ZW,https://open.spotify.com/track/0qQECnsBqoacXBhcvkP4ZW,Change Your Mind,Steven Universe,Change Your Mind,False,30,53454,3,1,1,0.487,0.0139,0.0433,0.985,1.15e-05,0.138,0.257,81.262
+4qu0A9ZSjHVtJnDY9utp4M,https://open.spotify.com/track/4qu0A9ZSjHVtJnDY9utp4M,Escapism,Steven Universe,Escapism,False,25,121299,5,1,4,0.476,0.131,0.0476,0.959,0.0108,0.098,0.307,79.331
+4wz8WXY76grLLntXDKEUqz,https://open.spotify.com/track/4wz8WXY76grLLntXDKEUqz,Familiar,Steven Universe,Familiar,False,23,150545,3,0,4,0.609,0.237,0.0491,0.578,0,0.146,0.553,92.626
+6xh9JILM2rzAtRynrTAAhe,https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe,"Sem Nome, Mas Com Endereço",Liniker e os Caramelows,Remonta,False,50,269120,11,0,4,0.219,0.234,0.0328,0.899,0.000803,0.0769,0.144,78.991
+6zR3jAXgWCs9wmW1r4XGyk,https://open.spotify.com/track/6zR3jAXgWCs9wmW1r4XGyk,Make Me Cry,Pip Millett,Make Me Cry,True,57,162973,2,0,4,0.551,0.357,0.503,0.587,0.000167,0.123,0.494,184.479
+0wXuerDYiBnERgIpbb3JBR,https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR,Redbone,Childish Gambino,"""Awaken, My Love!""",True,80,326933,1,1,4,0.743,0.347,0.121,0.167,0.00951,0.103,0.572,160.143
+6NblUCwJXYkQlQ6LhcmSlQ,https://open.spotify.com/track/6NblUCwJXYkQlQ6LhcmSlQ,Ooh Nah Nah (feat. Masego),SiR,Ooh Nah Nah (feat. Masego),True,63,240000,7,0,4,0.85,0.273,0.278,0.052,2.22e-06,0.104,0.572,116.894
+64I9byMYBlS1ARsC3vtpgW,https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW,Ottolenghi,Loyle Carner,"Not Waving, But Drowning",False,62,197600,7,1,4,0.776,0.593,0.252,0.327,0.00616,0.186,0.247,94.97
+5dvpipXxOIH96gcGEKR1Iu,https://open.spotify.com/track/5dvpipXxOIH96gcGEKR1Iu,Ain't Nothing Changed,Loyle Carner,Yesterday's Gone,True,59,194426,8,1,4,0.753,0.663,0.176,0.505,0.0598,0.115,0.149,90.011
+32sBVB5HmrwJ6e9g0S2BRL,https://open.spotify.com/track/32sBVB5HmrwJ6e9g0S2BRL,Damselfly,Loyle Carner,Yesterday's Gone,True,64,172653,11,1,4,0.82,0.596,0.246,0.517,0.00159,0.358,0.54,94.968
+19yMYXxG3gtIbKxOpQo9vL,https://open.spotify.com/track/19yMYXxG3gtIbKxOpQo9vL,Mean It In The Morning,Loyle Carner,Yesterday's Gone,False,53,159840,0,1,4,0.6,0.589,0.29,0.784,0.224,0.107,0.59,81.815
+5CAztXp7af5FZR9Gbnnwk2,https://open.spotify.com/track/5CAztXp7af5FZR9Gbnnwk2,Volta e Meia,O Terno,<atrás/além>,False,46,195066,4,0,4,0.585,0.347,0.0925,0.454,1.66e-06,0.107,0.501,109.214
+0Tetrw2nzH22LpHSDhOUIe,https://open.spotify.com/track/0Tetrw2nzH22LpHSDhOUIe,Pra Sempre Será,O Terno,<atrás/além>,False,42,289346,11,0,4,0.529,0.197,0.0625,0.675,4.11e-05,0.102,0.218,75.662
+5wyifj9jya5OUkuTKLFIhn,https://open.spotify.com/track/5wyifj9jya5OUkuTKLFIhn,Pegando Leve,O Terno,<atrás/além>,False,46,281426,5,1,4,0.452,0.291,0.0277,0.252,1.81e-06,0.0581,0.465,102.467
+1BeY3p2ePpoDOmlRh3jirM,https://open.spotify.com/track/1BeY3p2ePpoDOmlRh3jirM,Tudo Que Eu Não Fiz,O Terno,<atrás/além>,False,39,229413,1,1,4,0.474,0.475,0.0725,0.143,3.27e-05,0.0697,0.412,97.078
+7vdbdhlD26k1wO9XVxH9G3,https://open.spotify.com/track/7vdbdhlD26k1wO9XVxH9G3,Só in English,Renato Enoch,Só in English,False,31,199271,5,1,4,0.714,0.313,0.0778,0.854,0,0.0795,0.588,84.333
+7ciaJIGCyZ8Xky1DQvZg0l,https://open.spotify.com/track/7ciaJIGCyZ8Xky1DQvZg0l,1=1=1,Subculture Sage,Subculture Sage - EP,False,43,261833,0,1,4,0.725,0.441,0.0906,0.438,0.000801,0.117,0.253,78.996
+0EtgBQdaNxPoG3zrQoAjNg,https://open.spotify.com/track/0EtgBQdaNxPoG3zrQoAjNg,Swamp,Futuro Pelo,Swamp,False,0,170704,3,0,4,0.813,0.598,0.056,0.0207,0.137,0.0984,0.86,142.057
+4XbXH5gMNc47XUEkKgwPsp,https://open.spotify.com/track/4XbXH5gMNc47XUEkKgwPsp,Vicio,Phill Veras,Valsa e Vapor,False,44,250213,5,1,3,0.616,0.415,0.0373,0.803,0.00349,0.0979,0.37,146.139
+2GvbK34eLArbttr0bXRu4l,https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l,Céu Azul,Ana Gabriela,Céu Azul,False,63,208219,6,0,4,0.684,0.341,0.0332,0.861,0,0.14,0.427,120.109
+1WyEXbMQLt9szrhDos1uz8,https://open.spotify.com/track/1WyEXbMQLt9szrhDos1uz8,On The Square,Mac DeMarco,Here Comes The Cowboy,False,49,209393,4,1,4,0.679,0.326,0.0283,0.694,0.181,0.147,0.386,76.715
+7ixHZ5EUkPYCKScXKGaYoS,https://open.spotify.com/track/7ixHZ5EUkPYCKScXKGaYoS,Little Dogs March,Mac DeMarco,Here Comes The Cowboy,False,47,149292,5,1,4,0.896,0.18,0.0887,0.724,0.0226,0.109,0.254,126.163
+7JyhhEb1LKIuDiHy6bWdet,https://open.spotify.com/track/7JyhhEb1LKIuDiHy6bWdet,Finally Alone,Mac DeMarco,Here Comes The Cowboy,False,50,144756,5,1,4,0.826,0.485,0.0345,0.513,0.00224,0.109,0.852,96.497
+42EMSKPgulAzr4RLY65Eut,https://open.spotify.com/track/42EMSKPgulAzr4RLY65Eut,Nobody,Mac DeMarco,Here Comes The Cowboy,False,59,212460,3,1,4,0.877,0.178,0.102,0.776,0.0193,0.107,0.442,74.997
+1IF1IpJ8SnBDgHO5Nig0pD,https://open.spotify.com/track/1IF1IpJ8SnBDgHO5Nig0pD,O TEMPO É SUA MORADA :: celebrar,Francisco el Hombre,RASGACABEZA,False,49,229933,9,0,4,0.562,0.309,0.0252,0.569,2.71e-05,0.101,0.458,102.031
+6yVyCxu8H6K8QVBuf10HP7,https://open.spotify.com/track/6yVyCxu8H6K8QVBuf10HP7,Cara a Cara,Castello Branco,Sintoma,False,35,162668,6,1,4,0.664,0.419,0.0428,0.638,0.0496,0.109,0.109,96.849
+1tqio9a4FxPi01E1NDII3U,https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U,Céu da Boca,Castello Branco,Serviço,False,38,183001,1,1,4,0.699,0.616,0.0446,0.38,0.000428,0.117,0.51,144.932
+7aO6EZEIokDA9kuIpJZvhE,https://open.spotify.com/track/7aO6EZEIokDA9kuIpJZvhE,Coragem,Castello Branco,Sintoma,False,39,238376,9,1,4,0.685,0.402,0.0396,0.523,0.000202,0.105,0.417,94.985
+5hCfJHYKTB92MKa8HyxAld,https://open.spotify.com/track/5hCfJHYKTB92MKa8HyxAld,Necessidade,Castello Branco,Serviço,False,42,225137,5,1,4,0.592,0.538,0.034,0.0862,0.0321,0.0698,0.238,96.045
+3sZcGCUXvr45syuNyTUC1Z,https://open.spotify.com/track/3sZcGCUXvr45syuNyTUC1Z,Crer-Sendo,Castello Branco,Serviço,False,45,207870,5,0,4,0.413,0.579,0.0554,0.16,0,0.112,0.41,81.54
+0UUEYLYmrxuJgTv3j42Ie5,https://open.spotify.com/track/0UUEYLYmrxuJgTv3j42Ie5,Alma Sebosa,Johnny Hooker,"Eu Vou Fazer uma Macumba Pra Te Amarrar, Maldito!",True,48,214750,9,0,4,0.663,0.73,0.0472,0.181,0,0.212,0.803,135.162
+7uSdpAkxgB0948bW7yjjJO,https://open.spotify.com/track/7uSdpAkxgB0948bW7yjjJO,Amor Marginal,Johnny Hooker,"Eu Vou Fazer uma Macumba Pra Te Amarrar, Maldito!",False,51,285000,9,0,3,0.423,0.539,0.0368,0.252,2.18e-05,0.0959,0.196,170.51
+1WOwgLCv4mCJPatwib6jLi,https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi,Caju,Silva,Brasileiro,False,41,242130,2,0,4,0.691,0.408,0.0657,0.698,0.0374,0.325,0.351,153.984
+05ZVTnFGjDTnzQHMxK0Bir,https://open.spotify.com/track/05ZVTnFGjDTnzQHMxK0Bir,Please Don't Stop The Rain,James Morrison,"Songs For You, Truths For Me (International Exclusive Bundle)",False,50,234266,0,1,4,0.5,0.819,0.0729,0.0607,0,0.0709,0.679,160.125
+15QMLEPeA6dFzRcRMBSDyT,https://open.spotify.com/track/15QMLEPeA6dFzRcRMBSDyT,The Moon Song - Film Version,Scarlett Johansson,The Moon Song (Music from and Inspired by the Motion Picture Her),False,1,110920,0,1,4,0.626,0.0654,0.0405,0.994,0.000662,0.106,0.724,95.303
+6qoWO4ukE09xUP5OkifECv,https://open.spotify.com/track/6qoWO4ukE09xUP5OkifECv,Landscapes (Original),Moodprint,Landscapes Remix EP,False,18,276922,2,0,4,0.252,0.493,0.0506,0.641,8.54e-05,0.0909,0.0572,82.487
+3FtJLrlkXuWuvqI45ms9Fp,https://open.spotify.com/track/3FtJLrlkXuWuvqI45ms9Fp,Leap of Faith,YellowStraps,Whirlwind Romance,False,25,291100,7,1,4,0.528,0.398,0.0296,0.424,0.872,0.113,0.138,130.005
+4OYAbqimL3F4l533Y1HmE2,https://open.spotify.com/track/4OYAbqimL3F4l533Y1HmE2,Nights Up,YellowStraps,Blame,False,32,238293,0,1,4,0.47,0.506,0.137,0.746,0.13,0.356,0.299,179.434
+2J5qVC5iCgodbav4ZLTNSI,https://open.spotify.com/track/2J5qVC5iCgodbav4ZLTNSI,Blame,YellowStraps,Blame,False,37,295040,2,1,4,0.489,0.37,0.0424,0.506,0.0898,0.127,0.0816,107.534
+5maHVorfdeqeIJHqHaZCuc,https://open.spotify.com/track/5maHVorfdeqeIJHqHaZCuc,Rose - A COLORS SHOW,YellowStraps,Rose - A COLORS SHOW,False,41,229598,4,0,4,0.692,0.312,0.0937,0.544,0.000101,0.073,0.346,90.036
+2ioRGjGkS1KSgfwCW4h0Dy,https://open.spotify.com/track/2ioRGjGkS1KSgfwCW4h0Dy,Vagabundo não é fácil,Novos Baianos,Enciclopédia Musical Brasileira,False,32,305933,5,0,4,0.471,0.559,0.0604,0.568,0,0.106,0.802,175.087
+6mGtde5UqYrIVHFdap0sbn,https://open.spotify.com/track/6mGtde5UqYrIVHFdap0sbn,Brisa,5 a Seco,Síntese,False,29,219933,6,0,3,0.445,0.433,0.0336,0.357,3.26e-06,0.106,0.436,116.921
+2Yz1XU361N8n7dPkRRSydS,https://open.spotify.com/track/2Yz1XU361N8n7dPkRRSydS,North Pole,Injury Reserve,Drive It Like It's Stolen,False,48,260611,4,0,4,0.599,0.451,0.382,0.45,0,0.38,0.492,76.784
+4zpql89tpykmDxjjeG9rlA,https://open.spotify.com/track/4zpql89tpykmDxjjeG9rlA,Yo,Injury Reserve,Live from the Dentist Office,True,41,185680,9,1,4,0.596,0.649,0.345,0.0126,0,0.18,0.475,90.625
+6U8wLl0pMsgS1Lcql3nQjH,https://open.spotify.com/track/6U8wLl0pMsgS1Lcql3nQjH,Ttktv,Injury Reserve,Live from the Dentist Office,True,51,401933,6,0,4,0.63,0.449,0.252,0.814,0.575,0.106,0.0738,158.861
+2LKyVxah7M1HyYqSDaWFXE,https://open.spotify.com/track/2LKyVxah7M1HyYqSDaWFXE,Brastempp,Trombone de Frutas,"Chanti, Charango?",False,34,206213,4,1,4,0.515,0.355,0.0302,0.553,8.61e-05,0.25,0.299,112.716
+1gN9pDTha8rDiNzunN99Cd,https://open.spotify.com/track/1gN9pDTha8rDiNzunN99Cd,Maneiras e Maneiras,5 a Seco,Síntese,False,27,164640,6,0,4,0.795,0.635,0.0339,0.0083,1.44e-05,0.112,0.921,119.997
+6bvPoSZEoHJOALlKPF6sq1,https://open.spotify.com/track/6bvPoSZEoHJOALlKPF6sq1,Lua Cheia,5 a Seco,Síntese,False,35,218560,11,0,4,0.51,0.301,0.0343,0.426,0,0.111,0.638,154.178
+78TAL6H02gWraLWjvP9qPx,https://open.spotify.com/track/78TAL6H02gWraLWjvP9qPx,Ventos de Netuno,5 a Seco,Síntese,False,37,166200,9,1,4,0.609,0.677,0.0411,0.159,0.000181,0.115,0.55,90.111
+0hasnkYa7b4rDQqZjMmGyh,https://open.spotify.com/track/0hasnkYa7b4rDQqZjMmGyh,Em Paz,5 a Seco,Ao Vivo No Auditório Ibirapuera,False,43,224413,10,1,4,0.281,0.33,0.0324,0.836,7.1e-05,0.729,0.156,176.889
+2MJBTjDGNum1zpODeH3pum,https://open.spotify.com/track/2MJBTjDGNum1zpODeH3pum,HelGa.,Phony Ppl,Yesterday's Tomorrow,True,40,285093,2,1,4,0.653,0.526,0.0351,0.0148,0.276,0.174,0.395,85.019
+2x5Frs6ts14U4MSLrQQlXg,https://open.spotify.com/track/2x5Frs6ts14U4MSLrQQlXg,Why iii Love The Moon.,Phony Ppl,Yesterday's Tomorrow,False,63,331826,1,1,4,0.706,0.483,0.0393,0.547,1.94e-06,0.136,0.663,92.002
+3vZMkLS1jP7NdNhzqGfUSW,https://open.spotify.com/track/3vZMkLS1jP7NdNhzqGfUSW,Ben - Single Version,Michael Jackson,Ben,False,58,165160,5,1,4,0.464,0.132,0.0283,0.81,1.16e-05,0.0994,0.303,68.152
+6iyr0pAtw5qMO0rxefkp2i,https://open.spotify.com/track/6iyr0pAtw5qMO0rxefkp2i,My Girl,Michael Jackson,Ben,False,33,188760,8,1,4,0.729,0.587,0.0392,0.177,1.66e-05,0.115,0.837,105.586
+5FXD5Bh1yU573XSG2JZZQk,https://open.spotify.com/track/5FXD5Bh1yU573XSG2JZZQk,Kalmado,Kris Delano,Kalmado,True,53,210024,0,0,4,0.675,0.422,0.469,0.575,7.53e-06,0.121,0.726,175.996
+5sLGYJOhLP197nmkaRMMEH,https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH,Ngayong Gabi,Al James,Ngayong Gabi,False,60,267456,2,0,4,0.865,0.628,0.143,0.594,0,0.2,0.433,116.009
+6utl2puTMct2t0ntNnZc68,https://open.spotify.com/track/6utl2puTMct2t0ntNnZc68,"Honey, There's No Time",Feng Suave,Feng Suave,False,55,261021,9,1,4,0.614,0.398,0.0707,0.631,0.000758,0.115,0.563,127.973
+0DHRNZ26HFLPnmwDUjGB89,https://open.spotify.com/track/0DHRNZ26HFLPnmwDUjGB89,By the Poolside,Feng Suave,Feng Suave,False,46,217116,6,1,3,0.703,0.495,0.138,0.31,5.31e-06,0.0685,0.742,74.989
+4UCiDcv0yO9tNLZbkZeBBA,https://open.spotify.com/track/4UCiDcv0yO9tNLZbkZeBBA,Sink into the Floor,Feng Suave,Feng Suave,False,61,281054,10,0,4,0.566,0.394,0.0445,0.712,2.59e-05,0.156,0.6,78.948
+0ZvWdGaWqnPs99z1Xso8YG,https://open.spotify.com/track/0ZvWdGaWqnPs99z1Xso8YG,Noche Oscura,Feng Suave,Feng Suave,False,50,285632,11,0,4,0.52,0.21,0.0401,0.804,0.00547,0.123,0.29,132.178
+4t7oADdMTLo3Kj5asx1IL3,https://open.spotify.com/track/4t7oADdMTLo3Kj5asx1IL3,Candy Eyes,Jack Stauber,Pop Food,False,47,251569,0,1,4,0.733,0.353,0.0328,0.505,0.851,0.265,0.0362,87.993
+7D7GfQJaJlMZtNpB7XKwxe,https://open.spotify.com/track/7D7GfQJaJlMZtNpB7XKwxe,My Plea,Jack Stauber,Pop Food,False,52,176006,5,1,4,0.777,0.619,0.0625,0.496,7.56e-06,0.0959,0.902,90.029
+2mlGPkAx4kwF8Df0GlScsC,https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC,Buttercup,Jack Stauber,Pop Food,False,82,208026,7,1,4,0.705,0.373,0.0384,0.723,0.81,0.289,0.551,120.046
+4HDLmWf73mge8isanCASnU,https://open.spotify.com/track/4HDLmWf73mge8isanCASnU,Part III,Crumb,Jinx,False,56,222920,1,1,4,0.426,0.505,0.0292,0.197,0.856,0.236,0.172,116.033
+45PxuJqJBnPXZKLxoo9Apj,https://open.spotify.com/track/45PxuJqJBnPXZKLxoo9Apj,SUPERPOSITION,Daniel Caesar,CASE STUDY 01,True,65,263794,4,1,4,0.589,0.279,0.0408,0.911,0.000128,0.087,0.333,115.656
+0KeZ6mv7rL5wfF7TuxSUdk,https://open.spotify.com/track/0KeZ6mv7rL5wfF7TuxSUdk,Pahinga,Al James,Pahinga,True,57,223584,11,0,4,0.785,0.647,0.0785,0.722,5.03e-05,0.102,0.505,106.072
+3U8MbjNAP56IrzpbEFn1qN,https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN,Pa-umaga,Al James,Pa-umaga,False,60,189019,0,1,4,0.911,0.299,0.0752,0.17,0.00201,0.0952,0.565,130.038
+0wWXjFSlqdVMWVI7e3atWv,https://open.spotify.com/track/0wWXjFSlqdVMWVI7e3atWv,Geh ran,Trettmann,#DIY,False,49,325240,1,0,4,0.518,0.184,0.202,0.725,0.041,0.117,0.481,171.697
+1jxzCZRphA9XMgYJxWwrRn,https://open.spotify.com/track/1jxzCZRphA9XMgYJxWwrRn,Matalib - COLORS Sudan,Sammany Hajo,Matalib - COLORS Sudan,False,39,158896,11,0,4,0.643,0.229,0.215,0.762,3.13e-06,0.1,0.877,147.008
+5YRDGgdOshUPA17m7yzY7p,https://open.spotify.com/track/5YRDGgdOshUPA17m7yzY7p,"One more time, One more chance",Masayoshi Yamazaki,HOME,False,49,330200,11,0,4,0.55,0.408,0.0318,0.719,0,0.11,0.331,129.152
+5eM6Rrk8rwLpUhrh7Kk5R1,https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1,California,Joni Mitchell,Blue,False,65,230226,4,1,3,0.464,0.328,0.0407,0.905,0,0.135,0.784,70.859
+4iaGeV4WFvP2ynbqCIyTpS,https://open.spotify.com/track/4iaGeV4WFvP2ynbqCIyTpS,Mykonos,Fleet Foxes,First Collection 2006-2009,False,62,275306,11,1,4,0.3,0.452,0.0305,0.395,0.000818,0.137,0.342,82.988
+51QHQSU5C4WE7KqoqeNOCM,https://open.spotify.com/track/51QHQSU5C4WE7KqoqeNOCM,Blues Run the Game - 2001 Remaster,Jackson C. Frank,Jackson C. Frank (2001 Remastered Version),False,54,211986,1,1,4,0.374,0.121,0.0309,0.951,0.00349,0.102,0.413,166.212
+4K1imZQQ0yKtJ40vGmUajS,https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS,Girl from the North Country (with Johnny Cash),Bob Dylan,Nashville Skyline,False,65,220400,7,1,4,0.607,0.142,0.0382,0.843,0.000197,0.121,0.305,118.867
+13jJu9zoXOQnqiLaJsg41K,https://open.spotify.com/track/13jJu9zoXOQnqiLaJsg41K,Can't Take My Eyes Off You,Frankie Valli,Oldies 60's,False,52,203680,4,1,4,0.581,0.78,0.0567,0.508,1.07e-05,0.0799,0.561,123.711
+2W5UG7uGle3SlZiyzEGxls,https://open.spotify.com/track/2W5UG7uGle3SlZiyzEGxls,Sealed with a Kiss,Bobby Vinton,The Best Of Bobby Vinton,False,55,168866,5,0,4,0.431,0.379,0.0262,0.708,1.74e-05,0.181,0.665,86.172
+6vXZs9rEQF7Nd6O8Ue7NrT,https://open.spotify.com/track/6vXZs9rEQF7Nd6O8Ue7NrT,Are You Lonesome Tonight,Elvis Presley,"Elvis' Golden Records, Vol. 3",False,58,187026,7,1,3,0.355,0.0922,0.0515,0.918,0.000702,0.106,0.191,65.952
+0FD8KMG4pHp0O9clTpChjp,https://open.spotify.com/track/0FD8KMG4pHp0O9clTpChjp,I Say a Little Prayer,Aretha Franklin,Respect - The Very Best of,False,53,216773,9,1,4,0.59,0.355,0.0352,0.48,0,0.0585,0.499,133.03
+4GipxMgLhzh1cFW5U1HH6t,https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t,What the World Needs Now Is Love,Dionne Warwick,Close to You,False,50,190480,11,0,3,0.574,0.364,0.0365,0.915,9.98e-06,0.137,0.398,112.094
+70gfB8orjZFNqogQSv4oAE,https://open.spotify.com/track/70gfB8orjZFNqogQSv4oAE,It's a Long Way to Tipperary - 1914,John McCormack,Oh! It's A Lovely War (Vol. 1),False,33,197880,0,1,4,0.524,0.279,0.0969,0.995,0.000116,0.217,0.808,112.777
+3t2LXq933tnGcMUQrsOSqt,https://open.spotify.com/track/3t2LXq933tnGcMUQrsOSqt,Rumo Ao Infinito,Maria Rita,Coração A Batucar,False,40,272306,0,1,4,0.702,0.398,0.0742,0.462,3.69e-06,0.0954,0.637,158.184
+076YPf69AwXWL5ZB6hi3YE,https://open.spotify.com/track/076YPf69AwXWL5ZB6hi3YE,Num corpo só,Maria Rita,Samba Meu,False,44,238000,2,1,4,0.755,0.617,0.0637,0.691,2.52e-06,0.0748,0.685,103.908
+19KDsFyj6Nyxa9xLb29lOL,https://open.spotify.com/track/19KDsFyj6Nyxa9xLb29lOL,Encontros e despedidas,Maria Rita,Maria Rita,False,50,242333,1,1,4,0.412,0.313,0.0334,0.563,0,0.12,0.115,105.158
+5ua6ByZaOw4hlMP6i8Vjdz,https://open.spotify.com/track/5ua6ByZaOw4hlMP6i8Vjdz,Tá perdoado,Maria Rita,Samba Meu,False,54,227520,11,0,4,0.78,0.571,0.061,0.586,1.26e-05,0.0767,0.858,102.026
+1KlC2yGobg0mBMAIJ3OrX2,https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2,Cara valente,Maria Rita,Maria Rita,False,50,282293,2,1,4,0.738,0.56,0.0482,0.608,0.0045,0.126,0.645,157.946
+1xd17oTRJ5sFIHySHLnad9,https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9,Algo Parecido,Skank,Algo Parecido,False,63,225018,8,1,4,0.549,0.629,0.0267,0.527,0,0.13,0.613,167.881
+6JFmn1H069CltJZjEI050q,https://open.spotify.com/track/6JFmn1H069CltJZjEI050q,That's All I Need To Know,Sam Cooke,The 2 Sides Of Sam Cooke,False,23,142866,8,1,4,0.548,0.34,0.0326,0.776,0,0.102,0.726,82.65
+0BFEyqJ9DJXS7gKg0Kj46R,https://open.spotify.com/track/0BFEyqJ9DJXS7gKg0Kj46R,You Send Me,Sam Cooke,30 Greatest Hits: Portrait of a Legend 1951-1964,False,61,165560,4,0,4,0.553,0.291,0.0301,0.878,0,0.129,0.407,96.217
+7FAWkCCU1DRz87fsvtZLFg,https://open.spotify.com/track/7FAWkCCU1DRz87fsvtZLFg,Tournament Hill,TEMPOREX,Tournament Hill,False,50,113814,9,1,4,0.888,0.362,0.096,0.528,0,0.0891,0.855,97.01
+4FJzP6dMX4X7EAazhOTgey,https://open.spotify.com/track/4FJzP6dMX4X7EAazhOTgey,Ipanema,Still Woozy,Lately EP,False,15,127044,1,1,4,0.751,0.473,0.199,0.216,0.0774,0.267,0.868,147.437
+5H2WmzaijYOGTHeHdM3w9P,https://open.spotify.com/track/5H2WmzaijYOGTHeHdM3w9P,Nice Boys,TEMPOREX,Care,False,66,180845,2,1,4,0.546,0.669,0.103,0.495,0.735,0.25,0.337,75.144
+1b2ReMGta2fe6lEMpvU6eB,https://open.spotify.com/track/1b2ReMGta2fe6lEMpvU6eB,My Jinji,落日飛車 Sunset Rollercoaster,JINJI KIKKO,False,12,400560,7,1,4,0.389,0.597,0.0308,0.534,0.406,0.144,0.506,143.943
+3vq8hdYv9gh2rgR1zMwKTN,https://open.spotify.com/track/3vq8hdYv9gh2rgR1zMwKTN,Deeply,Matheus Who,Deeply,False,30,279614,6,0,4,0.541,0.493,0.029,0.178,0.217,0.109,0.84,188.083
+4IroNECciKcq3M2QtSTus7,https://open.spotify.com/track/4IroNECciKcq3M2QtSTus7,Playground,Steve Lacy,Apollo XXI,False,58,213797,7,1,4,0.482,0.788,0.0425,0.113,0.00437,0.344,0.854,191.776
+52uTp5TrlfPrtgiUdIhkbU,https://open.spotify.com/track/52uTp5TrlfPrtgiUdIhkbU,Sofia,Clairo,Sofia,False,54,188386,0,1,4,0.744,0.619,0.039,0.598,0.00372,0.231,0.641,112.997
+3xUoFmauSdcqntvnmc39XZ,https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ,Wiggle,binki,Wiggle,False,54,179908,8,0,4,0.753,0.461,0.0585,0.496,0.000372,0.116,0.897,103.919
+0T6wlcOJXh6Nw0jvxz89fL,https://open.spotify.com/track/0T6wlcOJXh6Nw0jvxz89fL,Avião,Lourena,Avião,False,48,241171,10,1,4,0.522,0.614,0.0456,0.25,0,0.158,0.298,58.105
+3uOxdAmQ6VMBsjtebp6YWk,https://open.spotify.com/track/3uOxdAmQ6VMBsjtebp6YWk,Espresso,SóCIRO,Cru,False,27,227285,9,1,4,0.723,0.15,0.0493,0.902,1.02e-06,0.121,0.342,124.093
+3Vc8vnid3noqupe9PvUKxP,https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP,Dizeres,Lourena,Dizeres,False,68,257645,10,1,4,0.832,0.484,0.189,0.665,1.02e-05,0.0822,0.83,142.111
+1XqnaJPGDFEytLEvYdJsS3,https://open.spotify.com/track/1XqnaJPGDFEytLEvYdJsS3,Dia Lindo,Terno Rei,Violeta,False,47,110346,6,1,4,0.634,0.384,0.0302,0.164,0,0.125,0.309,79.005
+503OjD3MWV3qFkKj769fte,https://open.spotify.com/track/503OjD3MWV3qFkKj769fte,Mistério Stereo,Curumin,Japan Pop Show,False,47,247946,2,0,4,0.78,0.616,0.0283,0.678,0.0326,0.104,0.803,112.052
+58g3mBBkB7zMgiypoBiaZq,https://open.spotify.com/track/58g3mBBkB7zMgiypoBiaZq,WalkAlone - Tearboy,Konai,WalkAlone (Tearboy),False,43,145084,1,0,4,0.636,0.337,0.0275,0.787,0.65,0.107,0.0999,114.922
+0m7belwSddHEXz2mjlWSGi,https://open.spotify.com/track/0m7belwSddHEXz2mjlWSGi,Pensando Bem,5 a Seco,Síntese,False,49,199906,9,1,4,0.615,0.438,0.0282,0.248,1.41e-05,0.108,0.251,122.878
+0Bxc8AQgyfeR7KrDsICanu,https://open.spotify.com/track/0Bxc8AQgyfeR7KrDsICanu,Egóico,Sagaz,Egóico,False,45,213367,1,0,4,0.717,0.316,0.188,0.651,0.027,0.105,0.338,84.697
+4Vm5bGHaHj6CWtaj7Cx73a,https://open.spotify.com/track/4Vm5bGHaHj6CWtaj7Cx73a,Dengo,ANAVITÓRIA,ANAVITÓRIA,False,58,236943,1,1,4,0.759,0.273,0.0348,0.831,0,0.118,0.399,122.001
+59ZID7biPsWrUYDDnhzUSB,https://open.spotify.com/track/59ZID7biPsWrUYDDnhzUSB,You Might Find Yours,Tom Rosenthal,You Might Find Yours,False,43,151028,7,1,4,0.478,0.454,0.0757,0.886,0.427,0.129,0.501,144.771
+2kA7lg8WsJz6AJrf6k9ZdW,https://open.spotify.com/track/2kA7lg8WsJz6AJrf6k9ZdW,It's Not Time to Relax,Club Soccer,It's Not Time to Relax,False,5,217525,7,1,4,0.564,0.475,0.0309,0.672,0.0423,0.132,0.646,144.013
+02RozCtDH478lix2senHvF,https://open.spotify.com/track/02RozCtDH478lix2senHvF,Belle Bouteille,LAUSSE THE CAT,"The Girl, the Cat and the Tree",True,49,231998,0,1,4,0.737,0.298,0.192,0.468,0.0165,0.12,0.232,90.026
+7nnz5nWr6iHtiEhH3a22HH,https://open.spotify.com/track/7nnz5nWr6iHtiEhH3a22HH,How Does It Feel?,Samm Henshaw,How Does It Feel?,False,56,190877,0,1,4,0.613,0.669,0.156,0.1,0,0.281,0.599,80.033
+0k7mBtJqwxudDYK38d6Bon,https://open.spotify.com/track/0k7mBtJqwxudDYK38d6Bon,De Tarde,Faustino Beats,De Tarde,False,36,228000,1,1,4,0.644,0.254,0.182,0.326,0.000137,0.104,0.536,79.911
+0Xe7rApy8hQUDLlT1IzY1T,https://open.spotify.com/track/0Xe7rApy8hQUDLlT1IzY1T,Closer,Alfa Mist,Nocturne,False,44,274687,7,1,4,0.727,0.392,0.166,0.463,0.0133,0.11,0.462,92.121
+5rYTMjVkGioNF4MpSQISlg,https://open.spotify.com/track/5rYTMjVkGioNF4MpSQISlg,Desoleil (Brilliant Corners),Loyle Carner,"Not Waving, But Drowning",True,57,220401,8,0,3,0.826,0.483,0.371,0.609,3.77e-05,0.145,0.116,131.883
+6ZTtdhd5TTorVWqvOsjmja,https://open.spotify.com/track/6ZTtdhd5TTorVWqvOsjmja,Mrs C,Loyle Carner,Yesterday's Gone,True,45,202306,4,1,1,0.613,0.575,0.276,0.886,0.00768,0.1,0.267,80.258
+3xaQiq1PpJfLO4KRly44BL,https://open.spotify.com/track/3xaQiq1PpJfLO4KRly44BL,OJPL,Easy Life,Frank,True,56,180533,4,1,5,0.369,0.789,0.465,0.802,0,0.253,0.273,71.169
+5wXZXabu8JyRGNHqgueUHm,https://open.spotify.com/track/5wXZXabu8JyRGNHqgueUHm,Ice Water,Loyle Carner,"Not Waving, But Drowning",True,58,209285,0,1,4,0.535,0.84,0.482,0.782,0.0134,0.294,0.702,89.368
+6dEe0H4vjEyy2ukczkB25o,https://open.spotify.com/track/6dEe0H4vjEyy2ukczkB25o,Loose Ends,Loyle Carner,"Not Waving, But Drowning",True,62,256198,11,0,4,0.79,0.675,0.319,0.166,1.36e-05,0.103,0.363,90.961
+4pjcxC0qgXWZWmcBjzn1az,https://open.spotify.com/track/4pjcxC0qgXWZWmcBjzn1az,Angel,Loyle Carner,"Not Waving, But Drowning",True,61,283225,11,0,4,0.801,0.601,0.203,0.147,0.011,0.108,0.282,96.998
+0CpicQmoNPV9W4efvVmeKJ,https://open.spotify.com/track/0CpicQmoNPV9W4efvVmeKJ,Onde está você,Tim Maia,iCollection,False,8,210200,0,1,4,0.59,0.585,0.0286,0.113,0,0.205,0.398,131.289
+5c12DVTlsyFbxmysLw0Vll,https://open.spotify.com/track/5c12DVTlsyFbxmysLw0Vll,Você,Tim Maia,Tim Maia 1971,False,52,244178,4,1,4,0.354,0.528,0.0418,0.242,1.3e-05,0.204,0.72,142.506
+0SfcG65T1KKCj5NQffpzQR,https://open.spotify.com/track/0SfcG65T1KKCj5NQffpzQR,Não Quero Dinheiro (Só Quero Amar),Tim Maia,Tim Maia 1971,False,53,153790,9,1,4,0.618,0.876,0.0389,0.4,0,0.19,0.967,138.783
+6vgKWE1KV4E7p1Dv75z0kL,https://open.spotify.com/track/6vgKWE1KV4E7p1Dv75z0kL,Azul Da Cor Do Mar,Tim Maia,Tim Maia 1970,False,56,198261,9,1,4,0.508,0.34,0.0384,0.0863,0.000325,0.262,0.396,125.519
+5flYFbJweqUHlQjle7uRlI,https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI,Que Beleza,Tim Maia,Que Beleza,False,56,208573,5,0,4,0.507,0.547,0.0416,0.314,0.458,0.0769,0.905,160.879
+3BpiaGyTIb7VIoAYbvSzTH,https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH,Réu Confesso,Tim Maia,Tim Maia 1973,False,58,217604,0,1,4,0.536,0.766,0.0522,0.0539,0.0051,0.292,0.758,87.893
+6eDMElxeeKXs4DHTb0dGP0,https://open.spotify.com/track/6eDMElxeeKXs4DHTb0dGP0,Gostava Tanto De Você,Tim Maia,Tim Maia 1973,False,59,256362,9,1,4,0.563,0.886,0.0993,0.0479,7.33e-05,0.0384,0.717,89.234
+1ykrnK2a98ycL7qNbcdtcY,https://open.spotify.com/track/1ykrnK2a98ycL7qNbcdtcY,Am wenigsten zu sagen,Von Wegen Lisbeth,sweetlilly93@hotmail.com,False,41,155466,0,1,4,0.766,0.272,0.0398,0.855,0.000169,0.29,0.733,113.128
+3yjQ3ScumLFTsXBMqS5qmJ,https://open.spotify.com/track/3yjQ3ScumLFTsXBMqS5qmJ,Junge,Haller,Junge,False,2,203210,7,1,4,0.781,0.347,0.0361,0.542,0.00272,0.153,0.544,81.998
+010n0JjUmgY1fjxIQAyo8p,https://open.spotify.com/track/010n0JjUmgY1fjxIQAyo8p,Bis zum Himmel,klangheimlich,Feldweg,False,1,360779,4,1,4,0.502,0.405,0.0294,0.718,0.0208,0.0896,0.053,123.138
+0CP3e2mHRa6TPSrmxyNQB1,https://open.spotify.com/track/0CP3e2mHRa6TPSrmxyNQB1,September,BRUCKNER,September,False,47,255053,7,1,4,0.793,0.503,0.0366,0.147,0.000139,0.18,0.42,121.975
+0yh9mW9n5TjegvEXo0jZdt,https://open.spotify.com/track/0yh9mW9n5TjegvEXo0jZdt,Ich will dich vermissen,Namika,Que Walou (Deluxe Edition),False,33,181800,4,0,4,0.639,0.234,0.0646,0.809,0.000149,0.364,0.325,66.908
+0gh56emaM8R2Muwb1GJl4z,https://open.spotify.com/track/0gh56emaM8R2Muwb1GJl4z,Glück,Bengio,Wunderschönes Chaos,False,39,210585,10,1,4,0.662,0.647,0.0305,0.515,2.51e-05,0.107,0.596,128.07
+3OEJnylQDDsOrYsgKM8ZHO,https://open.spotify.com/track/3OEJnylQDDsOrYsgKM8ZHO,Das Licht Dieser Welt,Gisbert Zu Knyphausen,Das Licht Dieser Welt,False,36,245530,2,1,4,0.598,0.206,0.0426,0.872,0.00022,0.107,0.297,131.427
+4Ca09Mf8V9lsU8zEhZizBA,https://open.spotify.com/track/4Ca09Mf8V9lsU8zEhZizBA,Liebe ist verbraucht,Xavi,Liebe ist verbraucht,False,39,216173,3,0,4,0.585,0.288,0.0817,0.446,0,0.104,0.502,98.16
+6X4cn36DnNt8G1Vh3syAFm,https://open.spotify.com/track/6X4cn36DnNt8G1Vh3syAFm,Preta,Orgânico,Preta,False,54,260243,2,0,4,0.563,0.692,0.0981,0.357,0,0.126,0.476,123.065
+5z389dy6N80WE9rSkfwDn0,https://open.spotify.com/track/5z389dy6N80WE9rSkfwDn0,Feels Like Home,Grace Kelly,Feels Like Home,False,52,267077,0,1,4,0.602,0.213,0.0296,0.871,0,0.107,0.238,97.974
+1lmcHmrnwCl21OcPRY3ZVb,https://open.spotify.com/track/1lmcHmrnwCl21OcPRY3ZVb,Asas,Luedji Luna,Um Corpo no Mundo,False,48,274840,9,1,3,0.644,0.258,0.033,0.941,0.0199,0.0937,0.354,93.818
+16eU7wtX9pv2RPtIoDHVeO,https://open.spotify.com/track/16eU7wtX9pv2RPtIoDHVeO,Acalanto,Luedji Luna,Um Corpo no Mundo,False,49,224466,7,1,4,0.731,0.342,0.0999,0.949,0.107,0.102,0.448,170.003
+2kEGhFlJxjVtXnIpudVLtI,https://open.spotify.com/track/2kEGhFlJxjVtXnIpudVLtI,Um Corpo no Mundo,Luedji Luna,Um Corpo no Mundo,False,48,385093,2,0,3,0.606,0.412,0.0521,0.863,0.0235,0.181,0.528,156.016
+2fhXxiuLeTO7TptXXQcg79,https://open.spotify.com/track/2fhXxiuLeTO7TptXXQcg79,Banho de Folhas,Luedji Luna,Um Corpo no Mundo,False,56,389253,6,0,4,0.825,0.447,0.0996,0.735,0.0834,0.126,0.718,116.015
+679bhkmbKtkLaBd9CfSQH8,https://open.spotify.com/track/679bhkmbKtkLaBd9CfSQH8,Sol Loiro,Armandinho,Sol Loiro,False,60,226973,5,1,4,0.387,0.662,0.0361,0.472,2.1e-06,0.116,0.718,87.992
+5yQW46XPWdGqkX2PyMegLD,https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD,Pescador,Armandinho,Casinha,False,56,179466,6,1,4,0.693,0.683,0.0442,0.186,0,0.13,0.742,152.287
+11h8rVb7ZQ21enNmHRraFj,https://open.spotify.com/track/11h8rVb7ZQ21enNmHRraFj,Outra Vida - Ao Vivo,Armandinho,Ao Vivo em Buenos Aires,False,59,293631,2,0,4,0.366,0.408,0.035,0.422,0,0.466,0.307,127.279
+57wAk7wxxgeadU1gkHlChd,https://open.spotify.com/track/57wAk7wxxgeadU1gkHlChd,Outra Noite Que Se Vai,Armandinho,Armandinho Ao Vivo,False,56,229600,7,1,4,0.642,0.806,0.0313,0.173,2.86e-06,0.776,0.415,95.031
+3ZrJLXe9SGYCBN6NVERREd,https://open.spotify.com/track/3ZrJLXe9SGYCBN6NVERREd,Sou Eu,Moacir Santos,Ouro Negro,False,19,180666,2,1,4,0.717,0.577,0.0396,0.795,0.0965,0.125,0.73,95.098
+5h68UTytwmTJDwoGbqLwzV,https://open.spotify.com/track/5h68UTytwmTJDwoGbqLwzV,Never Had The Balls,Rex Orange County,Pony,False,67,236893,5,1,4,0.691,0.68,0.0365,0.387,0.000276,0.0508,0.361,149.974
+4EWBhKf1fOFnyMtUzACXEc,https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc,Pluto Projector,Rex Orange County,Pony,False,70,267520,5,1,4,0.551,0.219,0.0285,0.707,0.000691,0.118,0.191,80.978
+3SxSrUogj4LpAkLKXeTtTQ,https://open.spotify.com/track/3SxSrUogj4LpAkLKXeTtTQ,Always,Rex Orange County,Pony,False,67,197333,1,1,4,0.669,0.374,0.0385,0.777,0,0.326,0.394,127.938
+4tVphly4D1PB8tJC9gHMcJ,https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ,10/10,Rex Orange County,Pony,True,66,146093,10,1,4,0.487,0.909,0.0994,0.302,2.91e-05,0.0781,0.293,187.829
+7uNUSxzFjPj9JQaZidFreW,https://open.spotify.com/track/7uNUSxzFjPj9JQaZidFreW,Stressed Out,Rex Orange County,Pony,False,62,105040,7,1,4,0.65,0.319,0.05,0.935,0,0.258,0.197,84.063
+0YdIIMb2MHuxoUudkAY9gS,https://open.spotify.com/track/0YdIIMb2MHuxoUudkAY9gS,Face To Face,Rex Orange County,Pony,False,69,219800,10,0,4,0.748,0.441,0.0622,0.592,0,0.176,0.44,124.107
+7vRia9rlEuTDQxkfXIKySi,https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi,It's Not The Same Anymore,Rex Orange County,Pony,False,64,386200,5,1,4,0.665,0.317,0.0327,0.874,3.8e-05,0.111,0.359,117.698
+4RKGnMypRvrDuxMPm26VUy,https://open.spotify.com/track/4RKGnMypRvrDuxMPm26VUy,Green Eyes,Yangsun,Green Eyes,False,18,146762,5,0,4,0.67,0.433,0.0293,0.832,0.0514,0.11,0.45,74.022
+3WtyhPBePReL7RtIySBDrj,https://open.spotify.com/track/3WtyhPBePReL7RtIySBDrj,Na Pele,Ferdi,Na Pele,False,8,279225,2,1,4,0.639,0.27,0.0276,0.588,0.00234,0.109,0.266,107.972
+0q2njjSdbANnl9JEGdWCox,https://open.spotify.com/track/0q2njjSdbANnl9JEGdWCox,Ponto e Vírgula,Ferdi,Ginga de Gigante,False,8,291040,7,0,3,0.587,0.481,0.0264,0.682,0,0.152,0.725,146.062

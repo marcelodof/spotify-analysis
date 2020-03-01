@@ -24,9 +24,13 @@ csv_headers = ["id",
                "url", 
                "name",
                "artist",
+               "album",
                "explicit",
                "popularity",
                "duration_ms",
+               "key",
+               "mode",
+               "time_signature",
                "danceability",
                "energy",
                "speechiness",
@@ -52,7 +56,7 @@ def main():
     spotify = spotipy.Spotify(auth=token)
 
     # Choose your playlist here
-    playlist = playlists_info[1]
+    playlist = playlists_info[0]
 
     write_playlist(playlist[0], playlist[1], playlist[2])
 
@@ -115,9 +119,13 @@ def write_csv(filename, tracks):
                                  track['external_urls']['spotify'],
                                  track['name'],
                                  track['artists'][0]['name'],
+                                 track['album']['name'],
                                  track['explicit'],
                                  track['popularity'],
                                  track['duration_ms'],
+                                 features[0]['key'],
+                                 features[0]['mode'],
+                                 features[0]['time_signature'],
                                  features[0]['danceability'],
                                  features[0]['energy'],
                                  features[0]['speechiness'],
