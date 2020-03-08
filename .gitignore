@@ -130,3 +130,9 @@ dmypy.json
 
 # VS Code
 .vscode
+
+# Secrets
+credentials.py
+
+# CSV
+csv
