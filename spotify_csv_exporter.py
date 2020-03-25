@@ -1,14 +1,8 @@
-'''
-Using Spotipy to make calls to the Spotify Web API. 
-Control variables - [All are either global or in main()]
-	* CLI_ID and CLI_KEY	(string)
-	* overwrite 			(boolean)
-	* mode 					(string)
-	* playlist 				(list of strings)
-'''
+'''Exports Playlists from Spotify to CSV.'''
 
 import spotipy
 import spotipy.oauth2 as oauth2
+import spotipy.util as util
 from credentials import get_credentials
 import random
 from pprint import pprint
@@ -38,6 +32,8 @@ csv_headers = ["id",
                ]
 # Whether you want to overwrite existing files or not
 OVERWRITE = True
+SCOPE = 'playlist-modify-public user-library-read'
+REDIRECT_URI = 'http://localhost:8888/callback'
 
 def format_name(name):
     temp = name.lower()
@@ -47,35 +43,38 @@ def format_name(name):
 class SpotifyPlaylist2CSV:
     """SpotifyPlaylist2CSV Class."""
     def __init__(self, config):
-        credentials = oauth2.SpotifyClientCredentials(
-            client_id = config['CLI_ID'], 
-            client_secret = config['CLI_KEY'])
-        token = credentials.get_access_token()
-        spotify = spotipy.Spotify(auth=token)
-        self.spotify = spotify
+        user = input('Input spotifys username: ')
+        self.user = user
+        credentials = get_credentials()
+        token = util.prompt_for_user_token(user,
+                                        SCOPE,
+                                        credentials['CLI_ID'],
+                                        credentials['CLI_KEY'],
+                                        REDIRECT_URI)
+        
+        self.spotify = spotipy.Spotify(auth=token)
     
     def choose_playlists(self):
         """Print info of user playlists and 
         let it choose which to print in CSV."""
-        user = input('Input spotifys username: ')
-        results = self.spotify.user_playlists(user)
+        results = self.spotify.user_playlists(self.user)
         playlists = []
         i = 1
-        print('\n')
+        print("\n0: {}'s saved tracks".format(self.user))
         for item in results['items']:
             new_item = {}
-            new_item['user'] = user
+            new_item['user'] = self.user
             new_item['id'] = item['id']
             new_item['name'] = format_name(item['name'])
             playlists.append(new_item)
             print('{}: {}'.format(i, new_item['name']))
             i = i + 1
 
-        print('\n')
-        index = input('Choose playlist: ')
-        print('\n')
-        self.playlist = playlists[int(index) - 1]
-
+        index = input('\nChoose playlist: ')
+        if index == '0':
+            self.playlist = {'name': 'saved_tracks'}
+        else:
+            self.playlist = playlists[int(index) - 1]
 
     
     def write_playlist(self):
@@ -84,9 +83,13 @@ class SpotifyPlaylist2CSV:
         Obtain the list of tracks from the playlist information data structure 
         and write it to a txt or csv file.
         '''
-        print("Writting playlist {} into csv.".format(self.playlist['name']))
-        playlist_info = self.spotify.user_playlist(self.playlist['user'], self.playlist['id'])
-        self.tracks = playlist_info['tracks']
+        if self.playlist['name'] == 'saved_tracks':
+            print("\nWritting saved tracks into csv.")
+            self.tracks = self.spotify.current_user_saved_tracks()
+        else:
+            print("\nWritting playlist {} into csv.".format(self.playlist['name']))
+            playlist_info = self.spotify.user_playlist(self.playlist['user'], self.playlist['id'])
+            self.tracks = playlist_info['tracks']
         self.write_csv()
         print("Number of tracks = {} ".format(self.tracks['total']))
 

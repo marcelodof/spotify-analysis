@@ -12,7 +12,7 @@ user_id = ''
 def authenticate():
 
     credentials = get_credentials()
-    SCOPE = 'playlist-modify-public'
+    SCOPE = 'playlist-modify-public user-library-read'
     REDIRECT_URI = 'http://localhost:8888/callback'
 
     token = util.prompt_for_user_token(user_id,
