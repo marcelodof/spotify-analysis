@@ -1,13 +1,12 @@
 import utils.playlist_manager as playlist_manager
+import time
 from credentials import get_credentials
+import pandas             as pd
 import spotipy            as spotipy
 import spotipy.oauth2     as oauth2
 import spotipy.util       as util
 
-tracks = []
-from_playlist = ''
-to_playlist = ''
-user_id = ''
+user_id = 'marcelodof'
 
 def authenticate():
 
@@ -24,10 +23,20 @@ def authenticate():
     return spotipy.Spotify(auth=token)
 
 def main():
-    spotify = authenticate()
 
-    playlist_manager.remove_tracks_from_playlist(spotify, user_id, tracks, from_playlist)
-    playlist_manager.add_tracks_in_playlist(spotify, user_id, tracks, to_playlist)
+    spotify = authenticate()
+    df = pd.read_csv('csv/cluster_zero_tracks.csv')
+    tracks = df['id'].tolist()
+
+    playlist_manager.create_playlist(
+        spotify,
+        user_id,
+        'pl4l1st g3n3r4t0r - Cluster 0',
+        True,
+        'Clusterization Method: KMeans - \
+            Playlist generated at {}'.format(time.strftime('%c')),
+        tracks
+    )
 
 if __name__ == "__main__":
 	main()

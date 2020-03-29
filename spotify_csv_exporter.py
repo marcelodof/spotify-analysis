@@ -32,7 +32,7 @@ csv_headers = ["id",
                ]
 # Whether you want to overwrite existing files or not
 OVERWRITE = True
-SCOPE = 'playlist-modify-public user-library-read'
+SCOPE = 'user-library-read'
 REDIRECT_URI = 'http://localhost:8888/callback'
 
 def format_name(name):
